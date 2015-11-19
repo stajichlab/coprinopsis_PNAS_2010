@@ -1,0 +1,181 @@
+
+R version 2.10.0 (2009-10-26)
+Copyright (C) 2009 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> ccin_all <-read.table("dup_pair.tab",header=T,sep="\t")
+> genomedist<-read.table("genome_pair_config.dat",header=T,sep="\t")
+> genomedist<-read.table("genome_pair_config.dat",header=F,sep="\t")
+> summary(genomedist)
+          V1                 V2                 V3      
+ CC1G_00004:    1   CC1G_00004:    1   HeadtoHead:3364  
+ CC1G_00007:    1   CC1G_00007:    1   HeadtoTail:6560  
+ CC1G_00011:    1   CC1G_00011:    1   TailtoTail:3362  
+ CC1G_00012:    1   CC1G_00012:    1                    
+ CC1G_00013:    1   CC1G_00013:    1                    
+ CC1G_00014:    1   CC1G_00014:    1                    
+ (Other)   :13280   (Other)   :13280                    
+> summary(ccin_all)
+        model1           model2         geneconfig          chrom    
+ CC1G_00025:  1   CC1G_00028:  1   HeadtoHead: 30   Ccin_Chr_4 : 81  
+ CC1G_00200:  1   CC1G_00030:  1   HeadtoTail:629   Ccin_Chr_2 : 77  
+ CC1G_00321:  1   CC1G_00201:  1   TailtoTail: 57   Ccin_Chr_1 : 75  
+ CC1G_00444:  1   CC1G_00322:  1                    Ccin_Chr_3 : 69  
+ CC1G_00498:  1   CC1G_00444:  1                    Ccin_Chr_10: 62  
+ CC1G_00518:  1   CC1G_00445:  1                    Ccin_Chr_9 : 58  
+ (Other)   :710   (Other)   :710                    (Other)    :294  
+  model1_start      model1_stop      model1_strand  model2_start    
+ Min.   :    183   Min.   :   1623   -:380         Min.   :   2900  
+ 1st Qu.: 553548   1st Qu.: 556096   +:336         1st Qu.: 556412  
+ Median :1316508   Median :1318816                 Median :1319078  
+ Mean   :1500829   Mean   :1502278                 Mean   :1503170  
+ 3rd Qu.:2376090   3rd Qu.:2377346                 3rd Qu.:2377585  
+ Max.   :4125330   Max.   :4127718                 Max.   :4127985  
+                                                                    
+   model2_end      model2_strand       ds                dn       
+ Min.   :   4076   -:353         Min.   :  0.000   Min.   :0.000  
+ 1st Qu.: 557778   +:363         1st Qu.:  1.270   1st Qu.:0.370  
+ Median :1321214                 Median :  1.975   Median :0.690  
+ Mean   :1504639                 Mean   :  2.066   Mean   :0.744  
+ 3rd Qu.:2379460                 3rd Qu.:  2.612   3rd Qu.:1.080  
+ Max.   :4130336                 Max.   : 26.730   Max.   :2.070  
+                                 NA's   :288.000                  
+      dsdn        
+ Min.   :  0.920  
+ 1st Qu.:  2.232  
+ Median :  3.310  
+ Mean   :  4.528  
+ 3rd Qu.:  4.915  
+ Max.   : 35.070  
+ NA's   :290.000  
+> ccin<- subset(ccin_all,ccin_all$ds < 2 & ccin_all$dn < 1)
+> summary(ccin)
+        model1           model2         geneconfig          chrom   
+ CC1G_00717:  1   CC1G_00718:  1   HeadtoHead:  4   Ccin_Chr_4 :27  
+ CC1G_00783:  1   CC1G_00784:  1   HeadtoTail:162   Ccin_Chr_1 :18  
+ CC1G_00902:  1   CC1G_00807:  1   TailtoTail: 21   Ccin_Chr_2 :18  
+ CC1G_01383:  1   CC1G_00903:  1                    Ccin_Chr_6 :18  
+ CC1G_01416:  1   CC1G_01384:  1                    Ccin_Chr_9 :17  
+ CC1G_01430:  1   CC1G_01417:  1                    Ccin_Chr_10:15  
+ (Other)   :181   (Other)   :181                    (Other)    :74  
+  model1_start      model1_stop      model1_strand  model2_start    
+ Min.   :    183   Min.   :   1623   -:109         Min.   :   2900  
+ 1st Qu.: 397136   1st Qu.: 398384   +: 78         1st Qu.: 399004  
+ Median :1167543   Median :1167935                 Median :1168387  
+ Mean   :1414040   Mean   :1415327                 Mean   :1416286  
+ 3rd Qu.:2196428   3rd Qu.:2197476                 3rd Qu.:2199140  
+ Max.   :4111278   Max.   :4112804                 Max.   :4113425  
+                                                                    
+   model2_end      model2_strand       ds              dn       
+ Min.   :   4076   -:92          Min.   :0.000   Min.   :0.000  
+ 1st Qu.: 400860   +:95          1st Qu.:0.760   1st Qu.:0.180  
+ Median :1168917                 Median :1.140   Median :0.310  
+ Mean   :1417588                 Mean   :1.144   Mean   :0.341  
+ 3rd Qu.:2201058                 3rd Qu.:1.575   3rd Qu.:0.475  
+ Max.   :4114892                 Max.   :1.980   Max.   :0.970  
+                                                                
+      dsdn       
+ Min.   : 1.050  
+ 1st Qu.: 2.430  
+ Median : 3.380  
+ Mean   : 4.914  
+ 3rd Qu.: 5.000  
+ Max.   :35.070  
+ NA's   : 2.000  
+> HH <- subset(ccin,ccin$geneconfig == "HeadtoHead")
+> HT <- subset(ccin,ccin$geneconfig == "HeadtoTail")
+> TT <- subset(ccin,ccin$geneconfig == "TailtoTail")
+> pdf("gene_pair_plots_conservative.pdf")
+> boxplot(HH$ds,HT$ds,TT$ds, names=c("HH","HT","TT"),main="dS")
+> boxplot(HH$dn,HT$dn,TT$dn, names=c("HH","HT","TT"),main="dN")
+> boxplot(HH$dsdn,HT$dsdn,TT$dsdn, names=c("HH","HT","TT"),main="dN/dS")
+> 
+> ccin<- subset(ccin_all,ccin_all$ds < 4)
+> summary(ccin)
+        model1           model2         geneconfig          chrom    
+ CC1G_00025:  1   CC1G_00028:  1   HeadtoHead: 14   Ccin_Chr_4 : 49  
+ CC1G_00647:  1   CC1G_00030:  1   HeadtoTail:366   Ccin_Chr_2 : 43  
+ CC1G_00713:  1   CC1G_00444:  1   TailtoTail: 30   Ccin_Chr_9 : 41  
+ CC1G_00717:  1   CC1G_00648:  1                    Ccin_Chr_1 : 40  
+ CC1G_00783:  1   CC1G_00714:  1                    Ccin_Chr_3 : 36  
+ CC1G_00902:  1   CC1G_00718:  1                    Ccin_Chr_10: 34  
+ (Other)   :404   (Other)   :404                    (Other)    :167  
+  model1_start      model1_stop      model1_strand  model2_start    
+ Min.   :    183   Min.   :   1623   -:218         Min.   :   2900  
+ 1st Qu.: 506818   1st Qu.: 508502   +:192         1st Qu.: 509040  
+ Median :1202666   Median :1204188                 Median :1204410  
+ Mean   :1453362   Mean   :1454739                 Mean   :1455538  
+ 3rd Qu.:2322664   3rd Qu.:2324200                 3rd Qu.:2324821  
+ Max.   :4117241   Max.   :4119370                 Max.   :4119958  
+                                                                    
+   model2_end      model2_strand       ds              dn        
+ Min.   :   4076   -:202         Min.   :0.000   Min.   :0.0000  
+ 1st Qu.: 512574   +:208         1st Qu.:1.230   1st Qu.:0.3000  
+ Median :1205210                 Median :1.930   Median :0.5300  
+ Mean   :1456902                 Mean   :1.900   Mean   :0.6456  
+ 3rd Qu.:2326092                 3rd Qu.:2.467   3rd Qu.:0.9575  
+ Max.   :4121495                 Max.   :3.910   Max.   :2.0500  
+                                                                 
+      dsdn       
+ Min.   : 0.920  
+ 1st Qu.: 2.200  
+ Median : 3.280  
+ Mean   : 4.391  
+ 3rd Qu.: 4.825  
+ Max.   :35.070  
+ NA's   : 2.000  
+> HH <- subset(ccin,ccin$geneconfig == "HeadtoHead")
+> HT <- subset(ccin,ccin$geneconfig == "HeadtoTail")
+> TT <- subset(ccin,ccin$geneconfig == "TailtoTail")
+> pdf("gene_pair_plots.pdf")
+> boxplot(HH$ds,HT$ds,TT$ds, names=c("HH","HT","TT"),main="dS")
+> boxplot(HH$dn,HT$dn,TT$dn, names=c("HH","HT","TT"),main="dN")
+> boxplot(HH$dsdn,HT$dsdn,TT$dsdn, names=c("HH","HT","TT"),main="dN/dS")
+> 
+> ks.test(HH$ds,HT$ds)
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  HH$ds and HT$ds 
+D = 0.176, p-value = 0.7975
+alternative hypothesis: two-sided 
+
+> ks.test(HH$ds,TT$ds)
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  HH$ds and TT$ds 
+D = 0.4476, p-value = 0.04363
+alternative hypothesis: two-sided 
+
+> ks.test(HH$dn,HT$dn)
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  HH$dn and HT$dn 
+D = 0.3708, p-value = 0.04905
+alternative hypothesis: two-sided 
+
+> ks.test(HH$dn,TT$dn)
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  HH$dn and TT$dn 
+D = 0.4571, p-value = 0.03701
+alternative hypothesis: two-sided 
+
+> 

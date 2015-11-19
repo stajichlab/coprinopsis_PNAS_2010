@@ -1,0 +1,51 @@
+==================================================
+file name: Coprinus_cinereus_2_contigs.fasta
+sequences:            94
+total length:   36294355 bp  (36294355 bp excl N/X-runs)
+GC level:         51.67 %
+bases masked:    2517574 bp ( 6.94 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:         0            0 bp    0.00 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      5105      2394845 bp    6.60 %
+
+Total interspersed repeats:  2394845 bp    6.60 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:    2373       148271 bp    0.41 %
+Low complexity:     115         2733 bp    0.01 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker version open-3.2.7 , sensitive mode
+                                 
+run with blastp version 2.0MP-WashU
+The query was compared to unclassified sequences in "ccin.filter1.lib"
+RepBase Update 20090120, RM database version 20090120

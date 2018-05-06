@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05218	Chr_11	758804	760744	Transp_cyt_pur	1
+CC1G_05220	Chr_11	763954	765797	Transp_cyt_pur	1
+CC1G_15204	Chr_9	1944060	1945963	Transp_cyt_pur	1

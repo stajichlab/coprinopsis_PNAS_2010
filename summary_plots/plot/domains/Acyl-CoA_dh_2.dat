@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00014	Chr_5	901584	903181	Acyl-CoA_dh_2	1
+CC1G_00086	Chr_5	1076303	1078307	Acyl-CoA_dh_2	1
+CC1G_01087	Chr_2	916596	918280	Acyl-CoA_dh_2	1
+CC1G_09349	Chr_3	1310722	1312686	Acyl-CoA_dh_2	1
+CC1G_11707	Chr_8	1176514	1178706	Acyl-CoA_dh_2	1

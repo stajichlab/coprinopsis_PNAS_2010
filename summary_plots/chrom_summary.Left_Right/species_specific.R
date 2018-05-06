@@ -1,0 +1,5 @@
+species_specificleft <- read.table("species_specific_left.dat",header=T)
+species_specificright <- read.table("species_specific_right.dat",header=T)
+species_specificctr <- read.table("species_specific_center.dat",header=T)
+pdf("species_specific.pdf")
+boxplot(species_specificleft$TOTAL,species_specificctr$TOTAL,species_specificright$TOTAL,main="species_specific Density BoxPlot", outline=FALSE, names=c("Left","Center","Right"))

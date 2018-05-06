@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02990	Chr_8	1481540	1482341	ATP-synt_C	2
+CC1G_03231	Chr_3	2620361	2621380	ATP-synt_C	2
+CC1G_03431	Chr_8	806805	807742	ATP-synt_C	2

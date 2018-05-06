@@ -1,0 +1,13 @@
+perl -i -p -e 's/Chr_1 /Chromosome I /' genome.fa
+perl -i -p -e 's/Chr_2 /Chromosome II /' genome.fa 
+perl -i -p -e 's/Chr_3/Chromosome III /' genome.fa
+perl -i -p -e 's/Chr_4 /Chromosome IV /' genome.fa
+perl -i -p -e 's/Chr_5 /Chromosome V /' genome.fa
+perl -i -p -e 's/Chr_6 /Chromosome VI /' genome.fa
+perl -i -p -e 's/Chr_7 /Chromosome VII /' genome.fa
+perl -i -p -e 's/Chr_8 /Chromosome VIII /' genome.fa
+perl -i -p -e 's/Chr_9 /Chromosome IX /' genome.fa
+perl -i -p -e 's/Chr_10 /Chromosome X /' genome.fa
+perl -i -p -e 's/Chr_11 /Chromosome XI /' genome.fa
+perl -i -p -e 's/Chr_12 /Chromosome XII /' genome.fa
+perl -i -p -e 's/Chr_13 /Chromosome XIII /' genome.fa

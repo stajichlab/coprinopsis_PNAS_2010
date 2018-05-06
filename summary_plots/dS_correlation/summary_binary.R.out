@@ -1,0 +1,58 @@
+
+R version 2.10.0 (2009-10-26)
+Copyright (C) 2009 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> cold = read.table("dS_COLD.tab",header=F);
+> notcold= read.table("dS_NOTCOLD.tab",header=F);
+> cold = subset(cold$V1,cold$V1 < 3 & cold$V1 > 0)
+> notcold= subset(notcold$V1,notcold$V1 < 3 & notcold$V1 > 0)
+> 
+> pdf("dS_correlation_boxplot_notcold.pdf")
+> 
+> boxplot(cold,notcold,main="Paralog dS comparison among recombination", outline=FALSE, names=c("COLD","NOT-COLD"))
+> pdf("dS_correlation_histogram_notcold.pdf")
+> hist(cold,100);
+> hist(notcold,100);
+> summary(cold)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.130   1.810   2.120   2.084   2.420   2.990 
+> summary(notcold)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.020   1.620   1.950   1.924   2.250   2.950 
+> ks.test(cold,notcold)
+
+	Two-sample Kolmogorov-Smirnov test
+
+data:  cold and notcold 
+D = 0.1524, p-value = 3.852e-14
+alternative hypothesis: two-sided 
+
+> t.test(cold,notcold)
+
+	Welch Two Sample t-test
+
+data:  cold and notcold 
+t = 8.9562, df = 2344.259, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0 
+95 percent confidence interval:
+ 0.1252706 0.1955052 
+sample estimates:
+mean of x mean of y 
+ 2.084144  1.923756 
+
+> 

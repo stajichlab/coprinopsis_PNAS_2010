@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00436	Chr_5	1896029	1899361	FAD_binding_1	1
+CC1G_15012	Chr_8	1356145	1358582	FAD_binding_1	1
+CC1G_15290	Chr_10	956784	959121	FAD_binding_1	1

@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_07572	Chr_4	2514575	2516067	Ribosomal_60s	1
+CC1G_11569	Chr_7	1956722	1957473	Ribosomal_60s	1
+CC1G_11842	Chr_6	98064	101667	Ribosomal_60s	1

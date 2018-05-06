@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03395	Chr_8	711092	714545	Cofilin_ADF	1
+CC1G_05083	Chr_2	1808238	1809534	Cofilin_ADF	1
+CC1G_11062	Chr_9	1559487	1560605	Cofilin_ADF	1
+CC1G_14798	Chr_7	864863	867687	Cofilin_ADF	1

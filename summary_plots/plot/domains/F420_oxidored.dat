@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_11442	Chr_6	812996	814287	F420_oxidored	1
+CC1G_11521	Chr_2	2643503	2644757	F420_oxidored	1
+CC1G_13723	Chr_1	2921007	2922525	F420_oxidored	1
+CC1G_15508	Chr_6	213190	214880	F420_oxidored	1

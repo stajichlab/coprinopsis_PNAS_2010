@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05622	Chr_13	198716	199725	Sterol_MT_C	1
+CC1G_06149	Chr_2	3135085	3136403	Sterol_MT_C	1
+CC1G_07728	Chr_9	1291065	1292334	Sterol_MT_C	1

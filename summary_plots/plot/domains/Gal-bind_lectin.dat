@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00723	Chr_1	3713766	3714257	Gal-bind_lectin	1
+CC1G_05003	Chr_8	1786497	1786946	Gal-bind_lectin	1
+CC1G_05005	Chr_8	1788317	1788766	Gal-bind_lectin	1

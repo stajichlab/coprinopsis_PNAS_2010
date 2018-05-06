@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05377	Chr_8	161208	166766	Ketoacyl-synt_C	1
+CC1G_05873	Chr_12	406259	413214	Ketoacyl-synt_C	1
+CC1G_07064	Chr_4	2304613	2317400	Ketoacyl-synt_C	1

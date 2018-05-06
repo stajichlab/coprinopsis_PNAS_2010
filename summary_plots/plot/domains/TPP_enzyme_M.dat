@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03083	Chr_8	2212792	2215235	TPP_enzyme_M	1
+CC1G_03453	Chr_8	861588	864077	TPP_enzyme_M	1
+CC1G_10573	Chr_2	567050	569321	TPP_enzyme_M	1
+CC1G_10577	Chr_2	582431	584674	TPP_enzyme_M	1

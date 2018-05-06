@@ -1,0 +1,5 @@
+genesleft <- read.table("genes_left.dat",header=T)
+genesright <- read.table("genes_right.dat",header=T)
+genesctr <- read.table("genes_center.dat",header=T)
+pdf("genes.pdf")
+boxplot(genesleft$TOTAL,genesctr$TOTAL,genesright$TOTAL,main="genes Density BoxPlot", outline=FALSE, names=c("Left","Center","Right"))

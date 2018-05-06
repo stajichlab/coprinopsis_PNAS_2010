@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01598	Chr_10	435639	436892	Methyltransf_4	1
+CC1G_06580	Chr_1	2874134	2875786	Methyltransf_4	1
+CC1G_13503	U423	1087	1998	Methyltransf_4	1

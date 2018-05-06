@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00523	Chr_1	3138751	3140669	Cation_efflux	1
+CC1G_00879	Chr_7	1317622	1319461	Cation_efflux	1
+CC1G_06768	Chr_1	1771982	1774022	Cation_efflux	1
+CC1G_06839	Chr_3	2321080	2322441	Cation_efflux	1
+CC1G_07549	Chr_6	1516902	1520066	Cation_efflux	1
+CC1G_14848	Chr_7	1738813	1741024	Cation_efflux	1

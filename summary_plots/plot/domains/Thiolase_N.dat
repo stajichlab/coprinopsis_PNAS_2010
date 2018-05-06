@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06261	Chr_4	1660391	1662154	Thiolase_N	1
+CC1G_12895	Chr_7	2940626	2942032	Thiolase_N	1
+CC1G_13192	Chr_1	1116503	1118427	Thiolase_N	1
+CC1G_13647	Chr_1	1709319	1710994	Thiolase_N	1
+CC1G_14616	Chr_5	1408519	1411105	Thiolase_N	1

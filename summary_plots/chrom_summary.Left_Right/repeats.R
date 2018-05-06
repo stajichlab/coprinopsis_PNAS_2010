@@ -1,0 +1,5 @@
+repeatsleft <- read.table("repeats_left.dat",header=T)
+repeatsright <- read.table("repeats_right.dat",header=T)
+repeatsctr <- read.table("repeats_center.dat",header=T)
+pdf("repeats.pdf")
+boxplot(repeatsleft$TOTAL,repeatsctr$TOTAL,repeatsright$TOTAL,main="repeats Density BoxPlot", outline=FALSE, names=c("Left","Center","Right"))

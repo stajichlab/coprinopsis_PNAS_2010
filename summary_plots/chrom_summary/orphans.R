@@ -1,0 +1,5 @@
+orphansarms <- read.table("orphans_arms.dat",header=T)
+orphansctr <- read.table("orphans_center.dat",header=T)
+pdf("orphans.pdf")
+boxplot(orphansarms$TOTAL,orphansctr$TOTAL,main="orphans Density BoxPlot", outline=FALSE, names=c("Arms","Center"))
+ks.test(orphansarms$TOTAL,orphansctr$TOTAL)

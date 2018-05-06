@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00657	Chr_1	3498567	3501140	Alpha_kinase	1
+CC1G_07428	Chr_9	415069	417570	Alpha_kinase	1
+CC1G_08873	Chr_5	2987514	2990050	Alpha_kinase	1
+CC1G_11146	Chr_3	458969	460840	Alpha_kinase	1
+CC1G_12594	Chr_11	588739	591148	Alpha_kinase	1
+CC1G_14302	Chr_3	3478926	3481363	Alpha_kinase	1

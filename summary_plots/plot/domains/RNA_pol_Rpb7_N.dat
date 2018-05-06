@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_04529	Chr_3	1062335	1063131	RNA_pol_Rpb7_N	1
+CC1G_06815	Chr_3	2268684	2269876	RNA_pol_Rpb7_N	1
+CC1G_10436	Chr_7	402836	403670	RNA_pol_Rpb7_N	1

@@ -1,0 +1,9 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00702	Chr_1	3638906	3639588	Fasciclin	1
+CC1G_01742	Chr_1	2434479	2439144	Fasciclin	5
+CC1G_03339	Chr_8	553287	554542	Fasciclin	2
+CC1G_05192	Chr_2	2088069	2089971	Fasciclin	2
+CC1G_05838	Chr_12	307681	309806	Fasciclin	1
+CC1G_05847	Chr_12	332724	334361	Fasciclin	2
+CC1G_15380	Chr_12	245989	247772	Fasciclin	2
+CC1G_15759	Chr_13	46158	55002	Fasciclin	2

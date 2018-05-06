@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03784	Chr_2	2245366	2248636	Glyco_hydro_3	1
+CC1G_04900	Chr_2	3581485	3584735	Glyco_hydro_3	1
+CC1G_08721	Chr_10	901813	905139	Glyco_hydro_3	1
+CC1G_08724	Chr_10	908510	912298	Glyco_hydro_3	1
+CC1G_09146	Chr_2	2769053	2772322	Glyco_hydro_3	1
+CC1G_13671	Chr_1	2064877	2068946	Glyco_hydro_3	1
+CC1G_14674	Chr_5	2171727	2175242	Glyco_hydro_3	1

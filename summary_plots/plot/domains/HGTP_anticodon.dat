@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05260	Chr_11	880923	883436	HGTP_anticodon	1
+CC1G_11478	Chr_12	1069597	1072006	HGTP_anticodon	1
+CC1G_12107	Chr_6	215171	217698	HGTP_anticodon	1
+CC1G_13798	Chr_1	3979644	3982064	HGTP_anticodon	1
+CC1G_15417	Chr_12	991083	995171	HGTP_anticodon	1

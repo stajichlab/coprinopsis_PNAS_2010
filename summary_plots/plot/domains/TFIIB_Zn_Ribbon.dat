@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03907	Chr_2	2536477	2538504	TFIIB_Zn_Ribbon	1
+CC1G_04740	Chr_13	651600	652702	TFIIB_Zn_Ribbon	1
+CC1G_05568	Chr_13	60076	64290	TFIIB_Zn_Ribbon	1
+CC1G_14689	Chr_5	2469744	2470848	TFIIB_Zn_Ribbon	1

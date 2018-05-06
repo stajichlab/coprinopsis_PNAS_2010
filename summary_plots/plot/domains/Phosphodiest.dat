@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02726	Chr_4	530877	533849	Phosphodiest	1
+CC1G_10660	Chr_5	2837815	2841555	Phosphodiest	1
+CC1G_11697	Chr_8	1156368	1158444	Phosphodiest	1

@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00368	Chr_5	1731272	1732663	Transketolase_C	1
+CC1G_01195	Chr_2	1173219	1174883	Transketolase_C	1
+CC1G_03857	Chr_2	2417917	2420746	Transketolase_C	1

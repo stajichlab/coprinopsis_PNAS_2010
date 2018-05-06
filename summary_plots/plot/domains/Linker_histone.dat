@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03810	Chr_2	2308128	2309367	Linker_histone	1
+CC1G_03813	Chr_2	2312263	2313521	Linker_histone	1
+CC1G_11516	Chr_2	2633193	2635134	Linker_histone	1
+CC1G_13972	Chr_2	2543226	2544409	Linker_histone	1

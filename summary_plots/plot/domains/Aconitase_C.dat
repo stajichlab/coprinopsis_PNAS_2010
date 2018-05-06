@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00469	Chr_5	1978420	1981137	Aconitase_C	1
+CC1G_10805	Chr_12	952369	955220	Aconitase_C	1
+CC1G_13670	Chr_1	2061378	2064693	Aconitase_C	1
+CC1G_14391	Chr_4	1778683	1782170	Aconitase_C	1

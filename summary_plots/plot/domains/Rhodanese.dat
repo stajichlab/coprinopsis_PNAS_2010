@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00775	Chr_7	996592	1000566	Rhodanese	1
+CC1G_02170	Chr_10	1835153	1836352	Rhodanese	1
+CC1G_03913	Chr_2	2549807	2552185	Rhodanese	1
+CC1G_08627	Chr_1	990867	991539	Rhodanese	1
+CC1G_08652	Chr_1	1091052	1092301	Rhodanese	2
+CC1G_10923	Chr_4	1570637	1572144	Rhodanese	1

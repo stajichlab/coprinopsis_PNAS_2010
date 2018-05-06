@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03890	Chr_2	2484398	2486984	Catalase-rel	1
+CC1G_05908	Chr_7	2616189	2618176	Catalase-rel	1
+CC1G_09926	Chr_12	1245674	1248058	Catalase-rel	1
+CC1G_11919	Chr_9	2366848	2368853	Catalase-rel	1

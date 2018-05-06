@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02710	Chr_4	473734	475635	Rieske	1
+CC1G_10506	Chr_1	1439127	1440084	Rieske	1
+CC1G_12977	Chr_4	2169879	2172291	Rieske	1

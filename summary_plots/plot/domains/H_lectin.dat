@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03185	Chr_8	2494197	2495622	H_lectin	2
+CC1G_09293	Chr_3	3593842	3595275	H_lectin	2
+CC1G_15747	Chr_11	1851713	1853335	H_lectin	3

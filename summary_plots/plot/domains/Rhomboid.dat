@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00103	Chr_5	1117658	1118663	Rhomboid	1
+CC1G_05750	Chr_7	2255916	2257498	Rhomboid	1
+CC1G_10517	Chr_1	1464440	1466591	Rhomboid	1

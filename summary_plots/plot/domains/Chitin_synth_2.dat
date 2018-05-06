@@ -1,0 +1,10 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00272	Chr_5	1470396	1473676	Chitin_synth_2	1
+CC1G_00631	Chr_1	3428869	3433359	Chitin_synth_2	1
+CC1G_03095	Chr_8	2245047	2248402	Chitin_synth_2	1
+CC1G_04496	Chr_3	971095	975004	Chitin_synth_2	1
+CC1G_05866	Chr_12	378464	381385	Chitin_synth_2	1
+CC1G_06628	Chr_1	2991280	2994748	Chitin_synth_2	1
+CC1G_07400	Chr_3	2094050	2097659	Chitin_synth_2	1
+CC1G_10992	Chr_5	3325020	3332622	Chitin_synth_2	1
+CC1G_11270	Chr_6	1580994	1588050	Chitin_synth_2	1

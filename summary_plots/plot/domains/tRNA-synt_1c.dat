@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01078	Chr_2	899022	901707	tRNA-synt_1c	1
+CC1G_01376	Chr_5	2301475	2304229	tRNA-synt_1c	1
+CC1G_02878	Chr_1	463336	465333	tRNA-synt_1c	1

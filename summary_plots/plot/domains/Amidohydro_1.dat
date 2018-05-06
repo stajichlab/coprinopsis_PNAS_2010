@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01018	Chr_2	737558	739362	Amidohydro_1	1
+CC1G_01366	Chr_5	2279248	2283196	Amidohydro_1	1
+CC1G_01933	Chr_3	1609480	1613046	Amidohydro_1	1
+CC1G_04548	Chr_3	1111132	1114793	Amidohydro_1	1
+CC1G_06842	Chr_3	2328945	2330611	Amidohydro_1	1
+CC1G_10059	Chr_4	2724291	2727482	Amidohydro_1	1
+CC1G_10835	Chr_2	2723012	2726933	Amidohydro_1	1

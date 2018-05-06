@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_04844	Chr_2	3440188	3442228	5_nucleotid_C	1
+CC1G_05151	Chr_2	1989769	1992337	5_nucleotid_C	1
+CC1G_09018	Chr_7	1729401	1732105	5_nucleotid_C	1
+CC1G_11855	Chr_6	128484	131180	5_nucleotid_C	1

@@ -1,0 +1,5 @@
+orthologscold <- read.table("orthologs_cold.dat",header=T)
+orthologshot <- read.table("orthologs_hot.dat",header=T)
+pdf("coldhot_orthologs.pdf")
+boxplot(orthologscold$TOTAL,orthologshot$TOTAL,main="orthologs Cold-Hot Density BoxPlot", outline=FALSE, names=c("Cold","Hot"))
+ks.test(orthologscold$TOTAL,orthologshot$TOTAL)

@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00418	Chr_5	1848079	1849575	Pex2_Pex12	1
+CC1G_01320	Chr_5	2151860	2157427	Pex2_Pex12	1
+CC1G_13676	Chr_1	2180416	2181644	Pex2_Pex12	1

@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_04639	Chr_3	684210	685244	TP_methylase	1
+CC1G_10103	Chr_1	3806884	3808766	TP_methylase	1

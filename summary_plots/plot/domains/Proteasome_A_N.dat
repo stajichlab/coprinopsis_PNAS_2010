@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00621	Chr_1	3396671	3397738	Proteasome_A_N	1
+CC1G_01276	Chr_5	2052962	2054019	Proteasome_A_N	1
+CC1G_02270	Chr_3	2972662	2973865	Proteasome_A_N	1
+CC1G_05167	Chr_2	2031262	2032490	Proteasome_A_N	1
+CC1G_11380	Chr_5	856493	857711	Proteasome_A_N	1
+CC1G_14591	Chr_5	1175353	1180429	Proteasome_A_N	1

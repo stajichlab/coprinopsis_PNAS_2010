@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03861	Chr_2	2428345	2431056	Sulfate_transp	1
+CC1G_04736	Chr_13	642779	645529	Sulfate_transp	1
+CC1G_07992	Chr_13	525040	530153	Sulfate_transp	1
+CC1G_08138	Chr_5	2623269	2626215	Sulfate_transp	1

@@ -1,0 +1,12 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00178	Chr_5	1269655	1275198	Exo_endo_phos	1
+CC1G_01120	Chr_2	1002409	1003954	Exo_endo_phos	1
+CC1G_01133	Chr_2	1025077	1026454	Exo_endo_phos	1
+CC1G_02282	Chr_3	3010491	3012806	Exo_endo_phos	1
+CC1G_03442	Chr_8	839612	841867	Exo_endo_phos	1
+CC1G_05939	Chr_7	2722813	2724844	Exo_endo_phos	1
+CC1G_06593	Chr_1	2901423	2902915	Exo_endo_phos	1
+CC1G_06782	Chr_1	1800300	1802034	Exo_endo_phos	1
+CC1G_07086	Chr_4	2377531	2378628	Exo_endo_phos	1
+CC1G_07596	Chr_4	2578636	2581879	Exo_endo_phos	1
+CC1G_11096	Chr_5	456811	460696	Exo_endo_phos	1

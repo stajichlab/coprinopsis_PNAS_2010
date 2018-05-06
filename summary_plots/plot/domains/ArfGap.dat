@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01331	Chr_5	2195129	2196611	ArfGap	1
+CC1G_03071	Chr_8	2186019	2187823	ArfGap	1
+CC1G_10312	Chr_6	1047519	1049241	ArfGap	1
+CC1G_11226	Chr_1	1273223	1274590	ArfGap	1

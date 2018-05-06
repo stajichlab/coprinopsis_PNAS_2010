@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01985	Chr_3	1754432	1757389	DNA_ligase_A_N	1
+CC1G_11289	Chr_1	1578416	1581701	DNA_ligase_A_N	1
+CC1G_14831	Chr_7	1409623	1414010	DNA_ligase_A_N	1

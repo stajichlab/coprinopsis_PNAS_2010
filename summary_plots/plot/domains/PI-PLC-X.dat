@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_07213	Chr_6	1981859	1985416	PI-PLC-X	1
+CC1G_07975	Chr_13	483543	485809	PI-PLC-X	1
+CC1G_09463	Chr_6	1706480	1710113	PI-PLC-X	1

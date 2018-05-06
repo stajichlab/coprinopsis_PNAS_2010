@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03587	Chr_9	1897893	1900216	Terpene_synth_C	1
+CC1G_06441	Chr_4	2152436	2153690	Terpene_synth_C	1
+CC1G_09421	Chr_10	680983	682199	Terpene_synth_C	1
+CC1G_10050	Chr_4	2699724	2700957	Terpene_synth_C	1
+CC1G_12294	Chr_2	659455	661236	Terpene_synth_C	1

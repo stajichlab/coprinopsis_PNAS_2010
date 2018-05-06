@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01639	Chr_10	557826	560095	Amino_oxidase	1
+CC1G_02491	Chr_9	952373	955142	Amino_oxidase	1
+CC1G_03377	Chr_8	654088	655762	Amino_oxidase	1
+CC1G_08029	Chr_8	456039	458318	Amino_oxidase	1
+CC1G_15428	Chr_12	1170282	1172393	Amino_oxidase	1

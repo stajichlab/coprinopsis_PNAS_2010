@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01575	Chr_10	355496	356502	Semialdhyde_dh	1
+CC1G_06506	Chr_12	1410864	1414199	Semialdhyde_dh	1
+CC1G_07878	Chr_5	3033091	3034253	Semialdhyde_dh	1

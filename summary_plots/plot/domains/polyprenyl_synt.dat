@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00492	Chr_1	3066467	3068135	polyprenyl_synt	1
+CC1G_02580	Chr_4	143339	145104	polyprenyl_synt	1
+CC1G_04609	Chr_3	601083	602432	polyprenyl_synt	1
+CC1G_05865	Chr_12	376177	378052	polyprenyl_synt	1

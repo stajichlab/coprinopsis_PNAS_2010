@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00058	Chr_5	1009962	1012321	Beta_elim_lyase	1
+CC1G_00425	Chr_5	1868813	1870326	Beta_elim_lyase	1
+CC1G_01108	Chr_2	964863	966855	Beta_elim_lyase	1
+CC1G_04438	Chr_1	952626	954119	Beta_elim_lyase	1
+CC1G_04699	Chr_13	540542	542660	Beta_elim_lyase	1
+CC1G_06440	Chr_4	2147871	2151460	Beta_elim_lyase	1
+CC1G_10328	Chr_6	1087903	1089686	Beta_elim_lyase	1

@@ -1,0 +1,14 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01054	Chr_2	835515	836271	Pro_isomerase	1
+CC1G_01711	Chr_1	2359653	2361626	Pro_isomerase	1
+CC1G_02575	Chr_4	131942	133361	Pro_isomerase	1
+CC1G_03223	Chr_3	2602568	2604161	Pro_isomerase	1
+CC1G_05429	Chr_8	299909	302321	Pro_isomerase	1
+CC1G_05933	Chr_7	2704130	2707101	Pro_isomerase	1
+CC1G_05946	Chr_7	2747943	2749931	Pro_isomerase	1
+CC1G_07870	Chr_4	1290541	1291297	Pro_isomerase	1
+CC1G_07963	Chr_13	441053	442016	Pro_isomerase	1
+CC1G_09572	Chr_11	385626	386567	Pro_isomerase	1
+CC1G_10648	Chr_5	2807067	2808648	Pro_isomerase	1
+CC1G_11456	Chr_6	842192	843665	Pro_isomerase	1
+CC1G_14910	Chr_7	2698681	2699391	Pro_isomerase	1

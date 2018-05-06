@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00259	Chr_5	1446023	1447173	Mob1_phocein	1
+CC1G_05423	Chr_8	283901	285243	Mob1_phocein	1
+CC1G_05446	Chr_8	343371	344493	Mob1_phocein	1
+CC1G_09564	Chr_11	372942	374794	Mob1_phocein	1

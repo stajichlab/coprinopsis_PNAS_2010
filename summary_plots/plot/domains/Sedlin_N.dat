@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00102	Chr_5	1117061	1117506	Sedlin_N	1
+CC1G_13887	Chr_2	1200460	1201022	Sedlin_N	1
+CC1G_14622	Chr_5	1498788	1499367	Sedlin_N	1
+CC1G_15830	U409	1013	1575	Sedlin_N	1

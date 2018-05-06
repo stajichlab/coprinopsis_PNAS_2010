@@ -1,0 +1,9 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01359	Chr_5	2256024	2258579	Alpha-amylase	1
+CC1G_02838	Chr_1	349656	352109	Alpha-amylase	1
+CC1G_02880	Chr_1	473066	475438	Alpha-amylase	1
+CC1G_05144	Chr_2	1978536	1980935	Alpha-amylase	1
+CC1G_05516	Chr_11	1408451	1411126	Alpha-amylase	1
+CC1G_08568	Chr_9	2017056	2019790	Alpha-amylase	1
+CC1G_12015	Chr_2	1325747	1333602	Alpha-amylase	1
+CC1G_14435	Chr_4	2366073	2368904	Alpha-amylase	1

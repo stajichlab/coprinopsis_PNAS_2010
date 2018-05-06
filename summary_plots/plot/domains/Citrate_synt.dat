@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06338	Chr_4	1853433	1854475	Citrate_synt	1
+CC1G_09654	Chr_11	476942	481001	Citrate_synt	1
+CC1G_12964	Chr_2	1775770	1777812	Citrate_synt	1
+CC1G_13461	Chr_4	1515167	1516344	Citrate_synt	1
+CC1G_13502	U423	57	915	Citrate_synt	1
+CC1G_14401	Chr_4	1849710	1852717	Citrate_synt	1

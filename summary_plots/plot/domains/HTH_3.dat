@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05147	Chr_2	1985296	1985959	HTH_3	1
+CC1G_07276	Chr_12	1515614	1516004	HTH_3	1
+CC1G_14335	Chr_4	648364	649823	HTH_3	1

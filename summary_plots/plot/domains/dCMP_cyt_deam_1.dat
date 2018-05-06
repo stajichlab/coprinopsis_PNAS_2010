@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03988	Chr_7	597474	598214	dCMP_cyt_deam_1	1
+CC1G_04209	Chr_2	1430622	1431185	dCMP_cyt_deam_1	1
+CC1G_07120	Chr_8	920237	921840	dCMP_cyt_deam_1	1
+CC1G_14566	Chr_5	774913	775759	dCMP_cyt_deam_1	1

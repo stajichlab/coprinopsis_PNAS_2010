@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_11229	Chr_1	1283022	1289482	RNA_pol_Rpb1_5	1
+CC1G_11381	Chr_5	851276	856313	RNA_pol_Rpb1_5	1
+CC1G_14600	Chr_5	1251927	1257822	RNA_pol_Rpb1_5	1

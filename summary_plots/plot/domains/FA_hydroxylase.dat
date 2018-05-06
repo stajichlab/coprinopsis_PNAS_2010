@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_04738	Chr_13	647767	648982	FA_hydroxylase	1
+CC1G_11555	Chr_7	1924523	1925595	FA_hydroxylase	1
+CC1G_12572	Chr_4	2242328	2243549	FA_hydroxylase	1
+CC1G_15692	Chr_11	911429	912741	FA_hydroxylase	1

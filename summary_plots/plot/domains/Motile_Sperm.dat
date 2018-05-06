@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03024	Chr_8	1577142	1578677	Motile_Sperm	1
+CC1G_05226	Chr_11	781867	782566	Motile_Sperm	1
+CC1G_05227	Chr_11	783090	783944	Motile_Sperm	1

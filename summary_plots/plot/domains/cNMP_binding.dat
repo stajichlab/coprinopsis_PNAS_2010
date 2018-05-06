@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00440	Chr_5	1906061	1907585	cNMP_binding	2
+CC1G_06619	Chr_1	2961647	2967141	cNMP_binding	2
+CC1G_07992	Chr_13	525040	530153	cNMP_binding	1

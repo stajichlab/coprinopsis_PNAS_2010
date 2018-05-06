@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_11312	Chr_1	1649486	1650527	Aldose_epim	1
+CC1G_11362	Chr_11	225686	227479	Aldose_epim	1
+CC1G_11895	Chr_4	982676	984338	Aldose_epim	1

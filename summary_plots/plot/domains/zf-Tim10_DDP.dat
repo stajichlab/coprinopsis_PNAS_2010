@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_07126	Chr_8	938515	938945	zf-Tim10_DDP	1
+CC1G_11264	Chr_6	1603885	1604465	zf-Tim10_DDP	1
+CC1G_13534	Chr_4	1501298	1502409	zf-Tim10_DDP	1

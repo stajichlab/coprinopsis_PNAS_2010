@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02253	Chr_3	2922294	2925219	Arrestin_C	1
+CC1G_03650	Chr_1	1939744	1941695	Arrestin_C	1
+CC1G_12090	Chr_3	1343470	1346482	Arrestin_C	1
+CC1G_13822	Chr_2	170230	181908	Arrestin_C	1

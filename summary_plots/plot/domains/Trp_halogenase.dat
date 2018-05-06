@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02004	Chr_3	1801257	1803575	Trp_halogenase	1
+CC1G_04762	Chr_13	718408	720672	Trp_halogenase	1
+CC1G_04763	Chr_13	722080	724342	Trp_halogenase	1
+CC1G_15391	Chr_12	400464	402601	Trp_halogenase	1

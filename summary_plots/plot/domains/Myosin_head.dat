@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03780	Chr_2	2234227	2239798	Myosin_head	1
+CC1G_09915	Chr_12	1205751	1213370	Myosin_head	1
+CC1G_10992	Chr_5	3325020	3332622	Myosin_head	1
+CC1G_11270	Chr_6	1580994	1588050	Myosin_head	1
+CC1G_13719	Chr_1	2821930	2828679	Myosin_head	1

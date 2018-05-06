@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02589	Chr_4	165213	166894	FA_desaturase	1
+CC1G_02590	Chr_4	167950	169663	FA_desaturase	1
+CC1G_03449	Chr_8	854871	856568	FA_desaturase	1
+CC1G_05513	Chr_11	1418064	1419395	FA_desaturase	1
+CC1G_09244	Chr_11	1693478	1695519	FA_desaturase	1
+CC1G_10534	Chr_1	1507441	1509261	FA_desaturase	1
+CC1G_15704	Chr_11	1075260	1083931	FA_desaturase	1

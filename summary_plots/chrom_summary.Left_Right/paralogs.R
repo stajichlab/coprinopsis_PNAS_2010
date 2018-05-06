@@ -1,0 +1,5 @@
+paralogsleft <- read.table("paralogs_left.dat",header=T)
+paralogsright <- read.table("paralogs_right.dat",header=T)
+paralogsctr <- read.table("paralogs_center.dat",header=T)
+pdf("paralogs.pdf")
+boxplot(paralogsleft$TOTAL,paralogsctr$TOTAL,paralogsright$TOTAL,main="paralogs Density BoxPlot", outline=FALSE, names=c("Left","Center","Right"))

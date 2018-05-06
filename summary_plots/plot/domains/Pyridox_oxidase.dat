@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02918	Chr_8	1257356	1258747	Pyridox_oxidase	1
+CC1G_05333	Chr_8	42786	44865	Pyridox_oxidase	1
+CC1G_11590	Chr_12	980278	981629	Pyridox_oxidase	1
+CC1G_14250	Chr_3	2577295	2578175	Pyridox_oxidase	1
+CC1G_15432	Chr_12	1217126	1218314	Pyridox_oxidase	1

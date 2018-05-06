@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01112	Chr_2	973425	975336	IDO	1
+CC1G_02499	Chr_9	971108	972612	IDO	1
+CC1G_12399	Chr_4	753952	755474	IDO	1

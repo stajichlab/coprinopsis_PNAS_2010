@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00146	Chr_5	1209129	1210957	Tubulin_C	1
+CC1G_01375	Chr_5	2299506	2301259	Tubulin_C	1
+CC1G_04743	Chr_13	661632	663565	Tubulin_C	1
+CC1G_05145	Chr_2	1981369	1983245	Tubulin_C	1
+CC1G_06184	Chr_4	2814062	2816610	Tubulin_C	1

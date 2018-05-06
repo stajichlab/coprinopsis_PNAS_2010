@@ -1,0 +1,4 @@
+paralogscold <- read.table("paralogs_cold.dat",header=T)
+paralogshot <- read.table("paralogs_hot.dat",header=T)
+pdf("coldhot_paralogs.pdf")
+boxplot(paralogscold$TOTAL,paralogshot$TOTAL,main="paralogs Cold-Hot Density BoxPlot", outline=FALSE, names=c("Cold","Hot"))

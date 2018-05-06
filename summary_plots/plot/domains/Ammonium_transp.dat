@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01676	Chr_1	2267133	2269072	Ammonium_transp	1
+CC1G_05914	Chr_7	2633226	2635402	Ammonium_transp	1
+CC1G_12816	Chr_11	291075	292873	Ammonium_transp	1
+CC1G_13124	Chr_11	263110	264908	Ammonium_transp	1

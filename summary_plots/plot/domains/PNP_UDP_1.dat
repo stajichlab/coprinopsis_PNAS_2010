@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05833	Chr_12	296168	297574	PNP_UDP_1	1
+CC1G_06667	Chr_5	290439	291656	PNP_UDP_1	1
+CC1G_09831	Chr_6	937326	938533	PNP_UDP_1	1

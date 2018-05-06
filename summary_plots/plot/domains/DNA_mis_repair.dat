@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05322	Chr_11	1045556	1048733	DNA_mis_repair	1
+CC1G_07970	Chr_13	461475	464642	DNA_mis_repair	1

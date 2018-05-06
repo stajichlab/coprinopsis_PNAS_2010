@@ -1,0 +1,10 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03865	Chr_2	2436331	2437457	Biotin_lipoyl	1
+CC1G_03867	Chr_2	2439579	2440743	Biotin_lipoyl	1
+CC1G_05512	Chr_11	1419756	1422094	Biotin_lipoyl	1
+CC1G_05664	Chr_7	2018389	2023322	Biotin_lipoyl	1
+CC1G_06806	Chr_1	1860241	1861871	Biotin_lipoyl	1
+CC1G_07689	Chr_9	1169749	1171546	Biotin_lipoyl	1
+CC1G_12062	Chr_1	567142	569372	Biotin_lipoyl	1
+CC1G_13741	Chr_1	3223199	3227836	Biotin_lipoyl	1
+CC1G_14835	Chr_7	1511079	1518410	Biotin_lipoyl	1

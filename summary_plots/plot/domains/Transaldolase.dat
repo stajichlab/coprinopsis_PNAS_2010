@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01525	Chr_10	173095	174321	Transaldolase	1
+CC1G_07537	Chr_6	1485592	1487242	Transaldolase	1
+CC1G_07747	Chr_12	1723510	1724872	Transaldolase	1

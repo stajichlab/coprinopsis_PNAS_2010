@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06932	Chr_6	623950	625474	MoCF_biosynth	1
+CC1G_14712	Chr_5	2849819	2852269	MoCF_biosynth	2

@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01651	Chr_10	582237	584499	Na_H_Exchanger	1
+CC1G_02318	Chr_3	3105369	3108510	Na_H_Exchanger	1
+CC1G_02465	Chr_9	886942	889956	Na_H_Exchanger	1
+CC1G_02544	Chr_9	1108744	1110276	Na_H_Exchanger	1
+CC1G_05357	Chr_8	109513	113401	Na_H_Exchanger	1
+CC1G_05632	Chr_13	226390	230945	Na_H_Exchanger	1
+CC1G_08860	Chr_5	2957819	2960958	Na_H_Exchanger	1

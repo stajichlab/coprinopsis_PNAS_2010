@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06806	Chr_1	1860241	1861871	2-oxoacid_dh	1
+CC1G_07689	Chr_9	1169749	1171546	2-oxoacid_dh	1
+CC1G_12062	Chr_1	567142	569372	2-oxoacid_dh	1

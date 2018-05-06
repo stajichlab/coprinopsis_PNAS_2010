@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03414	Chr_8	765270	767021	Prenyltrans	4
+CC1G_04781	Chr_13	776647	777953	Prenyltrans	5
+CC1G_05578	Chr_13	82559	84463	Prenyltrans	5
+CC1G_05695	Chr_7	2103329	2106363	Prenyltrans	3

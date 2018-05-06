@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_04427	Chr_1	920195	922630	Hist_deacetyl	1
+CC1G_05302	Chr_11	991841	993484	Hist_deacetyl	1
+CC1G_08016	Chr_8	413527	415642	Hist_deacetyl	1
+CC1G_10654	Chr_5	2827011	2829020	Hist_deacetyl	1
+CC1G_13998	Chr_2	2894111	2895748	Hist_deacetyl	1
+CC1G_14135	Chr_3	1114920	1117908	Hist_deacetyl	1

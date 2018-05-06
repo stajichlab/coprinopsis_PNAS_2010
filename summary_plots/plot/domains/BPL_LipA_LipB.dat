@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01675	Chr_1	2265627	2266646	BPL_LipA_LipB	1
+CC1G_15548	Chr_6	690758	693244	BPL_LipA_LipB	1

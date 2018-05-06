@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00597	Chr_1	3338796	3341587	Cu_amine_oxid	1
+CC1G_06947	Chr_6	666181	668993	Cu_amine_oxid	1
+CC1G_07935	Chr_5	3201490	3204817	Cu_amine_oxid	1
+CC1G_07936	Chr_5	3205451	3211111	Cu_amine_oxid	1
+CC1G_11177	Chr_4	1439854	1442615	Cu_amine_oxid	1

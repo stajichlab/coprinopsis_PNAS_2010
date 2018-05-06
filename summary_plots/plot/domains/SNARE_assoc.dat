@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00221	Chr_5	1371212	1372530	SNARE_assoc	1
+CC1G_00376	Chr_5	1748071	1749613	SNARE_assoc	1
+CC1G_01263	Chr_5	2023430	2024849	SNARE_assoc	1
+CC1G_06363	Chr_4	1927467	1929854	SNARE_assoc	1

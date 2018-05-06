@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00017	Chr_5	906149	907054	Synaptobrevin	1
+CC1G_07280	Chr_12	1526359	1527350	Synaptobrevin	1
+CC1G_09913	Chr_12	1198830	1199621	Synaptobrevin	1
+CC1G_15423	Chr_12	1062414	1063170	Synaptobrevin	1

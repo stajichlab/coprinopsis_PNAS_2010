@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01262	Chr_5	2016549	2018625	HSF_DNA-bind	1
+CC1G_08281	Chr_2	62852	64519	HSF_DNA-bind	1
+CC1G_10208	Chr_2	283160	285228	HSF_DNA-bind	1

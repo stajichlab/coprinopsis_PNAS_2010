@@ -1,0 +1,5 @@
+orphansleft <- read.table("orphans_left.dat",header=T)
+orphansright <- read.table("orphans_right.dat",header=T)
+orphansctr <- read.table("orphans_center.dat",header=T)
+pdf("orphans.pdf")
+boxplot(orphansleft$TOTAL,orphansctr$TOTAL,orphansright$TOTAL,main="orphans Density BoxPlot", outline=FALSE, names=c("Left","Center","Right"))

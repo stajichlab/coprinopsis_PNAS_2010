@@ -1,0 +1,5 @@
+repeatscold <- read.table("repeats_cold.dat",header=T)
+repeatshot <- read.table("repeats_hot.dat",header=T)
+pdf("coldhot_repeats.pdf")
+boxplot(repeatscold$TOTAL,repeatshot$TOTAL,main="repeats Cold-Hot Density BoxPlot", outline=FALSE, names=c("Cold","Hot"))
+ks.test(repeatscold$TOTAL,repeatshot$TOTAL)

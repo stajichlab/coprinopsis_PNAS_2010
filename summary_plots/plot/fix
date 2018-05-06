@@ -1,0 +1,13 @@
+perl -i -p -e 's/Chr_1\t/Chromosome I\t/' *.tab
+perl -i -p -e 's/Chr_2\t/Chromosome II\t/' *.tab 
+perl -i -p -e 's/Chr_3\t/Chromosome III\t/' *.tab
+perl -i -p -e 's/Chr_4\t/Chromosome IV\t/' *.tab
+perl -i -p -e 's/Chr_5\t/Chromosome V\t/' *.tab
+perl -i -p -e 's/Chr_6\t/Chromosome VI\t/' *.tab
+perl -i -p -e 's/Chr_7\t/Chromosome VII\t/' *.tab
+perl -i -p -e 's/Chr_8\t/Chromosome VIII\t/' *.tab
+perl -i -p -e 's/Chr_9\t/Chromosome IX\t/' *.tab
+perl -i -p -e 's/Chr_10\t/Chromosome X\t/' *.tab
+perl -i -p -e 's/Chr_11\t/Chromosome XI\t/' *.tab
+perl -i -p -e 's/Chr_12\t/Chromosome XII\t/' *.tab
+perl -i -p -e 's/Chr_13\t/Chromosome XIII\t/' *.tab

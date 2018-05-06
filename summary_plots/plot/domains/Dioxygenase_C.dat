@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05902	Chr_7	2605034	2606373	Dioxygenase_C	1
+CC1G_09575	Chr_11	393815	395311	Dioxygenase_C	1
+CC1G_09813	Chr_12	834440	835698	Dioxygenase_C	1

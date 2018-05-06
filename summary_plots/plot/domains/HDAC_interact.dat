@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05319	Chr_11	1034681	1041003	HDAC_interact	1
+CC1G_06606	Chr_1	2929773	2934538	HDAC_interact	1

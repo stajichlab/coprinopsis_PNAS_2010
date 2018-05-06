@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00735	Chr_1	3760484	3761051	Glutaredoxin	1
+CC1G_03259	Chr_3	2690316	2691274	Glutaredoxin	1
+CC1G_03266	Chr_3	2705878	2706687	Glutaredoxin	1
+CC1G_08103	Chr_4	3153045	3153948	Glutaredoxin	1
+CC1G_08329	Chr_7	2375206	2375840	Glutaredoxin	1

@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_02299	Chr_3	3054741	3056106	GHMP_kinases_C	1
+CC1G_03758	Chr_1	2193929	2195090	GHMP_kinases_C	1
+CC1G_06440	Chr_4	2147871	2151460	GHMP_kinases_C	1

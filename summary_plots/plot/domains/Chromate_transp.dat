@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00150	Chr_5	1216983	1218579	Chromate_transp	2
+CC1G_00159	Chr_5	1232533	1234183	Chromate_transp	2
+CC1G_14034	Chr_2	3416849	3418541	Chromate_transp	2

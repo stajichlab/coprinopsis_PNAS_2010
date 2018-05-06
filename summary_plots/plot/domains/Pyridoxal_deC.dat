@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01108	Chr_2	964863	966855	Pyridoxal_deC	1
+CC1G_02020	Chr_3	1850562	1852607	Pyridoxal_deC	1
+CC1G_02303	Chr_3	3062061	3064387	Pyridoxal_deC	1
+CC1G_03790	Chr_2	2255479	2257741	Pyridoxal_deC	1
+CC1G_05236	Chr_11	815082	817347	Pyridoxal_deC	1
+CC1G_09693	Chr_10	1200200	1204076	Pyridoxal_deC	1

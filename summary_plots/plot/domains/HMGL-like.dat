@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01077	Chr_2	896241	898828	HMGL-like	1
+CC1G_05664	Chr_7	2018389	2023322	HMGL-like	1
+CC1G_06438	Chr_4	2144736	2146493	HMGL-like	1
+CC1G_15525	Chr_6	394453	398839	HMGL-like	1

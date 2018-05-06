@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00661	Chr_1	3508370	3510103	DNA_pol_lambd_f	1
+CC1G_01597	Chr_10	429323	434455	DNA_pol_lambd_f	1
+CC1G_09351	Chr_3	1314091	1316483	DNA_pol_lambd_f	1

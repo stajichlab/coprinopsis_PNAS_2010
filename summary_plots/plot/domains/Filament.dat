@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00489	Chr_1	3052006	3055047	Filament	1
+CC1G_01097	Chr_2	938024	944609	Filament	1
+CC1G_09915	Chr_12	1205751	1213370	Filament	1

@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03705	Chr_1	2072243	2074244	NAD_binding_2	1
+CC1G_05163	Chr_2	2020224	2021451	NAD_binding_2	1
+CC1G_11442	Chr_6	812996	814287	NAD_binding_2	1
+CC1G_13723	Chr_1	2921007	2922525	NAD_binding_2	1
+CC1G_15508	Chr_6	213190	214880	NAD_binding_2	1

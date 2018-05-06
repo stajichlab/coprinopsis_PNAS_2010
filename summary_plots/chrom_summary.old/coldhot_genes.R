@@ -1,0 +1,4 @@
+genescold <- read.table("genes_cold.dat",header=T)
+geneshot <- read.table("genes_hot.dat",header=T)
+pdf("coldhot_genes.pdf")
+boxplot(genescold$TOTAL,geneshot$TOTAL,main="genes Cold-Hot Density BoxPlot", outline=FALSE, names=c("Cold","Hot"))

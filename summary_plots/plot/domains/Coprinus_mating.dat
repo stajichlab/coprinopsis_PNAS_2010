@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01828	Chr_1	2647743	2649798	Coprinus_mating	1
+CC1G_01831	Chr_1	2653848	2655978	Coprinus_mating	1
+CC1G_01834	Chr_1	2664189	2666137	Coprinus_mating	1
+CC1G_13704	Chr_1	2650812	2653343	Coprinus_mating	1

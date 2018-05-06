@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00579	Chr_1	3287187	3291832	DNA_methylase	1
+CC1G_00872	Chr_7	1296757	1303776	DNA_methylase	1
+CC1G_01237	Chr_2	1268469	1273227	DNA_methylase	1
+CC1G_13191	Chr_1	1114695	1116169	DNA_methylase	1

@@ -1,0 +1,10 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00344	Chr_5	1675358	1677035	Thioredoxin	2
+CC1G_00689	Chr_1	3590512	3590983	Thioredoxin	1
+CC1G_01871	Chr_1	2749170	2749920	Thioredoxin	1
+CC1G_05138	Chr_2	1953287	1955670	Thioredoxin	1
+CC1G_07087	Chr_4	2378744	2380894	Thioredoxin	2
+CC1G_08103	Chr_4	3153045	3153948	Thioredoxin	1
+CC1G_08236	Chr_5	516159	518188	Thioredoxin	2
+CC1G_13890	Chr_2	1219788	1220584	Thioredoxin	1
+CC1G_14792	Chr_7	742315	743380	Thioredoxin	1

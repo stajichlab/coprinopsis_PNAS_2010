@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05574	Chr_13	73405	74578	TatD_DNase	1
+CC1G_06549	Chr_1	2793198	2794373	TatD_DNase	1
+CC1G_13694	Chr_1	2458233	2459710	TatD_DNase	1

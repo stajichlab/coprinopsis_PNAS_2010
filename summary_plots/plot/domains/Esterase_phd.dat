@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03267	Chr_3	2706822	2708046	Esterase_phd	1
+CC1G_04168	Chr_4	3531094	3533421	Esterase_phd	1
+CC1G_12850	Chr_4	88844	90135	Esterase_phd	1

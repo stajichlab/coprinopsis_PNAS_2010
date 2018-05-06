@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06462	Chr_12	1305196	1307716	UBA_e1_thiolCys	1
+CC1G_14580	Chr_5	980669	984570	UBA_e1_thiolCys	1

@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03704	Chr_1	2069468	2071999	Oxysterol_BP	1
+CC1G_05501	Chr_11	1461945	1463652	Oxysterol_BP	1
+CC1G_05813	Chr_12	241192	245230	Oxysterol_BP	1
+CC1G_08644	Chr_1	1060065	1062202	Oxysterol_BP	1
+CC1G_11883	Chr_10	1381968	1383746	Oxysterol_BP	1

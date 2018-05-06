@@ -1,0 +1,3 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00289	Chr_5	1519218	1525855	RasGAP_C	1
+CC1G_07586	Chr_4	2552285	2555075	RasGAP_C	1

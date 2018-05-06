@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01073	Chr_2	886089	888253	Radical_SAM	1
+CC1G_03624	Chr_1	1881502	1883016	Radical_SAM	1
+CC1G_04385	Chr_1	809640	811687	Radical_SAM	1
+CC1G_13713	Chr_1	2782216	2784506	Radical_SAM	1

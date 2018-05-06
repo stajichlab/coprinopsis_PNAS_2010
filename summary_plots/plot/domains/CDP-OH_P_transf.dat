@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_08783	Chr_1	3950847	3952574	CDP-OH_P_transf	1
+CC1G_11938	Chr_2	1749825	1750807	CDP-OH_P_transf	1
+CC1G_11941	Chr_2	1756540	1757368	CDP-OH_P_transf	1
+CC1G_14816	Chr_7	1084251	1085472	CDP-OH_P_transf	1

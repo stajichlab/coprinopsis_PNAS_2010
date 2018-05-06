@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_01144	Chr_2	1053159	1055405	A_deaminase	1
+CC1G_02853	Chr_1	390792	392005	A_deaminase	1
+CC1G_03349	Chr_8	568741	571866	A_deaminase	1

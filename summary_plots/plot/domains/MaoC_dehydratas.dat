@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_06395	Chr_4	2027449	2028702	MaoC_dehydratas	1
+CC1G_07064	Chr_4	2304613	2317400	MaoC_dehydratas	1
+CC1G_15551	Chr_6	762995	764196	MaoC_dehydratas	1

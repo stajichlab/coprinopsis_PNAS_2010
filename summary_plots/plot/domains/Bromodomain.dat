@@ -1,0 +1,10 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00481	Chr_1	3021267	3027434	Bromodomain	3
+CC1G_02851	Chr_1	385550	388301	Bromodomain	1
+CC1G_04032	Chr_7	743581	747895	Bromodomain	1
+CC1G_06003	Chr_3	249881	253172	Bromodomain	1
+CC1G_07951	Chr_13	393411	396808	Bromodomain	1
+CC1G_08634	Chr_1	1011233	1016383	Bromodomain	1
+CC1G_13607	Chr_1	968262	971077	Bromodomain	2
+CC1G_13721	Chr_1	2905876	2910113	Bromodomain	2
+CC1G_14639	Chr_5	1647376	1649487	Bromodomain	1

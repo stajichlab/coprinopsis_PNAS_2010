@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_05046	Chr_8	1914158	1915121	EBP	1
+CC1G_06485	Chr_12	1360084	1360993	EBP	1
+CC1G_06487	Chr_12	1361507	1362415	EBP	1

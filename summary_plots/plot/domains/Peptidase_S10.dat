@@ -1,0 +1,5 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00916	Chr_7	1430672	1433561	Peptidase_S10	1
+CC1G_01392	Chr_5	2334481	2336958	Peptidase_S10	1
+CC1G_09180	Chr_2	2853337	2855583	Peptidase_S10	1
+CC1G_12159	Chr_1	530601	532660	Peptidase_S10	1

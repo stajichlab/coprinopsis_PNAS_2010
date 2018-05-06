@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_03734	Chr_1	2137545	2140050	RanBPM_CRA	1
+CC1G_04180	Chr_2	1362133	1365606	RanBPM_CRA	1
+CC1G_10514	Chr_1	1456190	1456953	RanBPM_CRA	1

@@ -1,0 +1,7 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00230	Chr_5	1389634	1395096	Ribonuclease_3	2
+CC1G_01759	Chr_1	2480581	2481798	Ribonuclease_3	1
+CC1G_02981	Chr_8	1460584	1461644	Ribonuclease_3	1
+CC1G_03181	Chr_8	2478792	2486102	Ribonuclease_3	2
+CC1G_08170	Chr_5	2707911	2709764	Ribonuclease_3	1
+CC1G_13988	Chr_2	2741769	2746497	Ribonuclease_3	2

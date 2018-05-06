@@ -1,0 +1,6 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00798	Chr_7	1067933	1069810	Amidase	1
+CC1G_09028	Chr_7	1763193	1765543	Amidase	1
+CC1G_09033	Chr_7	1773246	1775647	Amidase	1
+CC1G_09583	Chr_11	416492	419166	Amidase	1
+CC1G_09836	Chr_6	956746	959088	Amidase	1

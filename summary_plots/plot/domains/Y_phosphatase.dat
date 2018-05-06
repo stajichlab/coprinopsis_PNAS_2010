@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00546	Chr_1	3199539	3200825	Y_phosphatase	1
+CC1G_01305	Chr_5	2112307	2114511	Y_phosphatase	1
+CC1G_03724	Chr_1	2116405	2120055	Y_phosphatase	1

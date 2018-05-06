@@ -1,0 +1,8 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00361	Chr_5	1719262	1720162	Clat_adaptor_s	1
+CC1G_00709	Chr_1	3666001	3668163	Clat_adaptor_s	1
+CC1G_03085	Chr_8	2219755	2220469	Clat_adaptor_s	1
+CC1G_03713	Chr_1	2087069	2088023	Clat_adaptor_s	1
+CC1G_04392	Chr_1	827220	828322	Clat_adaptor_s	1
+CC1G_06832	Chr_3	2307483	2308166	Clat_adaptor_s	1
+CC1G_15504	Chr_6	144020	145650	Clat_adaptor_s	1

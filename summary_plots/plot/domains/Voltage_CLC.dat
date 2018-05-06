@@ -1,0 +1,4 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00990	Chr_7	1620560	1624020	Voltage_CLC	1
+CC1G_03217	Chr_3	2586135	2589401	Voltage_CLC	1
+CC1G_14137	Chr_3	1145773	1149357	Voltage_CLC	1

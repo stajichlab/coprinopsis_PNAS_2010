@@ -1,0 +1,11 @@
+#gene	chrom	chrom_start	chrom_stop	domain	count
+CC1G_00426	Chr_5	1871888	1874271	Ferric_reduct	1
+CC1G_03087	Chr_8	2223514	2225758	Ferric_reduct	1
+CC1G_03568	Chr_9	1849227	1851480	Ferric_reduct	1
+CC1G_06499	Chr_12	1392720	1394971	Ferric_reduct	1
+CC1G_08071	Chr_4	3059134	3061884	Ferric_reduct	1
+CC1G_08381	Chr_7	2786902	2789811	Ferric_reduct	1
+CC1G_09830	Chr_6	934310	936464	Ferric_reduct	1
+CC1G_10525	Chr_1	1488985	1491064	Ferric_reduct	1
+CC1G_14424	Chr_4	2214741	2218016	Ferric_reduct	1
+CC1G_15165	Chr_9	989269	991643	Ferric_reduct	1

@@ -1,0 +1,5831 @@
+#===========================================================================================#
+	Date : Wed Apr 15 18:06:11 2009
+
+	Total # of GO/FunCat nodes : 28421
+	Total # of genes : 13393
+	Total # of chromsomes : 82
+
+	Minimum # of genes in a cluster : 3
+	Maximum # of genes in a cluster ( 0 = No maximum size ) : 0
+	Maximum cluster size ( 0 = No maximum size ) : 0
+
+	E-value cutoff ( 0 = No consideration ) : 0.001
+	Threshold of cluster overlap ( 0 = No consideration ) : 50%
+	Clusters ( T = only Top Cluster, F = Full Clusters ) : T
+
+	GO/FunCat scheme file : Scheme/scheme.GO.data
+	Map_file : Data_set/Coprinus_cinereus/map_list
+	FunCat data file : Data_set/Coprinus_cinereus/data_list
+	Output file : CC_nomax
+#===========================================================================================#
+
+Group # : 1, #Clusters : 1, 0005622 : intracellular 
+
+	Cluster 1, 0005622 : intracellular 
+		E = 3.75196e-16
+		P = 2.96176e-20
+		Cluster size = 726
+		Number of genes in this cluster = 147, chromosome # = 0
+		Number of genes with this term (or a child term) = 1255
+		Genes:
+			CC1G_10270T0
+				0005525 - GTP binding 
+				0007049 - cell cycle 
+				0031105 - septin complex 
+			CC1G_10271T0
+				0000059 - protein import into nucleus\, docking 
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+			CC1G_10274T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10276T0
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+				0006606 - protein import into nucleus 
+			CC1G_13628T0
+				0000502 - proteasome complex 
+				0030234 - enzyme regulator activity 
+				0042176 - regulation of protein catabolic process 
+			CC1G_10278T0
+				0004129 - cytochrome\-c oxidase activity 
+				0005740 - mitochondrial envelope 
+			CC1G_10284T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006270 - DNA replication initiation 
+			CC1G_10287T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_10289T0
+				0000151 - ubiquitin ligase complex 
+				0004842 - ubiquitin\-protein ligase activity 
+				0016567 - protein ubiquitination 
+			CC1G_10295T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_13210T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_13211T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_10510T0
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_13633T0
+				0005792 - microsome 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+				0050660 - FAD binding 
+			CC1G_13634T0
+				0004527 - exonuclease activity 
+				0005622 - intracellular 
+			CC1G_10521T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_10523T0
+				0005643 - nuclear pore 
+				0006913 - nucleocytoplasmic transport 
+				0017056 - structural constituent of nuclear pore 
+			CC1G_10527T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_10533T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10536T0
+				0000105 - histidine biosynthetic process 
+				0000107 - imidazoleglycerol\-phosphate synthase activity 
+				0009382 - imidazoleglycerol\-phosphate synthase complex 
+			CC1G_10538T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006281 - DNA repair 
+			CC1G_10539T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10540T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10541T0
+				0005622 - intracellular 
+			CC1G_10542T0
+				0005743 - mitochondrial inner membrane 
+				0008565 - protein transporter activity 
+				0015031 - protein transport 
+			CC1G_10546T0
+				0005634 - nucleus 
+			CC1G_10549T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_12659T0
+				0005783 - endoplasmic reticulum 
+				0005794 - Golgi apparatus 
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_11288T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_11307T0
+				0005096 - GTPase activator activity 
+				0005622 - intracellular 
+				0051056 - regulation of small GTPase mediated signal transduction 
+			CC1G_11308T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+			CC1G_06717T0
+				0005524 - ATP binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06723T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0051056 - regulation of small GTPase mediated signal transduction 
+			CC1G_06725T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06732T0
+				0005634 - nucleus 
+				0006364 - rRNA processing 
+				0030529 - ribonucleoprotein complex 
+			CC1G_13647T0
+				0003824 - catalytic activity 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_06736T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_06737T0
+				0005743 - mitochondrial inner membrane 
+				0016651 - oxidoreductase activity\, acting on NADH or NADPH 
+				0022904 - respiratory electron transport chain 
+			CC1G_13648T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06744T0
+				0005525 - GTP binding 
+				0005737 - cytoplasm 
+				0006414 - translational elongation 
+			CC1G_06749T0
+				0004815 - aspartate\-tRNA ligase activity 
+				0005737 - cytoplasm 
+				0006422 - aspartyl\-tRNA aminoacylation 
+			CC1G_06756T0
+				0003723 - RNA binding 
+				0005737 - cytoplasm 
+				0006413 - translational initiation 
+			CC1G_06761T0
+				0005960 - glycine cleavage complex 
+				0006546 - glycine catabolic process 
+			CC1G_06762T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0006414 - translational elongation 
+			CC1G_06776T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06778T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_06780T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_06783T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06785T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_06788T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06790T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+				0016020 - membrane 
+			CC1G_06793T0
+				0005634 - nucleus 
+				0008168 - methyltransferase activity 
+				0031167 - rRNA methylation 
+			CC1G_13661T0
+				0000166 - nucleotide binding 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06806T0
+				0004742 - dihydrolipoyllysine\-residue acetyltransferase activity 
+				0006090 - pyruvate metabolic process 
+				0045254 - pyruvate dehydrogenase complex 
+			CC1G_13664T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03626T0
+				0005778 - peroxisomal membrane 
+				0016559 - peroxisome fission 
+			CC1G_03627T0
+				0004333 - fumarate hydratase activity 
+				0006106 - fumarate metabolic process 
+				0045239 - tricarboxylic acid cycle enzyme complex 
+			CC1G_03630T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03647T0
+				0005622 - intracellular 
+				0007165 - signal transduction 
+			CC1G_03649T0
+				0003677 - DNA binding 
+				0005622 - intracellular 
+			CC1G_03652T0
+				0000228 - nuclear chromosome 
+			CC1G_03665T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_03666T0
+				0005730 - nucleolus 
+				0008283 - cell proliferation 
+			CC1G_03670T0
+				0005634 - nucleus 
+			CC1G_03674T0
+				0005634 - nucleus 
+				0005852 - eukaryotic translation initiation factor 3 complex 
+				0006446 - regulation of translational initiation 
+				0043022 - ribosome binding 
+			CC1G_03684T0
+				0000139 - Golgi membrane 
+				0016021 - integral to membrane 
+			CC1G_03689T0
+				0005515 - protein binding 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_03690T0
+				0006357 - regulation of transcription from RNA polymerase II promoter 
+				0033588 - Elongator holoenzyme complex 
+			CC1G_03701T0
+				0005525 - GTP binding 
+				0007049 - cell cycle 
+				0031105 - septin complex 
+			CC1G_03713T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030130 - clathrin coat of trans\-Golgi network vesicle 
+				0030131 - clathrin adaptor complex 
+			CC1G_03723T0
+				0005524 - ATP binding 
+				0005694 - chromosome 
+				0006265 - DNA topological change 
+			CC1G_03727T0
+				0005515 - protein binding 
+				0005737 - cytoplasm 
+			CC1G_03739T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03743T0
+				0006511 - ubiquitin\-dependent protein catabolic process 
+				0031461 - cullin\-RING ubiquitin ligase complex 
+				0031625 - ubiquitin protein ligase binding 
+			CC1G_03744T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+			CC1G_13676T0
+				0005515 - protein binding 
+				0005778 - peroxisomal membrane 
+				0007031 - peroxisome organization 
+			CC1G_03757T0
+				0005524 - ATP binding 
+				0007018 - microtubule\-based movement 
+				0030286 - dynein complex 
+			CC1G_03772T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_01667T0
+				0000775 - chromosome\, centromeric region 
+				0007067 - mitosis 
+			CC1G_01674T0
+				0005739 - mitochondrion 
+				0006461 - protein complex assembly 
+			CC1G_01696T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+			CC1G_13689T0
+				0005515 - protein binding 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_01715T0
+				0006457 - protein folding 
+				0016272 - prefoldin complex 
+				0051082 - unfolded protein binding 
+			CC1G_01716T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01722T0
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_01723T0
+				0005515 - protein binding 
+				0005634 - nucleus 
+				0042255 - ribosome assembly 
+			CC1G_01752T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01755T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_13697T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01758T0
+				0004091 - carboxylesterase activity 
+				0016023 - cytoplasmic membrane\-bounded vesicle 
+			CC1G_01759T0
+				0003725 - double\-stranded RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_01761T0
+				0000145 - exocyst 
+				0015031 - protein transport 
+			CC1G_01763T0
+				0000785 - chromatin 
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_01764T0
+				0006505 - GPI anchor metabolic process 
+				0016788 - hydrolase activity\, acting on ester bonds 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+			CC1G_01766T0
+				0003723 - RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_01767T0
+				0003676 - nucleic acid binding 
+				0005634 - nucleus 
+			CC1G_13698T0
+				0003713 - transcription coactivator activity 
+				0005634 - nucleus 
+				0045941 - positive regulation of transcription 
+			CC1G_01782T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006189 - 'de novo' IMP biosynthetic process 
+			CC1G_01784T0
+				0004367 - glycerol\-3\-phosphate dehydrogenase (NAD\+) activity 
+				0005975 - carbohydrate metabolic process 
+				0009331 - glycerol\-3\-phosphate dehydrogenase complex 
+			CC1G_01791T0
+				0008537 - proteasome activator complex 
+				0008538 - proteasome activator activity 
+			CC1G_01794T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_01799T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_01802T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006434 - seryl\-tRNA aminoacylation 
+			CC1G_01803T0
+				0005524 - ATP binding 
+				0005663 - DNA replication factor C complex 
+				0006260 - DNA replication 
+			CC1G_01807T0
+				0003677 - DNA binding 
+				0006351 - transcription\, DNA\-dependent 
+				0030880 - RNA polymerase complex 
+			CC1G_01808T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0007131 - reciprocal meiotic recombination 
+			CC1G_01828T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_13704T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01831T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01833T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01834T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01835T0
+				0004222 - metalloendopeptidase activity 
+				0005759 - mitochondrial matrix 
+				0006508 - proteolysis 
+			CC1G_13706T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_01846T0
+				0006364 - rRNA processing 
+				0030688 - preribosome\, small subunit precursor 
+			CC1G_01856T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+			CC1G_01861T0
+				0005737 - cytoplasm 
+				0015940 - pantothenate biosynthetic process 
+				0050661 - NADP or NADPH binding 
+			CC1G_01866T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_01867T0
+				0000226 - microtubule cytoskeleton organization 
+				0000922 - spindle pole 
+				0005815 - microtubule organizing center 
+			CC1G_01868T0
+				0004427 - inorganic diphosphatase activity 
+				0005737 - cytoplasm 
+				0006796 - phosphate metabolic process 
+			CC1G_01870T0
+				0003725 - double\-stranded RNA binding 
+				0005622 - intracellular 
+			CC1G_01873T0
+				0006506 - GPI anchor biosynthetic process 
+				0016757 - transferase activity\, transferring glycosyl groups 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+			CC1G_13709T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06538T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_06539T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_06540T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_13712T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005634 - nucleus 
+				0005829 - cytosol 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_06547T0
+				0005509 - calcium ion binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_13719T0
+				0003779 - actin binding 
+				0005737 - cytoplasm 
+				0016459 - myosin complex 
+			CC1G_06562T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_06567T0
+				0000724 - double\-strand break repair via homologous recombination 
+				0005515 - protein binding 
+				0005634 - nucleus 
+			CC1G_06570T0
+				0000139 - Golgi membrane 
+				0005789 - endoplasmic reticulum membrane 
+				0006672 - ceramide metabolic process 
+				0016021 - integral to membrane 
+				0016811 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds\, in linear amides 
+			CC1G_06571T0
+				0003746 - translation elongation factor activity 
+				0005622 - intracellular 
+				0006414 - translational elongation 
+			CC1G_06581T0
+				0005515 - protein binding 
+				0005794 - Golgi apparatus 
+				0006886 - intracellular protein transport 
+				0030117 - membrane coat 
+			CC1G_06582T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06592T0
+				0005622 - intracellular 
+				0006810 - transport 
+			CC1G_06606T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06608T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06609T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06617T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+			CC1G_06619T0
+				0004622 - lysophospholipase activity 
+				0005789 - endoplasmic reticulum membrane 
+				0046470 - phosphatidylcholine metabolic process 
+			CC1G_13726T0
+				0005634 - nucleus 
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_06624T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_06626T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030126 - COPI vesicle coat 
+			CC1G_00473T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_00475T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_00477T0
+				0005874 - microtubule 
+				0007021 - tubulin complex assembly 
+				0051082 - unfolded protein binding 
+			CC1G_13730T0
+				0005524 - ATP binding 
+				0005840 - ribosome 
+				0046488 - phosphatidylinositol metabolic process 
+
+
+Group # : 2, #Clusters : 1, 0008150 : biological_process 
+
+	Cluster 2, 0008150 : biological_process 
+		E = 1.53927e-14
+		P = 1.22466e-18
+		Cluster size = 825
+		Number of genes in this cluster = 303, chromosome # = 0
+		Number of genes with this term (or a child term) = 3156
+		Genes:
+			CC1G_08633T0
+				0004003 - ATP\-dependent DNA helicase activity 
+				0005634 - nucleus 
+				0006303 - double\-strand break repair via nonhomologous end joining 
+			CC1G_08634T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_08635T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_08641T0
+				0004252 - serine\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_08642T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_08644T0
+				0008202 - steroid metabolic process 
+			CC1G_08649T0
+				0004084 - branched\-chain\-amino\-acid transaminase activity 
+				0009081 - branched chain family amino acid metabolic process 
+			CC1G_08653T0
+				0015986 - ATP synthesis coupled proton transport 
+				0016820 - hydrolase activity\, acting on acid anhydrides\, catalyzing transmembrane movement of substances 
+				0033180 - proton\-transporting V\-type ATPase\, V1 domain 
+			CC1G_08655T0
+				0005524 - ATP binding 
+				0006875 - cellular metal ion homeostasis 
+			CC1G_08656T0
+				0003677 - DNA binding 
+				0005760 - gamma DNA polymerase complex 
+				0006260 - DNA replication 
+			CC1G_08658T0
+				0005634 - nucleus 
+				0016568 - chromatin modification 
+				0018024 - histone\-lysine N\-methyltransferase activity 
+			CC1G_13191T0
+				0003677 - DNA binding 
+				0006306 - DNA methylation 
+			CC1G_13192T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_13193T0
+				0006886 - intracellular protein transport 
+				0008270 - zinc ion binding 
+			CC1G_13194T0
+				0004657 - proline dehydrogenase activity 
+				0006537 - glutamate biosynthetic process 
+			CC1G_13221T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_12190T0
+				0005643 - nuclear pore 
+				0006810 - transport 
+			CC1G_12192T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_13616T0
+				0005524 - ATP binding 
+				0006298 - mismatch repair 
+			CC1G_13618T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_13619T0
+				0003677 - DNA binding 
+				0045449 - regulation of transcription 
+			CC1G_11225T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_11226T0
+				0008060 - ARF GTPase activator activity 
+				0032312 - regulation of ARF GTPase activity 
+			CC1G_11229T0
+				0003677 - DNA binding 
+				0005665 - DNA\-directed RNA polymerase II\, core complex 
+				0006366 - transcription from RNA polymerase II promoter 
+			CC1G_11231T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_13622T0
+				0000166 - nucleotide binding 
+				0005634 - nucleus 
+				0006397 - mRNA processing 
+			CC1G_11235T0
+				0005525 - GTP binding 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_10259T0
+				0004045 - aminoacyl\-tRNA hydrolase activity 
+				0006412 - translation 
+			CC1G_10260T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_10263T0
+				0016020 - membrane 
+				0030001 - metal ion transport 
+				0046873 - metal ion transmembrane transporter activity 
+			CC1G_10270T0
+				0005525 - GTP binding 
+				0007049 - cell cycle 
+				0031105 - septin complex 
+			CC1G_10271T0
+				0000059 - protein import into nucleus\, docking 
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+			CC1G_10272T0
+				0003878 - ATP citrate synthase activity 
+				0008152 - metabolic process 
+			CC1G_10274T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10276T0
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+				0006606 - protein import into nucleus 
+			CC1G_13628T0
+				0000502 - proteasome complex 
+				0030234 - enzyme regulator activity 
+				0042176 - regulation of protein catabolic process 
+			CC1G_10281T0
+				0004750 - ribulose\-phosphate 3\-epimerase activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_10283T0
+				0000287 - magnesium ion binding 
+				0006096 - glycolysis 
+			CC1G_10284T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006270 - DNA replication initiation 
+			CC1G_10289T0
+				0000151 - ubiquitin ligase complex 
+				0004842 - ubiquitin\-protein ligase activity 
+				0016567 - protein ubiquitination 
+			CC1G_10295T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_10296T0
+				0004844 - uracil DNA N\-glycosylase activity 
+				0006284 - base\-excision repair 
+			CC1G_10297T0
+				0008168 - methyltransferase activity 
+				0032259 - methylation 
+			CC1G_10299T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_13211T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_13213T0
+				0006071 - glycerol metabolic process 
+				0008889 - glycerophosphodiester phosphodiesterase activity 
+			CC1G_10506T0
+				0051537 - 2 iron\, 2 sulfur cluster binding 
+				0055114 - oxidation reduction 
+			CC1G_10510T0
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_10511T0
+				0005975 - carbohydrate metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_10513T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_10521T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_10523T0
+				0005643 - nuclear pore 
+				0006913 - nucleocytoplasmic transport 
+				0017056 - structural constituent of nuclear pore 
+			CC1G_10524T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_10526T0
+				0007067 - mitosis 
+			CC1G_10527T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_10532T0
+				0003871 - 5\-methyltetrahydropteroyltriglutamate\-homocysteine S\-methyltransferase activity 
+				0009086 - methionine biosynthetic process 
+			CC1G_10533T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10534T0
+				0006633 - fatty acid biosynthetic process 
+				0020037 - heme binding 
+			CC1G_10536T0
+				0000105 - histidine biosynthetic process 
+				0000107 - imidazoleglycerol\-phosphate synthase activity 
+				0009382 - imidazoleglycerol\-phosphate synthase complex 
+			CC1G_10537T0
+				0008152 - metabolic process 
+				0051287 - NAD or NADH binding 
+			CC1G_10538T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006281 - DNA repair 
+			CC1G_10539T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10540T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_10542T0
+				0005743 - mitochondrial inner membrane 
+				0008565 - protein transporter activity 
+				0015031 - protein transport 
+			CC1G_10549T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_13486T0
+				0006777 - Mo\-molybdopterin cofactor biosynthetic process 
+			CC1G_13637T0
+				0005975 - carbohydrate metabolic process 
+				0016868 - intramolecular transferase activity\, phosphotransferases 
+			CC1G_12659T0
+				0005783 - endoplasmic reticulum 
+				0005794 - Golgi apparatus 
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_12660T0
+				0008152 - metabolic process 
+				0016740 - transferase activity 
+			CC1G_12667T0
+				0006486 - protein amino acid glycosylation 
+				0008378 - galactosyltransferase activity 
+				0016020 - membrane 
+			CC1G_12670T0
+				0004146 - dihydrofolate reductase activity 
+				0006545 - glycine biosynthetic process 
+			CC1G_13441T0
+				0008361 - regulation of cell size 
+				0048037 - cofactor binding 
+			CC1G_11288T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_11289T0
+				0005524 - ATP binding 
+				0006310 - DNA recombination 
+			CC1G_11292T0
+				0008299 - isoprenoid biosynthetic process 
+				0016787 - hydrolase activity 
+			CC1G_11297T0
+				0000287 - magnesium ion binding 
+				0044249 - cellular biosynthetic process 
+			CC1G_11298T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_11300T0
+				0005524 - ATP binding 
+				0019538 - protein metabolic process 
+			CC1G_11305T0
+				0008104 - protein localization 
+			CC1G_11307T0
+				0005096 - GTPase activator activity 
+				0005622 - intracellular 
+				0051056 - regulation of small GTPase mediated signal transduction 
+			CC1G_11308T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+			CC1G_11312T0
+				0005975 - carbohydrate metabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_13640T0
+				0003677 - DNA binding 
+				0006260 - DNA replication 
+			CC1G_06716T0
+				0006457 - protein folding 
+				0051087 - chaperone binding 
+			CC1G_06717T0
+				0005524 - ATP binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_13643T0
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_06723T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0051056 - regulation of small GTPase mediated signal transduction 
+			CC1G_06725T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06732T0
+				0005634 - nucleus 
+				0006364 - rRNA processing 
+				0030529 - ribonucleoprotein complex 
+			CC1G_06734T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_13647T0
+				0003824 - catalytic activity 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_06736T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_06737T0
+				0005743 - mitochondrial inner membrane 
+				0016651 - oxidoreductase activity\, acting on NADH or NADPH 
+				0022904 - respiratory electron transport chain 
+			CC1G_13648T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06743T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_06744T0
+				0005525 - GTP binding 
+				0005737 - cytoplasm 
+				0006414 - translational elongation 
+			CC1G_06748T0
+				0006520 - amino acid metabolic process 
+				0030170 - pyridoxal phosphate binding 
+			CC1G_06749T0
+				0004815 - aspartate\-tRNA ligase activity 
+				0005737 - cytoplasm 
+				0006422 - aspartyl\-tRNA aminoacylation 
+			CC1G_06754T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_06755T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_06756T0
+				0003723 - RNA binding 
+				0005737 - cytoplasm 
+				0006413 - translational initiation 
+			CC1G_13651T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_06761T0
+				0005960 - glycine cleavage complex 
+				0006546 - glycine catabolic process 
+			CC1G_06762T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0006414 - translational elongation 
+			CC1G_06768T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_06771T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_06776T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_06778T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_06781T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_06783T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06785T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_13659T0
+				0004664 - prephenate dehydratase activity 
+				0009094 - L\-phenylalanine biosynthetic process 
+			CC1G_06788T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06790T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+				0016020 - membrane 
+			CC1G_06793T0
+				0005634 - nucleus 
+				0008168 - methyltransferase activity 
+				0031167 - rRNA methylation 
+			CC1G_13661T0
+				0000166 - nucleotide binding 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06806T0
+				0004742 - dihydrolipoyllysine\-residue acetyltransferase activity 
+				0006090 - pyruvate metabolic process 
+				0045254 - pyruvate dehydrogenase complex 
+			CC1G_03622T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_13664T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03624T0
+				0009107 - lipoate biosynthetic process 
+				0051536 - iron\-sulfur cluster binding 
+			CC1G_03626T0
+				0005778 - peroxisomal membrane 
+				0016559 - peroxisome fission 
+			CC1G_03627T0
+				0004333 - fumarate hydratase activity 
+				0006106 - fumarate metabolic process 
+				0045239 - tricarboxylic acid cycle enzyme complex 
+			CC1G_03629T0
+				0001522 - pseudouridine synthesis 
+				0009982 - pseudouridine synthase activity 
+			CC1G_03630T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03633T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03635T0
+				0008152 - metabolic process 
+				0009055 - electron carrier activity 
+			CC1G_03647T0
+				0005622 - intracellular 
+				0007165 - signal transduction 
+			CC1G_03651T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_03653T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_03655T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_03659T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03660T0
+				0004835 - tubulin\-tyrosine ligase activity 
+				0006464 - protein modification process 
+			CC1G_03663T0
+				0006350 - transcription 
+			CC1G_03665T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_03666T0
+				0005730 - nucleolus 
+				0008283 - cell proliferation 
+			CC1G_03671T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_03674T0
+				0005634 - nucleus 
+				0005852 - eukaryotic translation initiation factor 3 complex 
+				0006446 - regulation of translational initiation 
+				0043022 - ribosome binding 
+			CC1G_03676T0
+				0006464 - protein modification process 
+			CC1G_03682T0
+				0009055 - electron carrier activity 
+				0055114 - oxidation reduction 
+			CC1G_03683T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_03688T0
+				0006865 - amino acid transport 
+				0015171 - amino acid transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_03689T0
+				0005515 - protein binding 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_03690T0
+				0006357 - regulation of transcription from RNA polymerase II promoter 
+				0033588 - Elongator holoenzyme complex 
+			CC1G_03691T0
+				0006508 - proteolysis 
+				0008236 - serine\-type peptidase activity 
+				0016021 - integral to membrane 
+			CC1G_03693T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_03696T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_03701T0
+				0005525 - GTP binding 
+				0007049 - cell cycle 
+				0031105 - septin complex 
+			CC1G_03702T0
+				0005524 - ATP binding 
+				0006298 - mismatch repair 
+			CC1G_13670T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_03704T0
+				0008202 - steroid metabolic process 
+			CC1G_03705T0
+				0006098 - pentose\-phosphate shunt 
+				0050661 - NADP or NADPH binding 
+			CC1G_03706T0
+				0004066 - asparagine synthase (glutamine\-hydrolyzing) activity 
+				0006529 - asparagine biosynthetic process 
+			CC1G_03710T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_03713T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030130 - clathrin coat of trans\-Golgi network vesicle 
+				0030131 - clathrin adaptor complex 
+			CC1G_03714T0
+				0006098 - pentose\-phosphate shunt 
+				0017057 - 6\-phosphogluconolactonase activity 
+			CC1G_03718T0
+				0004107 - chorismate synthase activity 
+				0009073 - aromatic amino acid family biosynthetic process 
+			CC1G_03723T0
+				0005524 - ATP binding 
+				0005694 - chromosome 
+				0006265 - DNA topological change 
+			CC1G_03724T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_03726T0
+				0016226 - iron\-sulfur cluster assembly 
+				0051536 - iron\-sulfur cluster binding 
+			CC1G_03730T0
+				0005506 - iron ion binding 
+				0016226 - iron\-sulfur cluster assembly 
+			CC1G_03732T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_03739T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03743T0
+				0006511 - ubiquitin\-dependent protein catabolic process 
+				0031461 - cullin\-RING ubiquitin ligase complex 
+				0031625 - ubiquitin protein ligase binding 
+			CC1G_03745T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_03753T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_13676T0
+				0005515 - protein binding 
+				0005778 - peroxisomal membrane 
+				0007031 - peroxisome organization 
+			CC1G_03757T0
+				0005524 - ATP binding 
+				0007018 - microtubule\-based movement 
+				0030286 - dynein complex 
+			CC1G_03758T0
+				0005524 - ATP binding 
+				0016310 - phosphorylation 
+			CC1G_03765T0
+				0003684 - damaged DNA binding 
+				0006284 - base\-excision repair 
+			CC1G_03767T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_13678T0
+				0005524 - ATP binding 
+				0016020 - membrane 
+				0018106 - peptidyl\-histidine phosphorylation 
+			CC1G_03772T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_03773T0
+				0005975 - carbohydrate metabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_03776T0
+				0006396 - RNA processing 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_01665T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_01667T0
+				0000775 - chromosome\, centromeric region 
+				0007067 - mitosis 
+			CC1G_01674T0
+				0005739 - mitochondrion 
+				0006461 - protein complex assembly 
+			CC1G_01675T0
+				0003824 - catalytic activity 
+				0009107 - lipoate biosynthetic process 
+			CC1G_01676T0
+				0006810 - transport 
+				0008519 - ammonium transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_01677T0
+				0016670 - oxidoreductase activity\, acting on sulfur group of donors\, oxygen as acceptor 
+				0030328 - prenylcysteine catabolic process 
+			CC1G_01688T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_01691T0
+				0005975 - carbohydrate metabolic process 
+				0016758 - transferase activity\, transferring hexosyl groups 
+			CC1G_13687T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01702T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_01704T0
+				0004089 - carbonate dehydratase activity 
+				0015976 - carbon utilization 
+			CC1G_13689T0
+				0005515 - protein binding 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_13691T0
+				0005524 - ATP binding 
+				0016021 - integral to membrane 
+				0055085 - transmembrane transport 
+			CC1G_01712T0
+				0015031 - protein transport 
+			CC1G_01713T0
+				0000287 - magnesium ion binding 
+				0006470 - protein amino acid dephosphorylation 
+				0008287 - protein serine/threonine phosphatase complex 
+			CC1G_01715T0
+				0006457 - protein folding 
+				0016272 - prefoldin complex 
+				0051082 - unfolded protein binding 
+			CC1G_01716T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01718T0
+				0005524 - ATP binding 
+				0016021 - integral to membrane 
+				0030163 - protein catabolic process 
+			CC1G_01720T0
+				0006807 - nitrogen compound metabolic process 
+				0016151 - nickel ion binding 
+			CC1G_01722T0
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_01723T0
+				0005515 - protein binding 
+				0005634 - nucleus 
+				0042255 - ribosome assembly 
+			CC1G_01729T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_01737T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_01738T0
+				0004491 - methylmalonate\-semialdehyde dehydrogenase (acylating) activity 
+				0006573 - valine metabolic process 
+			CC1G_01740T0
+				0005093 - Rab GDP\-dissociation inhibitor activity 
+				0015031 - protein transport 
+			CC1G_01742T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_01743T0
+				0003991 - acetylglutamate kinase activity 
+				0006526 - arginine biosynthetic process 
+			CC1G_01745T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_01752T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01755T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_13697T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01759T0
+				0003725 - double\-stranded RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_01761T0
+				0000145 - exocyst 
+				0015031 - protein transport 
+			CC1G_01763T0
+				0000785 - chromatin 
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_01764T0
+				0006505 - GPI anchor metabolic process 
+				0016788 - hydrolase activity\, acting on ester bonds 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+			CC1G_01766T0
+				0003723 - RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_13698T0
+				0003713 - transcription coactivator activity 
+				0005634 - nucleus 
+				0045941 - positive regulation of transcription 
+			CC1G_13699T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01782T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006189 - 'de novo' IMP biosynthetic process 
+			CC1G_01784T0
+				0004367 - glycerol\-3\-phosphate dehydrogenase (NAD\+) activity 
+				0005975 - carbohydrate metabolic process 
+				0009331 - glycerol\-3\-phosphate dehydrogenase complex 
+			CC1G_01785T0
+				0005515 - protein binding 
+				0016020 - membrane 
+				0016192 - vesicle\-mediated transport 
+			CC1G_01796T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01797T0
+				0006629 - lipid metabolic process 
+				0008081 - phosphoric diester hydrolase activity 
+			CC1G_01799T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_01801T0
+				0006886 - intracellular protein transport 
+			CC1G_01802T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006434 - seryl\-tRNA aminoacylation 
+			CC1G_01803T0
+				0005524 - ATP binding 
+				0005663 - DNA replication factor C complex 
+				0006260 - DNA replication 
+			CC1G_01807T0
+				0003677 - DNA binding 
+				0006351 - transcription\, DNA\-dependent 
+				0030880 - RNA polymerase complex 
+			CC1G_01808T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0007131 - reciprocal meiotic recombination 
+			CC1G_01812T0
+				0003779 - actin binding 
+				0006952 - defense response 
+				0009279 - cell outer membrane 
+			CC1G_01816T0
+				0003677 - DNA binding 
+				0045449 - regulation of transcription 
+			CC1G_01817T0
+				0003824 - catalytic activity 
+				0044237 - cellular metabolic process 
+			CC1G_01818T0
+				0008152 - metabolic process 
+				0010181 - FMN binding 
+			CC1G_13703T0
+				0003677 - DNA binding 
+				0006350 - transcription 
+			CC1G_01822T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_01823T0
+				0007067 - mitosis 
+			CC1G_01828T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_13704T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01831T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01833T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01834T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01835T0
+				0004222 - metalloendopeptidase activity 
+				0005759 - mitochondrial matrix 
+				0006508 - proteolysis 
+			CC1G_01841T0
+				0006605 - protein targeting 
+				0015450 - P\-P\-bond\-hydrolysis\-driven protein transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_01843T0
+				0004375 - glycine dehydrogenase (decarboxylating) activity 
+				0006544 - glycine metabolic process 
+			CC1G_01846T0
+				0006364 - rRNA processing 
+				0030688 - preribosome\, small subunit precursor 
+			CC1G_13707T0
+				0005496 - steroid binding 
+				0006810 - transport 
+			CC1G_01847T0
+				0005524 - ATP binding 
+				0043687 - post\-translational protein modification 
+			CC1G_01849T0
+				0004049 - anthranilate synthase activity 
+				0009058 - biosynthetic process 
+			CC1G_01855T0
+				0006629 - lipid metabolic process 
+				0016788 - hydrolase activity\, acting on ester bonds 
+			CC1G_01857T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_13708T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_01861T0
+				0005737 - cytoplasm 
+				0015940 - pantothenate biosynthetic process 
+				0050661 - NADP or NADPH binding 
+			CC1G_01866T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_01867T0
+				0000226 - microtubule cytoskeleton organization 
+				0000922 - spindle pole 
+				0005815 - microtubule organizing center 
+			CC1G_01868T0
+				0004427 - inorganic diphosphatase activity 
+				0005737 - cytoplasm 
+				0006796 - phosphate metabolic process 
+			CC1G_01871T0
+				0045454 - cell redox homeostasis 
+			CC1G_01873T0
+				0006506 - GPI anchor biosynthetic process 
+				0016757 - transferase activity\, transferring glycosyl groups 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+			CC1G_01876T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01877T0
+				0008703 - 5\-amino\-6\-(5\-phosphoribosylamino)uracil reductase activity 
+				0009231 - riboflavin biosynthetic process 
+			CC1G_13709T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_13710T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_06538T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_06539T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_06540T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_13712T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005634 - nucleus 
+				0005829 - cytosol 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_13713T0
+				0006777 - Mo\-molybdopterin cofactor biosynthetic process 
+				0019008 - molybdopterin synthase complex 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_06547T0
+				0005509 - calcium ion binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_13714T0
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_13718T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_06560T0
+				0003743 - translation initiation factor activity 
+				0006413 - translational initiation 
+			CC1G_06561T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_06562T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_06563T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_06564T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_06565T0
+				0008152 - metabolic process 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_06567T0
+				0000724 - double\-strand break repair via homologous recombination 
+				0005515 - protein binding 
+				0005634 - nucleus 
+			CC1G_06569T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_06570T0
+				0000139 - Golgi membrane 
+				0005789 - endoplasmic reticulum membrane 
+				0006672 - ceramide metabolic process 
+				0016021 - integral to membrane 
+				0016811 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds\, in linear amides 
+			CC1G_06571T0
+				0003746 - translation elongation factor activity 
+				0005622 - intracellular 
+				0006414 - translational elongation 
+			CC1G_06578T0
+				0005507 - copper ion binding 
+				0055070 - copper ion homeostasis 
+			CC1G_06579T0
+				0006629 - lipid metabolic process 
+				0020037 - heme binding 
+			CC1G_06581T0
+				0005515 - protein binding 
+				0005794 - Golgi apparatus 
+				0006886 - intracellular protein transport 
+				0030117 - membrane coat 
+			CC1G_06582T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06590T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_06592T0
+				0005622 - intracellular 
+				0006810 - transport 
+			CC1G_06594T0
+				0008152 - metabolic process 
+				0016787 - hydrolase activity 
+			CC1G_13722T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_06600T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_13723T0
+				0005488 - binding 
+				0006098 - pentose\-phosphate shunt 
+			CC1G_06606T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06608T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06609T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_06611T0
+				0006508 - proteolysis 
+				0016020 - membrane 
+			CC1G_06613T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_06618T0
+				0006904 - vesicle docking during exocytosis 
+			CC1G_06619T0
+				0004622 - lysophospholipase activity 
+				0005789 - endoplasmic reticulum membrane 
+				0046470 - phosphatidylcholine metabolic process 
+			CC1G_06620T0
+				0004451 - isocitrate lyase activity 
+				0019752 - carboxylic acid metabolic process 
+			CC1G_13726T0
+				0005634 - nucleus 
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_06624T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_06625T0
+				0005524 - ATP binding 
+				0015937 - coenzyme A biosynthetic process 
+			CC1G_06626T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030126 - COPI vesicle coat 
+			CC1G_06627T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_06628T0
+				0004100 - chitin synthase activity 
+				0006031 - chitin biosynthetic process 
+				0016020 - membrane 
+			CC1G_00473T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_00475T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_00477T0
+				0005874 - microtubule 
+				0007021 - tubulin complex assembly 
+				0051082 - unfolded protein binding 
+			CC1G_13730T0
+				0005524 - ATP binding 
+				0005840 - ribosome 
+				0046488 - phosphatidylinositol metabolic process 
+			CC1G_00485T0
+				0006412 - translation 
+				0008168 - methyltransferase activity 
+			CC1G_00486T0
+				0004221 - ubiquitin thiolesterase activity 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+
+
+Group # : 3, #Clusters : 1, 0000772 : mating pheromone activity 
+
+	Cluster 3, 0000772 : mating pheromone activity 
+		E = 2.94647e-14
+		P = 2.20149e-18
+		Cluster size = 10
+		Number of genes in this cluster = 6, chromosome # = 1
+		Number of genes with this term (or a child term) = 9
+		Genes:
+			CC1G_02130T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_02132T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_02133T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_02134T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_02135T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_15341T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+
+
+Group # : 4, #Clusters : 1, 0006468 : protein amino acid phosphorylation 
+
+	Cluster 4, 0006468 : protein amino acid phosphorylation 
+		E = 4.75856e-14
+		P = 3.57787e-18
+		Cluster size = 94
+		Number of genes in this cluster = 20, chromosome # = 12
+		Number of genes with this term (or a child term) = 194
+		Genes:
+			CC1G_06991T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07007T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07009T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07012T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07019T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07022T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07024T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07025T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07032T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07033T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_12692T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_12700T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09358T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09362T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09364T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09368T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_15124T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09382T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09389T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_15126T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+
+
+Group # : 5, #Clusters : 1, 0008150 : biological_process 
+
+	Cluster 5, 0008150 : biological_process 
+		E = 1.61703e-13
+		P = 1.27396e-17
+		Cluster size = 701
+		Number of genes in this cluster = 263, chromosome # = 5
+		Number of genes with this term (or a child term) = 3156
+		Genes:
+			CC1G_01077T0
+				0003852 - 2\-isopropylmalate synthase activity 
+				0009098 - leucine biosynthetic process 
+			CC1G_01078T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006424 - glutamyl\-tRNA aminoacylation 
+			CC1G_01080T0
+				0004112 - cyclic\-nucleotide phosphodiesterase activity 
+				0005622 - intracellular 
+				0016070 - RNA metabolic process 
+			CC1G_01082T0
+				0015986 - ATP synthesis coupled proton transport 
+				0045261 - proton\-transporting ATP synthase complex\, catalytic core F(1) 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_01085T0
+				0004089 - carbonate dehydratase activity 
+				0015976 - carbon utilization 
+			CC1G_01086T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_01087T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_01089T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01094T0
+				0003779 - actin binding 
+				0005856 - cytoskeleton 
+				0030833 - regulation of actin filament polymerization 
+			CC1G_01095T0
+				0004871 - signal transducer activity 
+				0007165 - signal transduction 
+			CC1G_01096T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01097T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_01098T0
+				0004053 - arginase activity 
+				0006525 - arginine metabolic process 
+			CC1G_01099T0
+				0009058 - biosynthetic process 
+				0030170 - pyridoxal phosphate binding 
+			CC1G_01103T0
+				0004721 - phosphoprotein phosphatase activity 
+				0005634 - nucleus 
+				0006464 - protein modification process 
+			CC1G_01106T0
+				0006897 - endocytosis 
+				0016020 - membrane 
+			CC1G_01107T0
+				0005576 - extracellular region 
+				0030245 - cellulose catabolic process 
+				0030248 - cellulose binding 
+			CC1G_01108T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01111T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01113T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006260 - DNA replication 
+			CC1G_01115T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_01116T0
+				0007049 - cell cycle 
+				0016538 - cyclin\-dependent protein kinase regulator activity 
+			CC1G_13867T0
+				0000398 - nuclear mRNA splicing\, via spliceosome 
+				0005515 - protein binding 
+				0005681 - spliceosome 
+			CC1G_01121T0
+				0004089 - carbonate dehydratase activity 
+				0015976 - carbon utilization 
+			CC1G_01122T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_01124T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_01130T0
+				0015031 - protein transport 
+			CC1G_01131T0
+				0006950 - response to stress 
+			CC1G_01133T0
+				0003677 - DNA binding 
+				0005622 - intracellular 
+				0006281 - DNA repair 
+			CC1G_01137T0
+				0004746 - riboflavin synthase activity 
+				0009231 - riboflavin biosynthetic process 
+				0009349 - riboflavin synthase complex 
+			CC1G_01140T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006412 - translation 
+			CC1G_13869T0
+				0006506 - GPI anchor biosynthetic process 
+				0016757 - transferase activity\, transferring glycosyl groups 
+				0031227 - intrinsic to endoplasmic reticulum membrane 
+			CC1G_01144T0
+				0009168 - purine ribonucleoside monophosphate biosynthetic process 
+				0019239 - deaminase activity 
+			CC1G_01149T0
+				0006520 - amino acid metabolic process 
+			CC1G_13871T0
+				0000162 - tryptophan biosynthetic process 
+				0030170 - pyridoxal phosphate binding 
+			CC1G_01152T0
+				0044237 - cellular metabolic process 
+			CC1G_01156T0
+				0005634 - nucleus 
+				0016021 - integral to membrane 
+				0045449 - regulation of transcription 
+			CC1G_01160T0
+				0005515 - protein binding 
+				0042147 - retrograde transport\, endosome to Golgi 
+			CC1G_01163T0
+				0005488 - binding 
+				0006779 - porphyrin biosynthetic process 
+			CC1G_01170T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01173T0
+				0005525 - GTP binding 
+				0006886 - intracellular protein transport 
+			CC1G_01175T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_01176T0
+				0015986 - ATP synthesis coupled proton transport 
+				0033178 - proton\-transporting two\-sector ATPase complex\, catalytic domain 
+				0046961 - proton\-transporting ATPase activity\, rotational mechanism 
+			CC1G_01178T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01180T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_13880T0
+				0004221 - ubiquitin thiolesterase activity 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_01184T0
+				0004221 - ubiquitin thiolesterase activity 
+				0005622 - intracellular 
+				0006464 - protein modification process 
+			CC1G_01188T0
+				0005669 - transcription factor TFIID complex 
+				0006367 - transcription initiation from RNA polymerase II promoter 
+				0016251 - general RNA polymerase II transcription factor activity 
+			CC1G_01191T0
+				0016881 - acid\-amino acid ligase activity 
+				0045116 - protein neddylation 
+			CC1G_01194T0
+				0003824 - catalytic activity 
+				0006281 - DNA repair 
+			CC1G_01195T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01198T0
+				0004489 - methylenetetrahydrofolate reductase (NADPH) activity 
+				0006555 - methionine metabolic process 
+			CC1G_01199T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_01200T0
+				0009966 - regulation of signal transduction 
+			CC1G_01201T0
+				0006979 - response to oxidative stress 
+				0020037 - heme binding 
+			CC1G_13883T0
+				0005488 - binding 
+				0046854 - phosphoinositide phosphorylation 
+			CC1G_13886T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_13888T0
+				0007067 - mitosis 
+			CC1G_13889T0
+				0005515 - protein binding 
+				0007067 - mitosis 
+			CC1G_01211T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01215T0
+				0004871 - signal transducer activity 
+				0005834 - heterotrimeric G\-protein complex 
+				0007186 - G\-protein coupled receptor protein signaling pathway 
+			CC1G_01216T0
+				0004871 - signal transducer activity 
+				0005834 - heterotrimeric G\-protein complex 
+				0007186 - G\-protein coupled receptor protein signaling pathway 
+			CC1G_13890T0
+				0045454 - cell redox homeostasis 
+			CC1G_01220T0
+				0004725 - protein tyrosine phosphatase activity 
+				0016311 - dephosphorylation 
+			CC1G_01221T0
+				0005524 - ATP binding 
+				0006730 - one\-carbon compound metabolic process 
+			CC1G_01222T0
+				0004044 - amidophosphoribosyltransferase activity 
+				0009116 - nucleoside metabolic process 
+			CC1G_01227T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01231T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_01236T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_01237T0
+				0003886 - DNA (cytosine\-5\-)\-methyltransferase activity 
+				0006306 - DNA methylation 
+			CC1G_01238T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006270 - DNA replication initiation 
+			CC1G_01239T0
+				0004379 - glycylpeptide N\-tetradecanoyltransferase activity 
+				0006499 - N\-terminal protein myristoylation 
+			CC1G_12012T0
+				0000785 - chromatin 
+				0003682 - chromatin binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_12013T0
+				0003723 - RNA binding 
+				0008033 - tRNA processing 
+			CC1G_12014T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_12015T0
+				0003824 - catalytic activity 
+				0009058 - biosynthetic process 
+			CC1G_12017T0
+				0003677 - DNA binding 
+				0005667 - transcription factor complex 
+				0006366 - transcription from RNA polymerase II promoter 
+			CC1G_12019T0
+				0007242 - intracellular signaling cascade 
+				0008270 - zinc ion binding 
+			CC1G_12023T0
+				0000785 - chromatin 
+				0003682 - chromatin binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_04181T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_13899T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_04183T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006457 - protein folding 
+			CC1G_04184T0
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_04185T0
+				0030001 - metal ion transport 
+				0046872 - metal ion binding 
+			CC1G_04186T0
+				0006865 - amino acid transport 
+				0015171 - amino acid transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_04187T0
+				0000175 - 3'\-5'\-exoribonuclease activity 
+				0006396 - RNA processing 
+			CC1G_13902T0
+				0004143 - diacylglycerol kinase activity 
+				0007205 - activation of protein kinase C activity by G\-protein coupled receptor protein signaling pathway 
+			CC1G_13903T0
+				0005643 - nuclear pore 
+				0006913 - nucleocytoplasmic transport 
+			CC1G_04196T0
+				0005634 - nucleus 
+				0007049 - cell cycle 
+			CC1G_04198T0
+				0004017 - adenylate kinase activity 
+				0006139 - nucleobase\, nucleoside\, nucleotide and nucleic acid metabolic process 
+			CC1G_04199T0
+				0003824 - catalytic activity 
+				0044237 - cellular metabolic process 
+			CC1G_04200T0
+				0003950 - NAD\+ ADP\-ribosyltransferase activity 
+				0005634 - nucleus 
+				0006471 - protein amino acid ADP\-ribosylation 
+			CC1G_04202T0
+				0015031 - protein transport 
+				0016021 - integral to membrane 
+			CC1G_04204T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_04206T0
+				0006614 - SRP\-dependent cotranslational protein targeting to membrane 
+				0008312 - 7S RNA binding 
+				0048500 - signal recognition particle 
+			CC1G_04209T0
+				0008703 - 5\-amino\-6\-(5\-phosphoribosylamino)uracil reductase activity 
+				0009231 - riboflavin biosynthetic process 
+			CC1G_04210T0
+				0000036 - acyl carrier activity 
+				0008152 - metabolic process 
+			CC1G_04212T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_04218T0
+				0001522 - pseudouridine synthesis 
+				0009982 - pseudouridine synthase activity 
+			CC1G_04219T0
+				0008152 - metabolic process 
+				0016829 - lyase activity 
+			CC1G_04223T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_04228T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_04230T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_04234T0
+				0004428 - inositol or phosphatidylinositol kinase activity 
+				0046854 - phosphoinositide phosphorylation 
+			CC1G_04235T0
+				0004377 - glycolipid 2\-alpha\-mannosyltransferase activity 
+				0006486 - protein amino acid glycosylation 
+				0016020 - membrane 
+			CC1G_04236T0
+				0005741 - mitochondrial outer membrane 
+				0006820 - anion transport 
+				0008308 - voltage\-gated anion channel activity 
+			CC1G_04241T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006432 - phenylalanyl\-tRNA aminoacylation 
+			CC1G_04242T0
+				0000774 - adenyl\-nucleotide exchange factor activity 
+				0006457 - protein folding 
+			CC1G_13910T0
+				0005524 - ATP binding 
+				0009396 - folic acid and derivative biosynthetic process 
+			CC1G_04247T0
+				0005975 - carbohydrate metabolic process 
+				0042578 - phosphoric ester hydrolase activity 
+			CC1G_04250T0
+				0005524 - ATP binding 
+				0006508 - proteolysis 
+			CC1G_04251T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006289 - nucleotide\-excision repair 
+			CC1G_04252T0
+				0000148 - 1\,3\-beta\-glucan synthase complex 
+				0003843 - 1\,3\-beta\-glucan synthase activity 
+				0006075 - 1\,3\-beta\-glucan biosynthetic process 
+			CC1G_13912T0
+				0005737 - cytoplasm 
+				0006508 - proteolysis 
+				0008239 - dipeptidyl\-peptidase activity 
+			CC1G_04257T0
+				0003824 - catalytic activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_04263T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_04265T0
+				0004377 - glycolipid 2\-alpha\-mannosyltransferase activity 
+				0006486 - protein amino acid glycosylation 
+				0016020 - membrane 
+			CC1G_04271T0
+				0044237 - cellular metabolic process 
+			CC1G_04273T0
+				0004177 - aminopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_04274T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_04277T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_04278T0
+				0006464 - protein modification process 
+			CC1G_04280T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_04284T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030117 - membrane coat 
+			CC1G_04287T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_04288T0
+				0006865 - amino acid transport 
+				0015171 - amino acid transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_04292T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_13917T0
+				0005840 - ribosome 
+				0016491 - oxidoreductase activity 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_04309T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_04312T0
+				0004045 - aminoacyl\-tRNA hydrolase activity 
+				0006412 - translation 
+			CC1G_04314T0
+				0004056 - argininosuccinate lyase activity 
+				0042450 - arginine biosynthetic process via ornithine 
+			CC1G_04315T0
+				0005515 - protein binding 
+				0016020 - membrane 
+				0016192 - vesicle\-mediated transport 
+			CC1G_04317T0
+				0004069 - L\-aspartate\:2\-oxoglutarate aminotransferase activity 
+				0006520 - amino acid metabolic process 
+			CC1G_11923T0
+				0003723 - RNA binding 
+				0006364 - rRNA processing 
+			CC1G_11924T0
+				0006508 - proteolysis 
+				0016020 - membrane 
+			CC1G_11928T0
+				0005737 - cytoplasm 
+				0009435 - NAD biosynthetic process 
+				0030429 - kynureninase activity 
+			CC1G_11929T0
+				0008152 - metabolic process 
+				0016491 - oxidoreductase activity 
+			CC1G_11932T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_13922T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_11936T0
+				0004066 - asparagine synthase (glutamine\-hydrolyzing) activity 
+				0006529 - asparagine biosynthetic process 
+			CC1G_11937T0
+				0005515 - protein binding 
+				0016020 - membrane 
+				0016192 - vesicle\-mediated transport 
+			CC1G_11938T0
+				0008654 - phospholipid biosynthetic process 
+				0016020 - membrane 
+				0016780 - phosphotransferase activity\, for other substituted phosphate groups 
+			CC1G_11941T0
+				0003882 - CDP\-diacylglycerol\-serine O\-phosphatidyltransferase activity 
+				0016020 - membrane 
+				0046341 - CDP\-diacylglycerol metabolic process 
+			CC1G_11942T0
+				0003896 - DNA primase activity 
+				0005658 - alpha DNA polymerase\:primase complex 
+				0006269 - DNA replication\, synthesis of RNA primer 
+			CC1G_12961T0
+				0004221 - ubiquitin thiolesterase activity 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_12964T0
+				0004108 - citrate (Si)\-synthase activity 
+				0044262 - cellular carbohydrate metabolic process 
+			CC1G_12966T0
+				0000159 - protein phosphatase type 2A complex 
+				0007165 - signal transduction 
+				0008601 - protein phosphatase type 2A regulator activity 
+			CC1G_13925T0
+				0004527 - exonuclease activity 
+				0005622 - intracellular 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_13926T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_05085T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006436 - tryptophanyl\-tRNA aminoacylation 
+			CC1G_05089T0
+				0003824 - catalytic activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_05091T0
+				0005488 - binding 
+				0006808 - regulation of nitrogen utilization 
+			CC1G_05093T0
+				0003684 - damaged DNA binding 
+				0006281 - DNA repair 
+			CC1G_05095T0
+				0006270 - DNA replication initiation 
+			CC1G_05099T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_13933T0
+				0006537 - glutamate biosynthetic process 
+				0009055 - electron carrier activity 
+			CC1G_05103T0
+				0000105 - histidine biosynthetic process 
+				0004424 - imidazoleglycerol\-phosphate dehydratase activity 
+			CC1G_13935T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+				0016020 - membrane 
+			CC1G_05105T0
+				0009987 - cellular process 
+			CC1G_05107T0
+				0015520 - tetracycline\:hydrogen antiporter activity 
+				0016021 - integral to membrane 
+				0046677 - response to antibiotic 
+			CC1G_13936T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_05111T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_05112T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_05114T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_05118T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_05119T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_13945T0
+				0005785 - signal recognition particle receptor complex 
+				0006614 - SRP\-dependent cotranslational protein targeting to membrane 
+				0008312 - 7S RNA binding 
+				0048500 - signal recognition particle 
+			CC1G_05130T0
+				0008318 - protein prenyltransferase activity 
+				0018346 - protein amino acid prenylation 
+			CC1G_05131T0
+				0005488 - binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_05135T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_05138T0
+				0045454 - cell redox homeostasis 
+			CC1G_13947T0
+				0000226 - microtubule cytoskeleton organization 
+				0005737 - cytoplasm 
+				0008017 - microtubule binding 
+			CC1G_05143T0
+				0016021 - integral to membrane 
+				0022891 - substrate\-specific transmembrane transporter activity 
+				0055085 - transmembrane transport 
+			CC1G_05144T0
+				0004556 - alpha\-amylase activity 
+				0016052 - carbohydrate catabolic process 
+			CC1G_05145T0
+				0005525 - GTP binding 
+				0005874 - microtubule 
+				0007017 - microtubule\-based process 
+				0043234 - protein complex 
+			CC1G_05150T0
+				0005634 - nucleus 
+				0008159 - positive transcription elongation factor activity 
+				0045941 - positive regulation of transcription 
+			CC1G_05151T0
+				0009166 - nucleotide catabolic process 
+				0016787 - hydrolase activity 
+			CC1G_05154T0
+				0003677 - DNA binding 
+				0006350 - transcription 
+			CC1G_05155T0
+				0009987 - cellular process 
+			CC1G_05159T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_05163T0
+				0006098 - pentose\-phosphate shunt 
+				0008442 - 3\-hydroxyisobutyrate dehydrogenase activity 
+			CC1G_05164T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_05166T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_05167T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005829 - cytosol 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_05169T0
+				0005634 - nucleus 
+				0007049 - cell cycle 
+			CC1G_05172T0
+				0000221 - vacuolar proton\-transporting V\-type ATPase\, V1 domain 
+				0005488 - binding 
+				0015986 - ATP synthesis coupled proton transport 
+			CC1G_05177T0
+				0004115 - 3'\,5'\-cyclic\-AMP phosphodiesterase activity 
+				0006198 - cAMP catabolic process 
+			CC1G_05180T0
+				0005524 - ATP binding 
+				0016567 - protein ubiquitination 
+			CC1G_05182T0
+				0006725 - cellular aromatic compound metabolic process 
+				0009055 - electron carrier activity 
+			CC1G_05183T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_05184T0
+				0003963 - RNA\-3'\-phosphate cyclase activity 
+				0006396 - RNA processing 
+			CC1G_05188T0
+				0005975 - carbohydrate metabolic process 
+				0016868 - intramolecular transferase activity\, phosphotransferases 
+			CC1G_05190T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_05191T0
+				0005524 - ATP binding 
+				0008033 - tRNA processing 
+			CC1G_05193T0
+				0015986 - ATP synthesis coupled proton transport 
+				0033180 - proton\-transporting V\-type ATPase\, V1 domain 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_13956T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0005737 - cytoplasm 
+				0030163 - protein catabolic process 
+			CC1G_05197T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_05205T0
+				0004618 - phosphoglycerate kinase activity 
+				0006096 - glycolysis 
+			CC1G_11758T0
+				0005732 - small nucleolar ribonucleoprotein complex 
+				0006364 - rRNA processing 
+				0019843 - rRNA binding 
+			CC1G_11763T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_11764T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_11766T0
+				0005524 - ATP binding 
+				0006139 - nucleobase\, nucleoside\, nucleotide and nucleic acid metabolic process 
+			CC1G_03778T0
+				0004143 - diacylglycerol kinase activity 
+				0007205 - activation of protein kinase C activity by G\-protein coupled receptor protein signaling pathway 
+			CC1G_03779T0
+				0003779 - actin binding 
+				0030036 - actin cytoskeleton organization 
+			CC1G_03782T0
+				0015031 - protein transport 
+			CC1G_03784T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_03786T0
+				0006457 - protein folding 
+				0031072 - heat shock protein binding 
+			CC1G_03787T0
+				0006807 - nitrogen compound metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_03788T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_03790T0
+				0004351 - glutamate decarboxylase activity 
+				0006536 - glutamate metabolic process 
+			CC1G_03792T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006260 - DNA replication 
+			CC1G_03799T0
+				0016491 - oxidoreductase activity 
+				0019538 - protein metabolic process 
+			CC1G_13960T0
+				0005524 - ATP binding 
+				0005622 - intracellular 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03802T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03810T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_03813T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_03818T0
+				0004573 - mannosyl\-oligosaccharide glucosidase activity 
+				0009311 - oligosaccharide metabolic process 
+			CC1G_03822T0
+				0005524 - ATP binding 
+				0006259 - DNA metabolic process 
+			CC1G_03827T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_03829T0
+				0003723 - RNA binding 
+				0006464 - protein modification process 
+			CC1G_03837T0
+				0005622 - intracellular 
+				0006464 - protein modification process 
+				0016881 - acid\-amino acid ligase activity 
+			CC1G_03838T0
+				0006370 - mRNA capping 
+			CC1G_03839T0
+				0006508 - proteolysis 
+				0008237 - metallopeptidase activity 
+			CC1G_03850T0
+				0005737 - cytoplasm 
+				0045454 - cell redox homeostasis 
+				0050660 - FAD binding 
+			CC1G_03852T0
+				0005737 - cytoplasm 
+				0006415 - translational termination 
+				0016149 - translation release factor activity\, codon specific 
+			CC1G_03855T0
+				0005524 - ATP binding 
+				0006241 - CTP biosynthetic process 
+			CC1G_03856T0
+				0006122 - mitochondrial electron transport\, ubiquinol to cytochrome c 
+				0008121 - ubiquinol\-cytochrome\-c reductase activity 
+			CC1G_03857T0
+				0004802 - transketolase activity 
+				0008152 - metabolic process 
+			CC1G_03858T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_03861T0
+				0008271 - secondary active sulfate transmembrane transporter activity 
+				0008272 - sulfate transport 
+				0016021 - integral to membrane 
+			CC1G_03866T0
+				0003684 - damaged DNA binding 
+				0005634 - nucleus 
+				0006281 - DNA repair 
+			CC1G_03867T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_03871T0
+				0005739 - mitochondrion 
+				0008410 - CoA\-transferase activity 
+				0046952 - ketone body catabolic process 
+			CC1G_03873T0
+				0008152 - metabolic process 
+				0016491 - oxidoreductase activity 
+			CC1G_03874T0
+				0042546 - cell wall biogenesis 
+			CC1G_03875T0
+				0008152 - metabolic process 
+				0010181 - FMN binding 
+			CC1G_03877T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0005737 - cytoplasm 
+				0030163 - protein catabolic process 
+			CC1G_03881T0
+				0003743 - translation initiation factor activity 
+				0006413 - translational initiation 
+			CC1G_03889T0
+				0005622 - intracellular 
+				0006284 - base\-excision repair 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_03890T0
+				0004096 - catalase activity 
+				0006979 - response to oxidative stress 
+			CC1G_03896T0
+				0003677 - DNA binding 
+				0006350 - transcription 
+			CC1G_03897T0
+				0005524 - ATP binding 
+				0006298 - mismatch repair 
+			CC1G_03898T0
+				0005515 - protein binding 
+				0043461 - proton\-transporting ATP synthase complex assembly 
+			CC1G_03905T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_03906T0
+				0009058 - biosynthetic process 
+			CC1G_03907T0
+				0005667 - transcription factor complex 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0030528 - transcription regulator activity 
+			CC1G_03908T0
+				0003779 - actin binding 
+				0007010 - cytoskeleton organization 
+			CC1G_03909T0
+				0003747 - translation release factor activity 
+				0006415 - translational termination 
+			CC1G_13972T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_03911T0
+				0000214 - tRNA\-intron endonuclease complex 
+				0003676 - nucleic acid binding 
+				0006388 - tRNA splicing\, via endonucleolytic cleavage and ligation 
+			CC1G_03912T0
+				0006629 - lipid metabolic process 
+				0016788 - hydrolase activity\, acting on ester bonds 
+			CC1G_03913T0
+				0000087 - M phase of mitotic cell cycle 
+				0004725 - protein tyrosine phosphatase activity 
+				0005622 - intracellular 
+			CC1G_03914T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006457 - protein folding 
+			CC1G_13974T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_03921T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_03922T0
+				0005576 - extracellular region 
+				0008152 - metabolic process 
+				0050525 - cutinase activity 
+			CC1G_03923T0
+				0005975 - carbohydrate metabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_03927T0
+				0005524 - ATP binding 
+				0006457 - protein folding 
+			CC1G_11497T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_11503T0
+				0005576 - extracellular region 
+				0008152 - metabolic process 
+				0050525 - cutinase activity 
+			CC1G_13977T0
+				0005506 - iron ion binding 
+				0005783 - endoplasmic reticulum 
+				0016021 - integral to membrane 
+				0019538 - protein metabolic process 
+			CC1G_11507T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_11509T0
+				0003677 - DNA binding 
+				0005669 - transcription factor TFIID complex 
+				0006355 - regulation of transcription\, DNA\-dependent 
+
+
+Group # : 6, #Clusters : 1, 0004609 : phosphatidylserine decarboxylase activity 
+
+	Cluster 6, 0004609 : phosphatidylserine decarboxylase activity 
+		E = 2.81998e-12
+		P = 2.10635e-16
+		Cluster size = 6
+		Number of genes in this cluster = 5, chromosome # = 2
+		Number of genes with this term (or a child term) = 9
+		Genes:
+			CC1G_09241T0
+				0004609 - phosphatidylserine decarboxylase activity 
+				0008654 - phospholipid biosynthetic process 
+			CC1G_09240T0
+				0004609 - phosphatidylserine decarboxylase activity 
+				0008654 - phospholipid biosynthetic process 
+			CC1G_09238T0
+				0004609 - phosphatidylserine decarboxylase activity 
+				0008654 - phospholipid biosynthetic process 
+			CC1G_09237T0
+				0004609 - phosphatidylserine decarboxylase activity 
+				0008654 - phospholipid biosynthetic process 
+			CC1G_09235T0
+				0004609 - phosphatidylserine decarboxylase activity 
+				0008654 - phospholipid biosynthetic process 
+
+
+Group # : 7, #Clusters : 1, 0005199 : structural constituent of cell wall 
+
+	Cluster 7, 0005199 : structural constituent of cell wall 
+		E = 1.266e-11
+		P = 9.4619e-16
+		Cluster size = 14
+		Number of genes in this cluster = 7, chromosome # = 1
+		Number of genes with this term (or a child term) = 33
+		Genes:
+			CC1G_02173T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02174T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02181T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02182T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02183T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02184T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_02185T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+
+
+Group # : 8, #Clusters : 1, 0030248 : cellulose binding 
+
+	Cluster 8, 0030248 : cellulose binding 
+		E = 2.74816e-11
+		P = 2.0621e-15
+		Cluster size = 67
+		Number of genes in this cluster = 10, chromosome # = 6
+		Number of genes with this term (or a child term) = 38
+		Genes:
+			CC1G_09635T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_14064T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_05960T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_05961T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06006T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06007T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06008T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06009T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06010T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_06012T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+
+
+Group # : 9, #Clusters : 1, 0008150 : biological_process 
+
+	Cluster 9, 0008150 : biological_process 
+		E = 4.95931e-10
+		P = 3.89118e-14
+		Cluster size = 649
+		Number of genes in this cluster = 236, chromosome # = 8
+		Number of genes with this term (or a child term) = 3156
+		Genes:
+			CC1G_11399T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_11395T0
+				0004177 - aminopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_11394T0
+				0004806 - triacylglycerol lipase activity 
+				0006629 - lipid metabolic process 
+			CC1G_14569T0
+				0005525 - GTP binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_14571T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_11387T0
+				0008610 - lipid biosynthetic process 
+				0008825 - cyclopropane\-fatty\-acyl\-phospholipid synthase activity 
+			CC1G_11386T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_11381T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_11380T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_11378T0
+				0004418 - hydroxymethylbilane synthase activity 
+				0033014 - tetrapyrrole biosynthetic process 
+			CC1G_11377T0
+				0005215 - transporter activity 
+				0005622 - intracellular 
+				0006810 - transport 
+			CC1G_00007T0
+				0004190 - aspartic\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_00014T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_00015T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_00017T0
+				0016021 - integral to membrane 
+				0016192 - vesicle\-mediated transport 
+			CC1G_00019T0
+				0004534 - 5'\-3' exoribonuclease activity 
+				0005634 - nucleus 
+				0006139 - nucleobase\, nucleoside\, nucleotide and nucleic acid metabolic process 
+			CC1G_00020T0
+				0044237 - cellular metabolic process 
+			CC1G_00021T0
+				0004089 - carbonate dehydratase activity 
+				0015976 - carbon utilization 
+			CC1G_00022T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_00032T0
+				0005524 - ATP binding 
+				0015031 - protein transport 
+			CC1G_00033T0
+				0046907 - intracellular transport 
+			CC1G_00034T0
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_00035T0
+				0005524 - ATP binding 
+				0005875 - microtubule associated complex 
+				0007018 - microtubule\-based movement 
+			CC1G_00036T0
+				0004151 - dihydroorotase activity 
+				0019856 - pyrimidine base biosynthetic process 
+			CC1G_14578T0
+				0007050 - cell cycle arrest 
+			CC1G_14580T0
+				0005524 - ATP binding 
+				0006464 - protein modification process 
+			CC1G_00050T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_00053T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_00055T0
+				0008152 - metabolic process 
+				0016616 - oxidoreductase activity\, acting on the CH\-OH group of donors\, NAD or NADP as acceptor 
+			CC1G_00058T0
+				0003870 - 5\-aminolevulinate synthase activity 
+				0009058 - biosynthetic process 
+			CC1G_14581T0
+				0003992 - N2\-acetyl\-L\-ornithine\:2\-oxoglutarate 5\-aminotransferase activity 
+				0006525 - arginine metabolic process 
+			CC1G_00063T0
+				0005506 - iron ion binding 
+				0019538 - protein metabolic process 
+			CC1G_00065T0
+				0005506 - iron ion binding 
+				0019538 - protein metabolic process 
+			CC1G_14583T0
+				0006139 - nucleobase\, nucleoside\, nucleotide and nucleic acid metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_00069T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_00073T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_00075T0
+				0008531 - riboflavin kinase activity 
+				0009231 - riboflavin biosynthetic process 
+			CC1G_00076T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00077T0
+				0005740 - mitochondrial envelope 
+				0006122 - mitochondrial electron transport\, ubiquinol to cytochrome c 
+				0008121 - ubiquinol\-cytochrome\-c reductase activity 
+			CC1G_00081T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00083T0
+				0003677 - DNA binding 
+				0006342 - chromatin silencing 
+			CC1G_00086T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_00087T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14586T0
+				0003676 - nucleic acid binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00089T0
+				0008093 - cytoskeletal adaptor activity 
+				0046847 - filopodium formation 
+			CC1G_00090T0
+				0004815 - aspartate\-tRNA ligase activity 
+				0005737 - cytoplasm 
+				0006422 - aspartyl\-tRNA aminoacylation 
+			CC1G_00092T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_00093T0
+				0003993 - acid phosphatase activity 
+				0009059 - macromolecule biosynthetic process 
+			CC1G_00099T0
+				0005634 - nucleus 
+				0006364 - rRNA processing 
+			CC1G_00102T0
+				0005622 - intracellular 
+				0006888 - ER to Golgi vesicle\-mediated transport 
+			CC1G_00112T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_14588T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00118T0
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_00124T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006438 - valyl\-tRNA aminoacylation 
+			CC1G_00125T0
+				0004170 - dUTP diphosphatase activity 
+				0046080 - dUTP metabolic process 
+			CC1G_00131T0
+				0006069 - ethanol oxidation 
+				0051903 - S\-(hydroxymethyl)glutathione dehydrogenase activity 
+			CC1G_00134T0
+				0006461 - protein complex assembly 
+				0016020 - membrane 
+			CC1G_00145T0
+				0003779 - actin binding 
+				0030036 - actin cytoskeleton organization 
+			CC1G_00146T0
+				0005525 - GTP binding 
+				0005874 - microtubule 
+				0007018 - microtubule\-based movement 
+				0043234 - protein complex 
+			CC1G_00147T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00148T0
+				0000145 - exocyst 
+				0006904 - vesicle docking during exocytosis 
+			CC1G_00149T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_00150T0
+				0015109 - chromate transmembrane transporter activity 
+				0015703 - chromate transport 
+			CC1G_14596T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_00155T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_00159T0
+				0015109 - chromate transmembrane transporter activity 
+				0015703 - chromate transport 
+			CC1G_00160T0
+				0004514 - nicotinate\-nucleotide diphosphorylase (carboxylating) activity 
+				0009435 - NAD biosynthetic process 
+			CC1G_00164T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00165T0
+				0005737 - cytoplasm 
+				0006887 - exocytosis 
+			CC1G_14600T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_00179T0
+				0015031 - protein transport 
+			CC1G_00181T0
+				0004414 - homoserine O\-acetyltransferase activity 
+				0005737 - cytoplasm 
+				0009086 - methionine biosynthetic process 
+			CC1G_00182T0
+				0015031 - protein transport 
+			CC1G_00189T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_00190T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_00191T0
+				0003935 - GTP cyclohydrolase II activity 
+				0009231 - riboflavin biosynthetic process 
+			CC1G_00197T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_14605T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_14606T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00200T0
+				0004748 - ribonucleoside\-diphosphate reductase activity 
+				0009186 - deoxyribonucleoside diphosphate metabolic process 
+			CC1G_00201T0
+				0004748 - ribonucleoside\-diphosphate reductase activity 
+				0009186 - deoxyribonucleoside diphosphate metabolic process 
+			CC1G_00207T0
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_14609T0
+				0004057 - arginyltransferase activity 
+				0016598 - protein arginylation 
+			CC1G_00215T0
+				0004177 - aminopeptidase activity 
+				0005773 - vacuole 
+				0006508 - proteolysis 
+			CC1G_00216T0
+				0006364 - rRNA processing 
+				0032040 - small\-subunit processome 
+			CC1G_00218T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006350 - transcription 
+			CC1G_14611T0
+				0003824 - catalytic activity 
+				0006520 - amino acid metabolic process 
+			CC1G_00223T0
+				0004721 - phosphoprotein phosphatase activity 
+				0005634 - nucleus 
+				0006397 - mRNA processing 
+			CC1G_14613T0
+				0005839 - proteasome core complex 
+				0016209 - antioxidant activity 
+				0045454 - cell redox homeostasis 
+			CC1G_00225T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14615T0
+				0004029 - aldehyde dehydrogenase (NAD) activity 
+				0055114 - oxidation reduction 
+			CC1G_00228T0
+				0005524 - ATP binding 
+				0006754 - ATP biosynthetic process 
+				0016021 - integral to membrane 
+			CC1G_00230T0
+				0004525 - ribonuclease III activity 
+				0006396 - RNA processing 
+			CC1G_00237T0
+				0003999 - adenine phosphoribosyltransferase activity 
+				0006168 - adenine salvage 
+			CC1G_00238T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_14616T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00248T0
+				0004047 - aminomethyltransferase activity 
+				0005737 - cytoplasm 
+				0006546 - glycine catabolic process 
+			CC1G_00249T0
+				0006633 - fatty acid biosynthetic process 
+				0008897 - holo\-[acyl\-carrier\-protein] synthase activity 
+			CC1G_00263T0
+				0015031 - protein transport 
+			CC1G_00268T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_00269T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_00272T0
+				0004100 - chitin synthase activity 
+				0006031 - chitin biosynthetic process 
+				0016020 - membrane 
+			CC1G_00276T0
+				0008612 - peptidyl\-lysine modification to hypusine 
+			CC1G_00277T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_00279T0
+				0005525 - GTP binding 
+				0006415 - translational termination 
+			CC1G_14623T0
+				0005488 - binding 
+				0005622 - intracellular 
+				0006888 - ER to Golgi vesicle\-mediated transport 
+				0016020 - membrane 
+			CC1G_00282T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_00286T0
+				0019787 - small conjugating protein ligase activity 
+				0043687 - post\-translational protein modification 
+			CC1G_00288T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00289T0
+				0005099 - Ras GTPase activator activity 
+				0005622 - intracellular 
+				0051056 - regulation of small GTPase mediated signal transduction 
+			CC1G_14625T0
+				0005524 - ATP binding 
+				0006457 - protein folding 
+			CC1G_00296T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015934 - large ribosomal subunit 
+			CC1G_00297T0
+				0004579 - dolichyl\-diphosphooligosaccharide\-protein glycotransferase activity 
+				0005783 - endoplasmic reticulum 
+				0006486 - protein amino acid glycosylation 
+				0016021 - integral to membrane 
+			CC1G_00300T0
+				0004190 - aspartic\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_00301T0
+				0046872 - metal ion binding 
+				0055114 - oxidation reduction 
+			CC1G_00302T0
+				0000105 - histidine biosynthetic process 
+				0003949 - 1\-(5\-phosphoribosyl)\-5\-[(5\-phosphoribosylamino)methylideneamino]imidazole\-4\-carboxamide isomerase activity 
+			CC1G_00303T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00304T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00306T0
+				0005975 - carbohydrate metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_14627T0
+				0003824 - catalytic activity 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_00309T0
+				0030529 - ribonucleoprotein complex 
+				0042254 - ribosome biogenesis 
+			CC1G_00311T0
+				0003677 - DNA binding 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14632T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_14633T0
+				0004176 - ATP\-dependent peptidase activity 
+				0006510 - ATP\-dependent proteolysis 
+			CC1G_00317T0
+				0005488 - binding 
+				0006006 - glucose metabolic process 
+			CC1G_00319T0
+				0004842 - ubiquitin\-protein ligase activity 
+				0016567 - protein ubiquitination 
+			CC1G_00323T0
+				0006629 - lipid metabolic process 
+				0030729 - acetoacetate\-CoA ligase activity 
+			CC1G_00325T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00326T0
+				0006457 - protein folding 
+				0016272 - prefoldin complex 
+				0051082 - unfolded protein binding 
+			CC1G_00332T0
+				0004190 - aspartic\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_14638T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_14641T0
+				0005525 - GTP binding 
+				0006629 - lipid metabolic process 
+			CC1G_00343T0
+				0000226 - microtubule cytoskeleton organization 
+				0000922 - spindle pole 
+				0005815 - microtubule organizing center 
+			CC1G_00344T0
+				0005783 - endoplasmic reticulum 
+				0016853 - isomerase activity 
+				0045454 - cell redox homeostasis 
+			CC1G_00346T0
+				0005840 - ribosome 
+				0006412 - translation 
+				0008097 - 5S rRNA binding 
+			CC1G_00348T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_00349T0
+				0015031 - protein transport 
+			CC1G_00350T0
+				0004449 - isocitrate dehydrogenase (NAD\+) activity 
+				0005739 - mitochondrion 
+				0006099 - tricarboxylic acid cycle 
+			CC1G_00359T0
+				0006457 - protein folding 
+				0031072 - heat shock protein binding 
+			CC1G_00361T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030130 - clathrin coat of trans\-Golgi network vesicle 
+				0030131 - clathrin adaptor complex 
+			CC1G_00362T0
+				0004356 - glutamate\-ammonia ligase activity 
+				0006542 - glutamine biosynthetic process 
+			CC1G_00367T0
+				0000105 - histidine biosynthetic process 
+				0004399 - histidinol dehydrogenase activity 
+			CC1G_00368T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00369T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_00370T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00372T0
+				0004449 - isocitrate dehydrogenase (NAD\+) activity 
+				0005739 - mitochondrion 
+				0006099 - tricarboxylic acid cycle 
+			CC1G_14643T0
+				0005509 - calcium ion binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_00377T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00382T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00383T0
+				0016021 - integral to membrane 
+				0051205 - protein insertion into membrane 
+			CC1G_00384T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_00389T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006261 - DNA\-dependent DNA replication 
+			CC1G_00391T0
+				0005215 - transporter activity 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_00392T0
+				0009982 - pseudouridine synthase activity 
+				0031119 - tRNA pseudouridine synthesis 
+			CC1G_00393T0
+				0004590 - orotidine\-5'\-phosphate decarboxylase activity 
+				0006207 - 'de novo' pyrimidine base biosynthetic process 
+			CC1G_00395T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_00396T0
+				0004671 - protein\-S\-isoprenylcysteine O\-methyltransferase activity 
+				0006481 - C\-terminal protein amino acid methylation 
+				0016021 - integral to membrane 
+			CC1G_00399T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_00400T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00401T0
+				0003871 - 5\-methyltetrahydropteroyltriglutamate\-homocysteine S\-methyltransferase activity 
+				0009086 - methionine biosynthetic process 
+			CC1G_14649T0
+				0003913 - DNA photolyase activity 
+				0006281 - DNA repair 
+			CC1G_00404T0
+				0005634 - nucleus 
+				0006412 - translation 
+			CC1G_00406T0
+				0006032 - chitin catabolic process 
+				0043169 - cation binding 
+			CC1G_00412T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006432 - phenylalanyl\-tRNA aminoacylation 
+			CC1G_14653T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_00417T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006432 - phenylalanyl\-tRNA aminoacylation 
+			CC1G_00418T0
+				0005515 - protein binding 
+				0005778 - peroxisomal membrane 
+				0007031 - peroxisome organization 
+			CC1G_00419T0
+				0000059 - protein import into nucleus\, docking 
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+			CC1G_00421T0
+				0005524 - ATP binding 
+				0009396 - folic acid and derivative biosynthetic process 
+			CC1G_00425T0
+				0009058 - biosynthetic process 
+				0016847 - 1\-aminocyclopropane\-1\-carboxylate synthase activity 
+			CC1G_00436T0
+				0008152 - metabolic process 
+				0009055 - electron carrier activity 
+			CC1G_00437T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_00438T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_00440T0
+				0001932 - regulation of protein amino acid phosphorylation 
+				0005952 - cAMP\-dependent protein kinase complex 
+				0008603 - cAMP\-dependent protein kinase regulator activity 
+			CC1G_00448T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14660T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+			CC1G_14661T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+			CC1G_00452T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_00455T0
+				0004000 - adenosine deaminase activity 
+				0055114 - oxidation reduction 
+			CC1G_00459T0
+				0006801 - superoxide metabolic process 
+				0046872 - metal ion binding 
+			CC1G_00460T0
+				0005524 - ATP binding 
+				0006096 - glycolysis 
+			CC1G_00461T0
+				0000276 - mitochondrial proton\-transporting ATP synthase complex\, coupling factor F(o) 
+				0015078 - hydrogen ion transmembrane transporter activity 
+				0015986 - ATP synthesis coupled proton transport 
+			CC1G_00462T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_00464T0
+				0043087 - regulation of GTPase activity 
+			CC1G_00469T0
+				0003861 - 3\-isopropylmalate dehydratase activity 
+				0009098 - leucine biosynthetic process 
+				0009316 - 3\-isopropylmalate dehydratase complex 
+			CC1G_01248T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_01249T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01258T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_01259T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01261T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01262T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_14667T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01270T0
+				0005506 - iron ion binding 
+				0016226 - iron\-sulfur cluster assembly 
+			CC1G_01271T0
+				0005669 - transcription factor TFIID complex 
+				0006352 - transcription initiation 
+			CC1G_01276T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005829 - cytosol 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_01277T0
+				0005838 - proteasome regulatory particle 
+				0006508 - proteolysis 
+			CC1G_01278T0
+				0004298 - threonine\-type endopeptidase activity 
+				0005634 - nucleus 
+				0005829 - cytosol 
+				0005839 - proteasome core complex 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_01280T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01283T0
+				0004871 - signal transducer activity 
+				0007242 - intracellular signaling cascade 
+			CC1G_01286T0
+				0003824 - catalytic activity 
+				0044237 - cellular metabolic process 
+			CC1G_01289T0
+				0004497 - monooxygenase activity 
+				0008152 - metabolic process 
+			CC1G_01290T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01292T0
+				0005525 - GTP binding 
+				0015031 - protein transport 
+			CC1G_01297T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_01298T0
+				0005634 - nucleus 
+				0030528 - transcription regulator activity 
+				0045449 - regulation of transcription 
+			CC1G_01299T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01304T0
+				0004853 - uroporphyrinogen decarboxylase activity 
+				0006779 - porphyrin biosynthetic process 
+			CC1G_01305T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_01306T0
+				0003700 - transcription factor activity 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_01308T0
+				0005337 - nucleoside transmembrane transporter activity 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_01312T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_01315T0
+				0006032 - chitin catabolic process 
+				0043169 - cation binding 
+			CC1G_01316T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_01318T0
+				0004725 - protein tyrosine phosphatase activity 
+				0016311 - dephosphorylation 
+			CC1G_01319T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006270 - DNA replication initiation 
+			CC1G_01320T0
+				0005778 - peroxisomal membrane 
+				0007031 - peroxisome organization 
+			CC1G_14672T0
+				0003934 - GTP cyclohydrolase I activity 
+				0005737 - cytoplasm 
+				0046654 - tetrahydrofolate biosynthetic process 
+			CC1G_14673T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_01324T0
+				0005741 - mitochondrial outer membrane 
+				0006886 - intracellular protein transport 
+				0015450 - P\-P\-bond\-hydrolysis\-driven protein transmembrane transporter activity 
+			CC1G_14675T0
+				0005524 - ATP binding 
+				0006298 - mismatch repair 
+			CC1G_01331T0
+				0008060 - ARF GTPase activator activity 
+				0032312 - regulation of ARF GTPase activity 
+			CC1G_01339T0
+				0006457 - protein folding 
+				0016272 - prefoldin complex 
+				0051082 - unfolded protein binding 
+			CC1G_01346T0
+				0004221 - ubiquitin thiolesterase activity 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_01351T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01354T0
+				0005634 - nucleus 
+				0006260 - DNA replication 
+			CC1G_01356T0
+				0005856 - cytoskeleton 
+				0030833 - regulation of actin filament polymerization 
+			CC1G_01358T0
+				0003862 - 3\-isopropylmalate dehydrogenase activity 
+				0005737 - cytoplasm 
+				0009098 - leucine biosynthetic process 
+			CC1G_01359T0
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_14680T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_01363T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_01367T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0045449 - regulation of transcription 
+			CC1G_01371T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_01372T0
+				0003847 - 1\-alkyl\-2\-acetylglycerophosphocholine esterase activity 
+				0008247 - 1\-alkyl\-2\-acetylglycerophosphocholine esterase complex 
+				0016042 - lipid catabolic process 
+			CC1G_01374T0
+				0008152 - metabolic process 
+				0016787 - hydrolase activity 
+			CC1G_01375T0
+				0005525 - GTP binding 
+				0005874 - microtubule 
+				0007018 - microtubule\-based movement 
+				0043234 - protein complex 
+			CC1G_01376T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006425 - glutaminyl\-tRNA aminoacylation 
+
+
+Group # : 10, #Clusters : 1, 0003674 : molecular_function 
+
+	Cluster 10, 0003674 : molecular_function 
+		E = 1.81376e-09
+		P = 1.41955e-13
+		Cluster size = 617
+		Number of genes in this cluster = 288, chromosome # = 6
+		Number of genes with this term (or a child term) = 4389
+		Genes:
+			CC1G_09313T0
+				0003840 - gamma\-glutamyltransferase activity 
+			CC1G_09314T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0043169 - cation binding 
+			CC1G_14145T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005634 - nucleus 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_14146T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_09317T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_09318T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_09319T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_09320T0
+				0008898 - homocysteine S\-methyltransferase activity 
+			CC1G_09321T0
+				0016052 - carbohydrate catabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_09322T0
+				0005488 - binding 
+			CC1G_09323T0
+				0019629 - propionate catabolic process\, 2\-methylcitrate cycle 
+				0051537 - 2 iron\, 2 sulfur cluster binding 
+			CC1G_09326T0
+				0016773 - phosphotransferase activity\, alcohol group as acceptor 
+			CC1G_09327T0
+				0003676 - nucleic acid binding 
+			CC1G_14150T0
+				0006284 - base\-excision repair 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_09329T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_14151T0
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_09335T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_09336T0
+				0005488 - binding 
+			CC1G_09337T0
+				0003824 - catalytic activity 
+			CC1G_09340T0
+				0003824 - catalytic activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_09342T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_09343T0
+				0005515 - protein binding 
+			CC1G_09345T0
+				0005525 - GTP binding 
+			CC1G_09348T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_09349T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_09351T0
+				0003677 - DNA binding 
+				0005622 - intracellular 
+				0006281 - DNA repair 
+			CC1G_09352T0
+				0009435 - NAD biosynthetic process 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_09355T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_12086T0
+				0005315 - inorganic phosphate transmembrane transporter activity 
+				0006817 - phosphate transport 
+				0016020 - membrane 
+			CC1G_12088T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_12091T0
+				0005743 - mitochondrial inner membrane 
+				0008565 - protein transporter activity 
+				0015031 - protein transport 
+			CC1G_12095T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+			CC1G_12096T0
+				0005515 - protein binding 
+				0016070 - RNA metabolic process 
+			CC1G_14161T0
+				0005737 - cytoplasm 
+				0009058 - biosynthetic process 
+				0016211 - ammonia ligase activity 
+			CC1G_11823T0
+				0005524 - ATP binding 
+				0006807 - nitrogen compound metabolic process 
+			CC1G_11825T0
+				0004527 - exonuclease activity 
+				0005622 - intracellular 
+			CC1G_11830T0
+				0004872 - receptor activity 
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_11835T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006457 - protein folding 
+			CC1G_12764T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_14171T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_12768T0
+				0016246 - RNA interference 
+				0016442 - RNA\-induced silencing complex 
+				0016788 - hydrolase activity\, acting on ester bonds 
+			CC1G_12769T0
+				0006508 - proteolysis 
+				0008236 - serine\-type peptidase activity 
+			CC1G_12770T0
+				0008152 - metabolic process 
+				0008967 - phosphoglycolate phosphatase activity 
+			CC1G_12771T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_01879T0
+				0003676 - nucleic acid binding 
+			CC1G_01880T0
+				0008152 - metabolic process 
+				0016787 - hydrolase activity 
+			CC1G_01881T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006270 - DNA replication initiation 
+			CC1G_01884T0
+				0005086 - ARF guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0032012 - regulation of ARF protein signal transduction 
+			CC1G_14172T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_01886T0
+				0003677 - DNA binding 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_01887T0
+				0005622 - intracellular 
+				0006464 - protein modification process 
+				0016881 - acid\-amino acid ligase activity 
+			CC1G_01888T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_01890T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01891T0
+				0003677 - DNA binding 
+				0006350 - transcription 
+			CC1G_01893T0
+				0005484 - SNAP receptor activity 
+				0006886 - intracellular protein transport 
+				0016020 - membrane 
+			CC1G_01896T0
+				0016829 - lyase activity 
+			CC1G_14174T0
+				0005524 - ATP binding 
+				0016310 - phosphorylation 
+			CC1G_01900T0
+				0004325 - ferrochelatase activity 
+				0006783 - heme biosynthetic process 
+			CC1G_01907T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_01910T0
+				0003779 - actin binding 
+			CC1G_01912T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+			CC1G_01913T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_01915T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+				0006457 - protein folding 
+			CC1G_01916T0
+				0009055 - electron carrier activity 
+			CC1G_01917T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01918T0
+				0005524 - ATP binding 
+				0006754 - ATP biosynthetic process 
+				0016021 - integral to membrane 
+			CC1G_01920T0
+				0005488 - binding 
+			CC1G_01922T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_01923T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_14178T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_01933T0
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_01935T0
+				0005524 - ATP binding 
+			CC1G_01940T0
+				0015986 - ATP synthesis coupled proton transport 
+				0045261 - proton\-transporting ATP synthase complex\, catalytic core F(1) 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_01941T0
+				0004357 - glutamate\-cysteine ligase activity 
+				0006750 - glutathione biosynthetic process 
+			CC1G_01943T0
+				0004197 - cysteine\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_14181T0
+				0003684 - damaged DNA binding 
+				0006281 - DNA repair 
+			CC1G_14182T0
+				0003824 - catalytic activity 
+			CC1G_01949T0
+				0003676 - nucleic acid binding 
+			CC1G_14185T0
+				0008152 - metabolic process 
+				0051287 - NAD or NADH binding 
+			CC1G_01955T0
+				0003676 - nucleic acid binding 
+			CC1G_01956T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_01958T0
+				0016787 - hydrolase activity 
+			CC1G_01960T0
+				0033014 - tetrapyrrole biosynthetic process 
+				0046872 - metal ion binding 
+			CC1G_01961T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01962T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01965T0
+				0003951 - NAD\+ kinase activity 
+				0008152 - metabolic process 
+			CC1G_01969T0
+				0004086 - carbamoyl\-phosphate synthase activity 
+				0009058 - biosynthetic process 
+			CC1G_01972T0
+				0016787 - hydrolase activity 
+			CC1G_01973T0
+				0004373 - glycogen (starch) synthase activity 
+				0005978 - glycogen biosynthetic process 
+			CC1G_01975T0
+				0003723 - RNA binding 
+			CC1G_01976T0
+				0000166 - nucleotide binding 
+				0006396 - RNA processing 
+			CC1G_01977T0
+				0005634 - nucleus 
+				0005737 - cytoplasm 
+				0006470 - protein amino acid dephosphorylation 
+				0046872 - metal ion binding 
+			CC1G_01983T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01984T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_14187T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_01985T0
+				0005524 - ATP binding 
+				0006310 - DNA recombination 
+			CC1G_01989T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_01990T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_01991T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_01993T0
+				0000785 - chromatin 
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_01994T0
+				0008152 - metabolic process 
+				0008415 - acyltransferase activity 
+			CC1G_01996T0
+				0005488 - binding 
+			CC1G_01998T0
+				0004221 - ubiquitin thiolesterase activity 
+				0005622 - intracellular 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_01999T0
+				0009055 - electron carrier activity 
+			CC1G_02002T0
+				0004607 - phosphatidylcholine\-sterol O\-acyltransferase activity 
+				0006629 - lipid metabolic process 
+			CC1G_02004T0
+				0004497 - monooxygenase activity 
+			CC1G_02006T0
+				0004049 - anthranilate synthase activity 
+				0009058 - biosynthetic process 
+			CC1G_02007T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_02009T0
+				0005524 - ATP binding 
+				0006754 - ATP biosynthetic process 
+				0016021 - integral to membrane 
+			CC1G_14189T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_02013T0
+				0004342 - glucosamine\-6\-phosphate deaminase activity 
+				0006044 - N\-acetylglucosamine metabolic process 
+			CC1G_02014T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_14191T0
+				0004089 - carbonate dehydratase activity 
+				0015976 - carbon utilization 
+			CC1G_02019T0
+				0005488 - binding 
+				0055114 - oxidation reduction 
+			CC1G_02020T0
+				0016831 - carboxy\-lyase activity 
+				0019752 - carboxylic acid metabolic process 
+			CC1G_02021T0
+				0005524 - ATP binding 
+				0005777 - peroxisome 
+				0007031 - peroxisome organization 
+			CC1G_02024T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_02026T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+				0016020 - membrane 
+			CC1G_14197T0
+				0016226 - iron\-sulfur cluster assembly 
+				0051536 - iron\-sulfur cluster binding 
+			CC1G_02029T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_02032T0
+				0006865 - amino acid transport 
+				0015171 - amino acid transmembrane transporter activity 
+				0016021 - integral to membrane 
+			CC1G_02033T0
+				0009058 - biosynthetic process 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_02034T0
+				0007186 - G\-protein coupled receptor protein signaling pathway 
+				0019001 - guanyl nucleotide binding 
+			CC1G_02036T0
+				0009055 - electron carrier activity 
+			CC1G_02037T0
+				0006508 - proteolysis 
+				0016805 - dipeptidase activity 
+			CC1G_02038T0
+				0007186 - G\-protein coupled receptor protein signaling pathway 
+				0019001 - guanyl nucleotide binding 
+			CC1G_02041T0
+				0008152 - metabolic process 
+				0016787 - hydrolase activity 
+			CC1G_02044T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_02046T0
+				0000119 - mediator complex 
+				0016455 - RNA polymerase II transcription mediator activity 
+				0045449 - regulation of transcription 
+			CC1G_02047T0
+				0004221 - ubiquitin thiolesterase activity 
+				0005622 - intracellular 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_02050T0
+				0009055 - electron carrier activity 
+			CC1G_02051T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_02055T0
+				0005515 - protein binding 
+			CC1G_02056T0
+				0005515 - protein binding 
+			CC1G_02059T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_02061T0
+				0003677 - DNA binding 
+			CC1G_14206T0
+				0003677 - DNA binding 
+				0005622 - intracellular 
+				0006281 - DNA repair 
+			CC1G_02062T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_02063T0
+				0005524 - ATP binding 
+				0006094 - gluconeogenesis 
+			CC1G_14207T0
+				0005524 - ATP binding 
+			CC1G_07347T0
+				0003896 - DNA primase activity 
+				0006269 - DNA replication\, synthesis of RNA primer 
+			CC1G_07349T0
+				0005488 - binding 
+			CC1G_07350T0
+				0005097 - Rab GTPase activator activity 
+				0005622 - intracellular 
+				0032313 - regulation of Rab GTPase activity 
+			CC1G_07351T0
+				0006814 - sodium ion transport 
+				0008508 - bile acid\:sodium symporter activity 
+				0016021 - integral to membrane 
+			CC1G_07353T0
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_07354T0
+				0006865 - amino acid transport 
+				0015171 - amino acid transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_07362T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_07364T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_07370T0
+				0006464 - protein modification process 
+				0008474 - palmitoyl\-(protein) hydrolase activity 
+			CC1G_14214T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006423 - cysteinyl\-tRNA aminoacylation 
+			CC1G_07373T0
+				0001882 - nucleoside binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_07378T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_14216T0
+				0005524 - ATP binding 
+			CC1G_07381T0
+				0003677 - DNA binding 
+				0006281 - DNA repair 
+			CC1G_07382T0
+				0004222 - metalloendopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_07384T0
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_07385T0
+				0005515 - protein binding 
+			CC1G_07386T0
+				0006412 - translation 
+				0016884 - carbon\-nitrogen ligase activity\, with glutamine as amido\-N\-donor 
+			CC1G_07388T0
+				0003951 - NAD\+ kinase activity 
+				0008152 - metabolic process 
+			CC1G_14218T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_07391T0
+				0003676 - nucleic acid binding 
+			CC1G_07392T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+			CC1G_07393T0
+				0003984 - acetolactate synthase activity 
+				0009082 - branched chain family amino acid biosynthetic process 
+			CC1G_07395T0
+				0004934 - mating\-type alpha\-factor pheromone receptor activity 
+				0007186 - G\-protein coupled receptor protein signaling pathway 
+				0016021 - integral to membrane 
+			CC1G_07396T0
+				0005789 - endoplasmic reticulum membrane 
+				0006506 - GPI anchor biosynthetic process 
+				0016021 - integral to membrane 
+				0016758 - transferase activity\, transferring hexosyl groups 
+			CC1G_07399T0
+				0005524 - ATP binding 
+				0006457 - protein folding 
+			CC1G_07400T0
+				0020037 - heme binding 
+			CC1G_14221T0
+				0005488 - binding 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_07405T0
+				0005525 - GTP binding 
+			CC1G_07408T0
+				0003676 - nucleic acid binding 
+			CC1G_07409T0
+				0004014 - adenosylmethionine decarboxylase activity 
+				0008295 - spermidine biosynthetic process 
+			CC1G_07413T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_07414T0
+				0003676 - nucleic acid binding 
+			CC1G_07415T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_07424T0
+				0003677 - DNA binding 
+			CC1G_11535T0
+				0046983 - protein dimerization activity 
+			CC1G_11536T0
+				0000103 - sulfate assimilation 
+				0004020 - adenylylsulfate kinase activity 
+			CC1G_11537T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_11538T0
+				0016740 - transferase activity 
+			CC1G_14225T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0005852 - eukaryotic translation initiation factor 3 complex 
+				0006413 - translational initiation 
+			CC1G_14227T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_11540T0
+				0004813 - alanine\-tRNA ligase activity 
+				0005737 - cytoplasm 
+				0006419 - alanyl\-tRNA aminoacylation 
+			CC1G_14228T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_11541T0
+				0005488 - binding 
+			CC1G_11543T0
+				0004190 - aspartic\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_11545T0
+				0016791 - phosphatase activity 
+			CC1G_11546T0
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_11549T0
+				0016791 - phosphatase activity 
+			CC1G_11551T0
+				0005515 - protein binding 
+			CC1G_11552T0
+				0005622 - intracellular 
+				0007242 - intracellular signaling cascade 
+				0008270 - zinc ion binding 
+			CC1G_06814T0
+				0009055 - electron carrier activity 
+			CC1G_06815T0
+				0003899 - DNA\-directed RNA polymerase activity 
+				0006350 - transcription 
+			CC1G_06817T0
+				0004124 - cysteine synthase activity 
+				0006535 - cysteine biosynthetic process from serine 
+			CC1G_06818T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+			CC1G_06819T0
+				0005515 - protein binding 
+			CC1G_06820T0
+				0003684 - damaged DNA binding 
+				0005634 - nucleus 
+				0006289 - nucleotide\-excision repair 
+			CC1G_06821T0
+				0004620 - phospholipase activity 
+				0009395 - phospholipid catabolic process 
+			CC1G_06822T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_06823T0
+				0005524 - ATP binding 
+				0006754 - ATP biosynthetic process 
+				0016021 - integral to membrane 
+			CC1G_06824T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_06825T0
+				0050660 - FAD binding 
+			CC1G_06829T0
+				0008270 - zinc ion binding 
+			CC1G_06832T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030117 - membrane coat 
+			CC1G_06834T0
+				0003676 - nucleic acid binding 
+			CC1G_06838T0
+				0005737 - cytoplasm 
+				0009058 - biosynthetic process 
+				0016211 - ammonia ligase activity 
+			CC1G_06839T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_06840T0
+				0046872 - metal ion binding 
+				0055114 - oxidation reduction 
+			CC1G_06841T0
+				0010181 - FMN binding 
+			CC1G_06842T0
+				0000256 - allantoin catabolic process 
+				0004038 - allantoinase activity 
+			CC1G_06843T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_06844T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_06853T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+			CC1G_06854T0
+				0008479 - queuine tRNA\-ribosyltransferase activity 
+				0008616 - queuosine biosynthetic process 
+			CC1G_06856T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006437 - tyrosyl\-tRNA aminoacylation 
+			CC1G_06857T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_06860T0
+				0004605 - phosphatidate cytidylyltransferase activity 
+				0016020 - membrane 
+			CC1G_06861T0
+				0003918 - DNA topoisomerase (ATP\-hydrolyzing) activity 
+				0005694 - chromosome 
+				0006265 - DNA topological change 
+			CC1G_14232T0
+				0005739 - mitochondrion 
+				0008137 - NADH dehydrogenase (ubiquinone) activity 
+			CC1G_06863T0
+				0004794 - L\-threonine ammonia\-lyase activity 
+				0009097 - isoleucine biosynthetic process 
+			CC1G_14233T0
+				0005515 - protein binding 
+			CC1G_06868T0
+				0016787 - hydrolase activity 
+			CC1G_06870T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_06871T0
+				0000139 - Golgi membrane 
+				0005488 - binding 
+				0006886 - intracellular protein transport 
+			CC1G_06872T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030130 - clathrin coat of trans\-Golgi network vesicle 
+				0030132 - clathrin coat of coated pit 
+			CC1G_06875T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_06879T0
+				0016787 - hydrolase activity 
+			CC1G_06890T0
+				0004364 - glutathione transferase activity 
+				0005737 - cytoplasm 
+				0008152 - metabolic process 
+			CC1G_06892T0
+				0008152 - metabolic process 
+				0016787 - hydrolase activity 
+			CC1G_06894T0
+				0005524 - ATP binding 
+				0006457 - protein folding 
+			CC1G_06896T0
+				0016740 - transferase activity 
+			CC1G_06899T0
+				0008152 - metabolic process 
+				0009055 - electron carrier activity 
+			CC1G_06900T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_14236T0
+				0008168 - methyltransferase activity 
+			CC1G_12637T0
+				0006506 - GPI anchor biosynthetic process 
+				0016021 - integral to membrane 
+				0017176 - phosphatidylinositol N\-acetylglucosaminyltransferase activity 
+			CC1G_12638T0
+				0004160 - dihydroxy\-acid dehydratase activity 
+				0009082 - branched chain family amino acid biosynthetic process 
+			CC1G_12639T0
+				0005488 - binding 
+			CC1G_12642T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_14240T0
+				0000772 - mating pheromone activity 
+				0016020 - membrane 
+			CC1G_14241T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03189T0
+				0005515 - protein binding 
+				0006915 - apoptosis 
+			CC1G_03190T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_03191T0
+				0005524 - ATP binding 
+			CC1G_03192T0
+				0000785 - chromatin 
+				0003682 - chromatin binding 
+				0005634 - nucleus 
+				0006333 - chromatin assembly or disassembly 
+			CC1G_03194T0
+				0005515 - protein binding 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14245T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_03200T0
+				0008152 - metabolic process 
+				0016791 - phosphatase activity 
+			CC1G_03205T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_03207T0
+				0000256 - allantoin catabolic process 
+				0004037 - allantoicase activity 
+			CC1G_14248T0
+				0003676 - nucleic acid binding 
+				0006479 - protein amino acid methylation 
+			CC1G_03210T0
+				0004871 - signal transducer activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_14249T0
+				0010181 - FMN binding 
+			CC1G_03217T0
+				0005247 - voltage\-gated chloride channel activity 
+				0006821 - chloride transport 
+				0016021 - integral to membrane 
+			CC1G_03218T0
+				0005525 - GTP binding 
+				0007049 - cell cycle 
+				0031105 - septin complex 
+			CC1G_03219T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_03223T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+			CC1G_03225T0
+				0008080 - N\-acetyltransferase activity 
+				0008152 - metabolic process 
+			CC1G_03226T0
+				0008152 - metabolic process 
+				0051287 - NAD or NADH binding 
+			CC1G_03228T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_03229T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006428 - isoleucyl\-tRNA aminoacylation 
+			CC1G_03230T0
+				0005525 - GTP binding 
+			CC1G_03231T0
+				0015078 - hydrogen ion transmembrane transporter activity 
+				0015986 - ATP synthesis coupled proton transport 
+				0016021 - integral to membrane 
+				0033179 - proton\-transporting V\-type ATPase\, V0 domain 
+			CC1G_03234T0
+				0004721 - phosphoprotein phosphatase activity 
+			CC1G_03235T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_03236T0
+				0003676 - nucleic acid binding 
+			CC1G_03237T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0046983 - protein dimerization activity 
+			CC1G_03241T0
+				0005737 - cytoplasm 
+				0046836 - glycolipid transport 
+				0051861 - glycolipid binding 
+			CC1G_03242T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006423 - cysteinyl\-tRNA aminoacylation 
+			CC1G_03246T0
+				0003702 - RNA polymerase II transcription factor activity 
+				0005672 - transcription factor TFIIA complex 
+				0006367 - transcription initiation from RNA polymerase II promoter 
+			CC1G_03250T0
+				0004124 - cysteine synthase activity 
+				0006535 - cysteine biosynthetic process from serine 
+			CC1G_03251T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_03252T0
+				0006032 - chitin catabolic process 
+				0043169 - cation binding 
+			CC1G_03253T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_03254T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_03259T0
+				0009055 - electron carrier activity 
+				0045454 - cell redox homeostasis 
+			CC1G_03262T0
+				0008610 - lipid biosynthetic process 
+				0008825 - cyclopropane\-fatty\-acyl\-phospholipid synthase activity 
+			CC1G_03265T0
+				0003824 - catalytic activity 
+				0008152 - metabolic process 
+			CC1G_03266T0
+				0009055 - electron carrier activity 
+				0045454 - cell redox homeostasis 
+			CC1G_03267T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_03268T0
+				0005488 - binding 
+			CC1G_03269T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_03270T0
+				0004064 - arylesterase activity 
+			CC1G_03271T0
+				0004197 - cysteine\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_03273T0
+				0009055 - electron carrier activity 
+			CC1G_03275T0
+				0031072 - heat shock protein binding 
+			CC1G_03278T0
+				0015986 - ATP synthesis coupled proton transport 
+				0045261 - proton\-transporting ATP synthase complex\, catalytic core F(1) 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_03279T0
+				0004671 - protein\-S\-isoprenylcysteine O\-methyltransferase activity 
+				0006481 - C\-terminal protein amino acid methylation 
+				0016021 - integral to membrane 
+			CC1G_03280T0
+				0016787 - hydrolase activity 
+			CC1G_03281T0
+				0004190 - aspartic\-type endopeptidase activity 
+				0006508 - proteolysis 
+
+
+Group # : 11, #Clusters : 1, 0006066 : cellular alcohol metabolic process 
+
+	Cluster 11, 0006066 : cellular alcohol metabolic process 
+		E = 1.3124e-08
+		P = 9.83881e-13
+		Cluster size = 55
+		Number of genes in this cluster = 10, chromosome # = 1
+		Number of genes with this term (or a child term) = 82
+		Genes:
+			CC1G_01530T0
+				0004559 - alpha\-mannosidase activity 
+				0006013 - mannose metabolic process 
+			CC1G_01540T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_01542T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_01544T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_01545T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_01546T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_01548T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_15259T0
+				0005576 - extracellular region 
+				0046373 - L\-arabinose metabolic process 
+				0046556 - alpha\-N\-arabinofuranosidase activity 
+			CC1G_01577T0
+				0005576 - extracellular region 
+				0046373 - L\-arabinose metabolic process 
+				0046556 - alpha\-N\-arabinofuranosidase activity 
+			CC1G_01578T0
+				0046373 - L\-arabinose metabolic process 
+				0046556 - alpha\-N\-arabinofuranosidase activity 
+
+
+Group # : 12, #Clusters : 1, 0003796 : lysozyme activity 
+
+	Cluster 12, 0003796 : lysozyme activity 
+		E = 1.89484e-08
+		P = 1.41914e-12
+		Cluster size = 42
+		Number of genes in this cluster = 5, chromosome # = 11
+		Number of genes with this term (or a child term) = 6
+		Genes:
+			CC1G_03040T0
+				0003796 - lysozyme activity 
+				0016998 - cell wall catabolic process 
+			CC1G_03042T0
+				0003796 - lysozyme activity 
+				0016998 - cell wall catabolic process 
+			CC1G_03047T0
+				0003796 - lysozyme activity 
+				0016998 - cell wall catabolic process 
+			CC1G_03049T0
+				0003796 - lysozyme activity 
+				0016998 - cell wall catabolic process 
+			CC1G_03076T0
+				0003796 - lysozyme activity 
+				0016998 - cell wall catabolic process 
+
+
+Group # : 13, #Clusters : 1, 0009055 : electron carrier activity 
+
+	Cluster 13, 0009055 : electron carrier activity 
+		E = 6.83857e-07
+		P = 5.12944e-11
+		Cluster size = 62
+		Number of genes in this cluster = 12, chromosome # = 1
+		Number of genes with this term (or a child term) = 189
+		Genes:
+			CC1G_01582T0
+				0009055 - electron carrier activity 
+			CC1G_01583T0
+				0009055 - electron carrier activity 
+			CC1G_01584T0
+				0009055 - electron carrier activity 
+			CC1G_01585T0
+				0009055 - electron carrier activity 
+			CC1G_01599T0
+				0009055 - electron carrier activity 
+			CC1G_01619T0
+				0009055 - electron carrier activity 
+			CC1G_01620T0
+				0009055 - electron carrier activity 
+			CC1G_01621T0
+				0009055 - electron carrier activity 
+			CC1G_01622T0
+				0009055 - electron carrier activity 
+			CC1G_01638T0
+				0009055 - electron carrier activity 
+			CC1G_01639T0
+				0009055 - electron carrier activity 
+			CC1G_01643T0
+				0009055 - electron carrier activity 
+
+
+Group # : 14, #Clusters : 1, 0019319 : hexose biosynthetic process 
+
+	Cluster 14, 0019319 : hexose biosynthetic process 
+		E = 3.05467e-06
+		P = 2.2854e-10
+		Cluster size = 28
+		Number of genes in this cluster = 4, chromosome # = 10
+		Number of genes with this term (or a child term) = 6
+		Genes:
+			CC1G_05664T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006094 - gluconeogenesis 
+			CC1G_14874T0
+				0006094 - gluconeogenesis 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_05690T0
+				0004615 - phosphomannomutase activity 
+				0005737 - cytoplasm 
+				0019307 - mannose biosynthetic process 
+			CC1G_05691T0
+				0004615 - phosphomannomutase activity 
+				0005737 - cytoplasm 
+				0019307 - mannose biosynthetic process 
+
+
+Group # : 15, #Clusters : 1, 0004553 : hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+
+	Cluster 15, 0004553 : hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+		E = 4.54785e-06
+		P = 3.39646e-10
+		Cluster size = 4
+		Number of genes in this cluster = 4, chromosome # = 7
+		Number of genes with this term (or a child term) = 59
+		Genes:
+			CC1G_12980T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_12409T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_12410T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_12411T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+
+
+Group # : 16, #Clusters : 1, 0005507 : copper ion binding 
+
+	Cluster 16, 0005507 : copper ion binding 
+		E = 4.65395e-06
+		P = 3.50106e-10
+		Cluster size = 101
+		Number of genes in this cluster = 7, chromosome # = 6
+		Number of genes with this term (or a child term) = 24
+		Genes:
+			CC1G_09609T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_09611T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_09614T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_05965T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_05972T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_05998T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+			CC1G_06019T0
+				0005507 - copper ion binding 
+				0055114 - oxidation reduction 
+
+
+Group # : 17, #Clusters : 1, 0050660 : FAD binding 
+
+	Cluster 17, 0050660 : FAD binding 
+		E = 6.05474e-06
+		P = 4.53811e-10
+		Cluster size = 52
+		Number of genes in this cluster = 8, chromosome # = 3
+		Number of genes with this term (or a child term) = 76
+		Genes:
+			CC1G_08451T0
+				0050660 - FAD binding 
+			CC1G_08456T0
+				0050660 - FAD binding 
+			CC1G_08481T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_08482T0
+				0050660 - FAD binding 
+			CC1G_08490T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_15414T0
+				0050660 - FAD binding 
+			CC1G_09789T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+			CC1G_09790T0
+				0006066 - cellular alcohol metabolic process 
+				0050660 - FAD binding 
+
+
+Group # : 18, #Clusters : 1, 0044464 : cell part 
+
+	Cluster 18, 0044464 : cell part 
+		E = 6.89793e-06
+		P = 5.29876e-10
+		Cluster size = 376
+		Number of genes in this cluster = 92, chromosome # = 10
+		Number of genes with this term (or a child term) = 1733
+		Genes:
+			CC1G_00859T0
+				0016021 - integral to membrane 
+				0022891 - substrate\-specific transmembrane transporter activity 
+				0055085 - transmembrane transport 
+			CC1G_00860T0
+				0004408 - holocytochrome\-c synthase activity 
+				0005739 - mitochondrion 
+			CC1G_00861T0
+				0005744 - mitochondrial inner membrane presequence translocase complex 
+				0006886 - intracellular protein transport 
+				0015450 - P\-P\-bond\-hydrolysis\-driven protein transmembrane transporter activity 
+			CC1G_00873T0
+				0003824 - catalytic activity 
+				0016020 - membrane 
+			CC1G_00876T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006464 - protein modification process 
+			CC1G_00877T0
+				0005524 - ATP binding 
+				0005663 - DNA replication factor C complex 
+				0006260 - DNA replication 
+			CC1G_00878T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_00879T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_14829T0
+				0005634 - nucleus 
+			CC1G_00882T0
+				0000159 - protein phosphatase type 2A complex 
+				0007165 - signal transduction 
+				0008601 - protein phosphatase type 2A regulator activity 
+			CC1G_00883T0
+				0004129 - cytochrome\-c oxidase activity 
+				0005746 - mitochondrial respiratory chain 
+				0022904 - respiratory electron transport chain 
+			CC1G_00886T0
+				0016021 - integral to membrane 
+			CC1G_00892T0
+				0000151 - ubiquitin ligase complex 
+				0003676 - nucleic acid binding 
+				0005634 - nucleus 
+				0016567 - protein ubiquitination 
+			CC1G_00893T0
+				0016020 - membrane 
+			CC1G_00897T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_00905T0
+				0016021 - integral to membrane 
+			CC1G_14831T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006310 - DNA recombination 
+			CC1G_14832T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_00914T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+				0044431 - Golgi apparatus part 
+			CC1G_00917T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_00919T0
+				0005856 - cytoskeleton 
+				0006909 - phagocytosis 
+			CC1G_00924T0
+				0003777 - microtubule motor activity 
+				0005875 - microtubule associated complex 
+				0007017 - microtubule\-based process 
+			CC1G_00925T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_00926T0
+				0000059 - protein import into nucleus\, docking 
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+			CC1G_00927T0
+				0004158 - dihydroorotate oxidase activity 
+				0006207 - 'de novo' pyrimidine base biosynthetic process 
+				0016020 - membrane 
+			CC1G_00931T0
+				0016021 - integral to membrane 
+				0022891 - substrate\-specific transmembrane transporter activity 
+				0055085 - transmembrane transport 
+			CC1G_00937T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_00946T0
+				0005856 - cytoskeleton 
+				0030833 - regulation of actin filament polymerization 
+			CC1G_14837T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_00963T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_00983T0
+				0016020 - membrane 
+			CC1G_00986T0
+				0003723 - RNA binding 
+				0005737 - cytoplasm 
+				0006413 - translational initiation 
+			CC1G_00990T0
+				0005247 - voltage\-gated chloride channel activity 
+				0006821 - chloride transport 
+				0016020 - membrane 
+			CC1G_00996T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_01001T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_08989T0
+				0005385 - zinc ion transmembrane transporter activity 
+				0006829 - zinc ion transport 
+				0016021 - integral to membrane 
+			CC1G_08999T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_09000T0
+				0015986 - ATP synthesis coupled proton transport 
+				0045261 - proton\-transporting ATP synthase complex\, catalytic core F(1) 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_09004T0
+				0030118 - clathrin coat 
+				0030276 - clathrin binding 
+				0048268 - clathrin coat assembly 
+			CC1G_09005T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_14846T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_09015T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0005737 - cytoplasm 
+				0030163 - protein catabolic process 
+			CC1G_14848T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_09022T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_09023T0
+				0005737 - cytoplasm 
+			CC1G_09032T0
+				0000166 - nucleotide binding 
+				0005634 - nucleus 
+				0006397 - mRNA processing 
+			CC1G_09034T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_09035T0
+				0003725 - double\-stranded RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_09036T0
+				0005622 - intracellular 
+				0007242 - intracellular signaling cascade 
+			CC1G_14854T0
+				0005375 - copper ion transmembrane transporter activity 
+				0006825 - copper ion transport 
+				0016021 - integral to membrane 
+			CC1G_12046T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_12054T0
+				0003677 - DNA binding 
+				0005666 - DNA\-directed RNA polymerase III complex 
+				0006383 - transcription from RNA polymerase III promoter 
+			CC1G_12055T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_12056T0
+				0003702 - RNA polymerase II transcription factor activity 
+				0005634 - nucleus 
+				0006352 - transcription initiation 
+			CC1G_13288T0
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_13165T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_11555T0
+				0005506 - iron ion binding 
+				0005783 - endoplasmic reticulum 
+				0006633 - fatty acid biosynthetic process 
+			CC1G_11557T0
+				0008652 - amino acid biosynthetic process 
+				0009337 - sulfite reductase complex (NADPH) 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_11558T0
+				0005737 - cytoplasm 
+				0006629 - lipid metabolic process 
+				0016021 - integral to membrane 
+				0016627 - oxidoreductase activity\, acting on the CH\-CH group of donors 
+			CC1G_11568T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_11569T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006414 - translational elongation 
+			CC1G_11570T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_11571T0
+				0015992 - proton transport 
+				0016471 - vacuolar proton\-transporting V\-type ATPase complex 
+				0016820 - hydrolase activity\, acting on acid anhydrides\, catalyzing transmembrane movement of substances 
+			CC1G_14870T0
+				0005622 - intracellular 
+				0006464 - protein modification process 
+				0016881 - acid\-amino acid ligase activity 
+			CC1G_05661T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030130 - clathrin coat of trans\-Golgi network vesicle 
+				0030132 - clathrin coat of coated pit 
+			CC1G_05663T0
+				0000139 - Golgi membrane 
+				0005338 - nucleotide\-sugar transmembrane transporter activity 
+				0005789 - endoplasmic reticulum membrane 
+				0015780 - nucleotide\-sugar transport 
+				0016021 - integral to membrane 
+				0030659 - cytoplasmic vesicle membrane 
+			CC1G_05664T0
+				0005524 - ATP binding 
+				0005737 - cytoplasm 
+				0006094 - gluconeogenesis 
+			CC1G_05669T0
+				0005622 - intracellular 
+				0007165 - signal transduction 
+				0035091 - phosphoinositide binding 
+			CC1G_05680T0
+				0005622 - intracellular 
+				0007165 - signal transduction 
+			CC1G_05682T0
+				0005525 - GTP binding 
+				0005622 - intracellular 
+				0007264 - small GTPase mediated signal transduction 
+				0016020 - membrane 
+			CC1G_05683T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_05685T0
+				0005216 - ion channel activity 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_05690T0
+				0004615 - phosphomannomutase activity 
+				0005737 - cytoplasm 
+				0019307 - mannose biosynthetic process 
+			CC1G_05691T0
+				0004615 - phosphomannomutase activity 
+				0005737 - cytoplasm 
+				0019307 - mannose biosynthetic process 
+			CC1G_05692T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006260 - DNA replication 
+			CC1G_05694T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_05699T0
+				0005634 - nucleus 
+				0007067 - mitosis 
+			CC1G_05702T0
+				0005381 - iron ion transmembrane transporter activity 
+				0006826 - iron ion transport 
+				0016021 - integral to membrane 
+			CC1G_05712T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_05713T0
+				0016021 - integral to membrane 
+			CC1G_14879T0
+				0005840 - ribosome 
+				0006508 - proteolysis 
+				0008237 - metallopeptidase activity 
+			CC1G_05720T0
+				0005634 - nucleus 
+			CC1G_05722T0
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006260 - DNA replication 
+			CC1G_05727T0
+				0005215 - transporter activity 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_05728T0
+				0005215 - transporter activity 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_05732T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_05737T0
+				0005743 - mitochondrial inner membrane 
+				0008565 - protein transporter activity 
+				0015031 - protein transport 
+			CC1G_05739T0
+				0005199 - structural constituent of cell wall 
+				0005618 - cell wall 
+			CC1G_05745T0
+				0000214 - tRNA\-intron endonuclease complex 
+				0003676 - nucleic acid binding 
+				0006388 - tRNA splicing\, via endonucleolytic cleavage and ligation 
+			CC1G_05750T0
+				0016021 - integral to membrane 
+			CC1G_05753T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_05756T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+
+
+Group # : 19, #Clusters : 1, 0003674 : molecular_function 
+
+	Cluster 19, 0003674 : molecular_function 
+		E = 2.05982e-05
+		P = 1.57227e-09
+		Cluster size = 293
+		Number of genes in this cluster = 145, chromosome # = 10
+		Number of genes with this term (or a child term) = 4389
+		Genes:
+			CC1G_00827T0
+				0004421 - hydroxymethylglutaryl\-CoA synthase activity 
+				0008299 - isoprenoid biosynthetic process 
+			CC1G_00829T0
+				0006744 - ubiquinone biosynthetic process 
+				0008425 - 2\-polyprenyl\-6\-methoxy\-1\,4\-benzoquinone methyltransferase activity 
+			CC1G_00830T0
+				0005524 - ATP binding 
+				0006754 - ATP biosynthetic process 
+				0016021 - integral to membrane 
+			CC1G_00833T0
+				0005515 - protein binding 
+			CC1G_00834T0
+				0000030 - mannosyltransferase activity 
+				0006493 - protein amino acid O\-linked glycosylation 
+				0016020 - membrane 
+			CC1G_00835T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_00837T0
+				0004124 - cysteine synthase activity 
+				0006535 - cysteine biosynthetic process from serine 
+			CC1G_00839T0
+				0016773 - phosphotransferase activity\, alcohol group as acceptor 
+			CC1G_00840T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00842T0
+				0005524 - ATP binding 
+			CC1G_00844T0
+				0006979 - response to oxidative stress 
+				0009055 - electron carrier activity 
+			CC1G_14823T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_00849T0
+				0003676 - nucleic acid binding 
+			CC1G_00850T0
+				0006457 - protein folding 
+				0031072 - heat shock protein binding 
+			CC1G_00851T0
+				0006508 - proteolysis 
+				0008237 - metallopeptidase activity 
+			CC1G_00852T0
+				0005524 - ATP binding 
+				0007242 - intracellular signaling cascade 
+			CC1G_00853T0
+				0005515 - protein binding 
+				0006350 - transcription 
+			CC1G_00854T0
+				0016491 - oxidoreductase activity 
+				0055114 - oxidation reduction 
+			CC1G_00855T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00857T0
+				0004221 - ubiquitin thiolesterase activity 
+				0006511 - ubiquitin\-dependent protein catabolic process 
+			CC1G_00858T0
+				0004371 - glycerone kinase activity 
+				0006071 - glycerol metabolic process 
+			CC1G_00859T0
+				0016021 - integral to membrane 
+				0022891 - substrate\-specific transmembrane transporter activity 
+				0055085 - transmembrane transport 
+			CC1G_00860T0
+				0004408 - holocytochrome\-c synthase activity 
+				0005739 - mitochondrion 
+			CC1G_00861T0
+				0005744 - mitochondrial inner membrane presequence translocase complex 
+				0006886 - intracellular protein transport 
+				0015450 - P\-P\-bond\-hydrolysis\-driven protein transmembrane transporter activity 
+			CC1G_00862T0
+				0017111 - nucleoside\-triphosphatase activity 
+			CC1G_00866T0
+				0005975 - carbohydrate metabolic process 
+				0016868 - intramolecular transferase activity\, phosphotransferases 
+			CC1G_00868T0
+				0003677 - DNA binding 
+				0006342 - chromatin silencing 
+			CC1G_00872T0
+				0005524 - ATP binding 
+				0006306 - DNA methylation 
+			CC1G_00873T0
+				0003824 - catalytic activity 
+				0016020 - membrane 
+			CC1G_00876T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006464 - protein modification process 
+			CC1G_00877T0
+				0005524 - ATP binding 
+				0005663 - DNA replication factor C complex 
+				0006260 - DNA replication 
+			CC1G_00878T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_00879T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_00882T0
+				0000159 - protein phosphatase type 2A complex 
+				0007165 - signal transduction 
+				0008601 - protein phosphatase type 2A regulator activity 
+			CC1G_00883T0
+				0004129 - cytochrome\-c oxidase activity 
+				0005746 - mitochondrial respiratory chain 
+				0022904 - respiratory electron transport chain 
+			CC1G_00884T0
+				0006457 - protein folding 
+				0031072 - heat shock protein binding 
+			CC1G_00889T0
+				0005488 - binding 
+			CC1G_00891T0
+				0007154 - cell communication 
+				0035091 - phosphoinositide binding 
+			CC1G_00892T0
+				0000151 - ubiquitin ligase complex 
+				0003676 - nucleic acid binding 
+				0005634 - nucleus 
+				0016567 - protein ubiquitination 
+			CC1G_00894T0
+				0005488 - binding 
+			CC1G_00895T0
+				0005515 - protein binding 
+			CC1G_14830T0
+				0005515 - protein binding 
+			CC1G_00897T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_00900T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_00901T0
+				0005975 - carbohydrate metabolic process 
+				0016773 - phosphotransferase activity\, alcohol group as acceptor 
+			CC1G_00904T0
+				0016787 - hydrolase activity 
+			CC1G_00908T0
+				0003899 - DNA\-directed RNA polymerase activity 
+				0006350 - transcription 
+			CC1G_00909T0
+				0001522 - pseudouridine synthesis 
+				0009982 - pseudouridine synthase activity 
+			CC1G_14831T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0006310 - DNA recombination 
+			CC1G_14832T0
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+				0043565 - sequence\-specific DNA binding 
+			CC1G_00913T0
+				0005488 - binding 
+			CC1G_00914T0
+				0005515 - protein binding 
+				0006886 - intracellular protein transport 
+				0030131 - clathrin adaptor complex 
+				0044431 - Golgi apparatus part 
+			CC1G_00916T0
+				0004185 - serine\-type carboxypeptidase activity 
+				0006508 - proteolysis 
+			CC1G_00917T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_00920T0
+				0004489 - methylenetetrahydrofolate reductase (NADPH) activity 
+				0006555 - methionine metabolic process 
+			CC1G_00923T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00924T0
+				0003777 - microtubule motor activity 
+				0005875 - microtubule associated complex 
+				0007017 - microtubule\-based process 
+			CC1G_00925T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_00926T0
+				0000059 - protein import into nucleus\, docking 
+				0005488 - binding 
+				0005643 - nuclear pore 
+				0005737 - cytoplasm 
+			CC1G_00927T0
+				0004158 - dihydroorotate oxidase activity 
+				0006207 - 'de novo' pyrimidine base biosynthetic process 
+				0016020 - membrane 
+			CC1G_00931T0
+				0016021 - integral to membrane 
+				0022891 - substrate\-specific transmembrane transporter activity 
+				0055085 - transmembrane transport 
+			CC1G_00934T0
+				0016787 - hydrolase activity 
+			CC1G_00936T0
+				0005515 - protein binding 
+			CC1G_00937T0
+				0003676 - nucleic acid binding 
+				0005622 - intracellular 
+			CC1G_00938T0
+				0009058 - biosynthetic process 
+				0016779 - nucleotidyltransferase activity 
+			CC1G_00939T0
+				0004497 - monooxygenase activity 
+				0008152 - metabolic process 
+			CC1G_00940T0
+				0004148 - dihydrolipoyl dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_00941T0
+				0004497 - monooxygenase activity 
+				0008152 - metabolic process 
+			CC1G_14835T0
+				0003989 - acetyl\-CoA carboxylase activity 
+				0006633 - fatty acid biosynthetic process 
+			CC1G_14836T0
+				0005524 - ATP binding 
+				0009435 - NAD biosynthetic process 
+			CC1G_00949T0
+				0006744 - ubiquinone biosynthetic process 
+				0050660 - FAD binding 
+			CC1G_14837T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_00960T0
+				0003677 - DNA binding 
+				0045449 - regulation of transcription 
+			CC1G_00963T0
+				0005488 - binding 
+				0006810 - transport 
+				0016020 - membrane 
+			CC1G_00964T0
+				0008686 - 3\,4\-dihydroxy\-2\-butanone\-4\-phosphate synthase activity 
+				0009231 - riboflavin biosynthetic process 
+			CC1G_00965T0
+				0005515 - protein binding 
+			CC1G_00966T0
+				0008152 - metabolic process 
+				0016491 - oxidoreductase activity 
+			CC1G_00971T0
+				0005515 - protein binding 
+			CC1G_00973T0
+				0005975 - carbohydrate metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_00977T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0005975 - carbohydrate metabolic process 
+			CC1G_00978T0
+				0031072 - heat shock protein binding 
+			CC1G_00980T0
+				0005515 - protein binding 
+			CC1G_00981T0
+				0005515 - protein binding 
+			CC1G_00984T0
+				0003677 - DNA binding 
+				0006342 - chromatin silencing 
+			CC1G_00986T0
+				0003723 - RNA binding 
+				0005737 - cytoplasm 
+				0006413 - translational initiation 
+			CC1G_00987T0
+				0008113 - peptide\-methionine\-(S)\-S\-oxide reductase activity 
+			CC1G_00990T0
+				0005247 - voltage\-gated chloride channel activity 
+				0006821 - chloride transport 
+				0016020 - membrane 
+			CC1G_00992T0
+				0004725 - protein tyrosine phosphatase activity 
+				0006470 - protein amino acid dephosphorylation 
+			CC1G_00996T0
+				0005622 - intracellular 
+				0008270 - zinc ion binding 
+			CC1G_00997T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_00998T0
+				0031072 - heat shock protein binding 
+			CC1G_01000T0
+				0005488 - binding 
+				0008152 - metabolic process 
+			CC1G_01001T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_01002T0
+				0016972 - thiol oxidase activity 
+				0055114 - oxidation reduction 
+			CC1G_01003T0
+				0005515 - protein binding 
+			CC1G_08987T0
+				0005515 - protein binding 
+			CC1G_08989T0
+				0005385 - zinc ion transmembrane transporter activity 
+				0006829 - zinc ion transport 
+				0016021 - integral to membrane 
+			CC1G_08993T0
+				0008152 - metabolic process 
+				0008168 - methyltransferase activity 
+			CC1G_08995T0
+				0005488 - binding 
+			CC1G_08998T0
+				0005515 - protein binding 
+			CC1G_08999T0
+				0003723 - RNA binding 
+				0005840 - ribosome 
+				0006412 - translation 
+			CC1G_09000T0
+				0015986 - ATP synthesis coupled proton transport 
+				0045261 - proton\-transporting ATP synthase complex\, catalytic core F(1) 
+				0046933 - hydrogen ion transporting ATP synthase activity\, rotational mechanism 
+			CC1G_09001T0
+				0004350 - glutamate\-5\-semialdehyde dehydrogenase activity 
+				0006561 - proline biosynthetic process 
+			CC1G_09004T0
+				0030118 - clathrin coat 
+				0030276 - clathrin binding 
+				0048268 - clathrin coat assembly 
+			CC1G_09005T0
+				0005509 - calcium ion binding 
+				0016020 - membrane 
+			CC1G_09006T0
+				0004370 - glycerol kinase activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_09008T0
+				0005488 - binding 
+			CC1G_14846T0
+				0005089 - Rho guanyl\-nucleotide exchange factor activity 
+				0005622 - intracellular 
+				0035023 - regulation of Rho protein signal transduction 
+			CC1G_09013T0
+				0005975 - carbohydrate metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_09015T0
+				0005524 - ATP binding 
+				0005634 - nucleus 
+				0005737 - cytoplasm 
+				0030163 - protein catabolic process 
+			CC1G_09016T0
+				0003676 - nucleic acid binding 
+			CC1G_09018T0
+				0009166 - nucleotide catabolic process 
+				0016787 - hydrolase activity 
+			CC1G_09019T0
+				0006508 - proteolysis 
+				0008237 - metallopeptidase activity 
+			CC1G_14848T0
+				0006812 - cation transport 
+				0008324 - cation transmembrane transporter activity 
+				0016020 - membrane 
+			CC1G_09022T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_09025T0
+				0016491 - oxidoreductase activity 
+			CC1G_09028T0
+				0016884 - carbon\-nitrogen ligase activity\, with glutamine as amido\-N\-donor 
+			CC1G_09031T0
+				0005488 - binding 
+			CC1G_09032T0
+				0000166 - nucleotide binding 
+				0005634 - nucleus 
+				0006397 - mRNA processing 
+			CC1G_09033T0
+				0016884 - carbon\-nitrogen ligase activity\, with glutamine as amido\-N\-donor 
+			CC1G_09034T0
+				0000786 - nucleosome 
+				0003677 - DNA binding 
+				0005634 - nucleus 
+				0006334 - nucleosome assembly 
+			CC1G_09035T0
+				0003725 - double\-stranded RNA binding 
+				0005622 - intracellular 
+				0006396 - RNA processing 
+			CC1G_14854T0
+				0005375 - copper ion transmembrane transporter activity 
+				0006825 - copper ion transport 
+				0016021 - integral to membrane 
+			CC1G_09041T0
+				0003676 - nucleic acid binding 
+			CC1G_12046T0
+				0005488 - binding 
+				0005743 - mitochondrial inner membrane 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_14858T0
+				0016740 - transferase activity 
+			CC1G_12049T0
+				0004135 - amylo\-alpha\-1\,6\-glucosidase activity 
+				0005978 - glycogen biosynthetic process 
+			CC1G_14861T0
+				0005524 - ATP binding 
+			CC1G_12054T0
+				0003677 - DNA binding 
+				0005666 - DNA\-directed RNA polymerase III complex 
+				0006383 - transcription from RNA polymerase III promoter 
+			CC1G_12055T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_12056T0
+				0003702 - RNA polymerase II transcription factor activity 
+				0005634 - nucleus 
+				0006352 - transcription initiation 
+			CC1G_12057T0
+				0008152 - metabolic process 
+				0016491 - oxidoreductase activity 
+			CC1G_14863T0
+				0005524 - ATP binding 
+				0006310 - DNA recombination 
+			CC1G_13163T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_13164T0
+				0004385 - guanylate kinase activity 
+				0006163 - purine nucleotide metabolic process 
+			CC1G_13165T0
+				0005524 - ATP binding 
+				0006810 - transport 
+				0016021 - integral to membrane 
+			CC1G_12906T0
+				0003676 - nucleic acid binding 
+			CC1G_11555T0
+				0005506 - iron ion binding 
+				0005783 - endoplasmic reticulum 
+				0006633 - fatty acid biosynthetic process 
+			CC1G_11557T0
+				0008652 - amino acid biosynthetic process 
+				0009337 - sulfite reductase complex (NADPH) 
+				0051539 - 4 iron\, 4 sulfur cluster binding 
+			CC1G_11558T0
+				0005737 - cytoplasm 
+				0006629 - lipid metabolic process 
+				0016021 - integral to membrane 
+				0016627 - oxidoreductase activity\, acting on the CH\-CH group of donors 
+			CC1G_14865T0
+				0005524 - ATP binding 
+				0006468 - protein amino acid phosphorylation 
+			CC1G_11568T0
+				0003735 - structural constituent of ribosome 
+				0006412 - translation 
+				0015935 - small ribosomal subunit 
+			CC1G_11569T0
+				0003735 - structural constituent of ribosome 
+				0005840 - ribosome 
+				0006414 - translational elongation 
+			CC1G_11570T0
+				0003700 - transcription factor activity 
+				0005634 - nucleus 
+				0006355 - regulation of transcription\, DNA\-dependent 
+			CC1G_11571T0
+				0015992 - proton transport 
+				0016471 - vacuolar proton\-transporting V\-type ATPase complex 
+				0016820 - hydrolase activity\, acting on acid anhydrides\, catalyzing transmembrane movement of substances 
+
+
+Group # : 20, #Clusters : 1, 0003755 : peptidyl\-prolyl cis\-trans isomerase activity 
+
+	Cluster 20, 0003755 : peptidyl\-prolyl cis\-trans isomerase activity 
+		E = 3.03208e-05
+		P = 2.26681e-09
+		Cluster size = 18
+		Number of genes in this cluster = 4, chromosome # = 10
+		Number of genes with this term (or a child term) = 14
+		Genes:
+			CC1G_14910T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+				0005681 - spliceosome 
+				0005737 - cytoplasm 
+				0006397 - mRNA processing 
+			CC1G_05933T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+			CC1G_14913T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+				0006457 - protein folding 
+			CC1G_05946T0
+				0003755 - peptidyl\-prolyl cis\-trans isomerase activity 
+
+
+Group # : 21, #Clusters : 1, 0016052 : carbohydrate catabolic process 
+
+	Cluster 21, 0016052 : carbohydrate catabolic process 
+		E = 3.35283e-05
+		P = 2.51186e-09
+		Cluster size = 46
+		Number of genes in this cluster = 6, chromosome # = 9
+		Number of genes with this term (or a child term) = 37
+		Genes:
+			CC1G_11986T0
+				0005524 - ATP binding 
+				0006096 - glycolysis 
+			CC1G_09499T0
+				0005576 - extracellular region 
+				0016052 - carbohydrate catabolic process 
+				0030248 - cellulose binding 
+			CC1G_09518T0
+				0016052 - carbohydrate catabolic process 
+				0030246 - carbohydrate binding 
+			CC1G_09523T0
+				0005576 - extracellular region 
+				0016052 - carbohydrate catabolic process 
+				0030248 - cellulose binding 
+			CC1G_09524T0
+				0005576 - extracellular region 
+				0016052 - carbohydrate catabolic process 
+				0030248 - cellulose binding 
+			CC1G_09535T0
+				0016052 - carbohydrate catabolic process 
+				0030246 - carbohydrate binding 
+
+
+Group # : 22, #Clusters : 1, 0004198 : calcium\-dependent cysteine\-type endopeptidase activity 
+
+	Cluster 22, 0004198 : calcium\-dependent cysteine\-type endopeptidase activity 
+		E = 3.74269e-05
+		P = 2.79555e-09
+		Cluster size = 6
+		Number of genes in this cluster = 3, chromosome # = 12
+		Number of genes with this term (or a child term) = 8
+		Genes:
+			CC1G_07471T0
+				0004198 - calcium\-dependent cysteine\-type endopeptidase activity 
+				0005622 - intracellular 
+				0006508 - proteolysis 
+			CC1G_07472T0
+				0004198 - calcium\-dependent cysteine\-type endopeptidase activity 
+				0005622 - intracellular 
+				0006508 - proteolysis 
+			CC1G_07476T0
+				0004198 - calcium\-dependent cysteine\-type endopeptidase activity 
+				0005622 - intracellular 
+				0006508 - proteolysis 
+
+
+Group # : 23, #Clusters : 1, 0008270 : zinc ion binding 
+
+	Cluster 23, 0008270 : zinc ion binding 
+		E = 5.54815e-05
+		P = 4.14443e-09
+		Cluster size = 7
+		Number of genes in this cluster = 5, chromosome # = 6
+		Number of genes with this term (or a child term) = 156
+		Genes:
+			CC1G_14308T0
+				0008270 - zinc ion binding 
+			CC1G_09295T0
+				0008270 - zinc ion binding 
+			CC1G_09298T0
+				0008270 - zinc ion binding 
+			CC1G_09299T0
+				0008270 - zinc ion binding 
+			CC1G_09300T0
+				0008270 - zinc ion binding 
+
+
+Group # : 24, #Clusters : 1, 0005975 : carbohydrate metabolic process 
+
+	Cluster 24, 0005975 : carbohydrate metabolic process 
+		E = 6.63937e-05
+		P = 4.9603e-09
+		Cluster size = 9
+		Number of genes in this cluster = 6, chromosome # = 7
+		Number of genes with this term (or a child term) = 269
+		Genes:
+			CC1G_04162T0
+				0005975 - carbohydrate metabolic process 
+				0016810 - hydrolase activity\, acting on carbon\-nitrogen (but not peptide) bonds 
+			CC1G_04165T0
+				0003824 - catalytic activity 
+				0005975 - carbohydrate metabolic process 
+			CC1G_04166T0
+				0004553 - hydrolase activity\, hydrolyzing O\-glycosyl compounds 
+				0030245 - cellulose catabolic process 
+			CC1G_04168T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_04169T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+			CC1G_04170T0
+				0005576 - extracellular region 
+				0005975 - carbohydrate metabolic process 
+				0030248 - cellulose binding 
+
+
+Group # : 25, #Clusters : 1, 0003887 : DNA\-directed DNA polymerase activity 
+
+	Cluster 25, 0003887 : DNA\-directed DNA polymerase activity 
+		E = 0.000121517
+		P = 9.08199e-09
+		Cluster size = 14
+		Number of genes in this cluster = 3, chromosome # = 11
+		Number of genes with this term (or a child term) = 5
+		Genes:
+			CC1G_07196T0
+				0003887 - DNA\-directed DNA polymerase activity 
+				0006260 - DNA replication 
+			CC1G_11689T0
+				0003887 - DNA\-directed DNA polymerase activity 
+				0006260 - DNA replication 
+			CC1G_11690T0
+				0003887 - DNA\-directed DNA polymerase activity 
+				0006260 - DNA replication 
+
+
+Group # : 26, #Clusters : 1, 0003995 : acyl\-CoA dehydrogenase activity 
+
+	Cluster 26, 0003995 : acyl\-CoA dehydrogenase activity 
+		E = 0.000140238
+		P = 1.04757e-08
+		Cluster size = 7
+		Number of genes in this cluster = 3, chromosome # = 7
+		Number of genes with this term (or a child term) = 10
+		Genes:
+			CC1G_06402T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_06403T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+			CC1G_06408T0
+				0003995 - acyl\-CoA dehydrogenase activity 
+				0008152 - metabolic process 
+
+
+Group # : 27, #Clusters : 1, 0050660 : FAD binding 
+
+	Cluster 27, 0050660 : FAD binding 
+		E = 0.000190623
+		P = 1.42383e-08
+		Cluster size = 6
+		Number of genes in this cluster = 4, chromosome # = 6
+		Number of genes with this term (or a child term) = 76
+		Genes:
+			CC1G_09287T0
+				0050660 - FAD binding 
+			CC1G_09288T0
+				0050660 - FAD binding 
+			CC1G_09291T0
+				0050660 - FAD binding 
+			CC1G_09292T0
+				0050660 - FAD binding 
+
+
+Group # : 28, #Clusters : 1, 0008233 : peptidase activity 
+
+	Cluster 28, 0008233 : peptidase activity 
+		E = 0.00029699
+		P = 2.22215e-08
+		Cluster size = 29
+		Number of genes in this cluster = 7, chromosome # = 10
+		Number of genes with this term (or a child term) = 148
+		Genes:
+			CC1G_05897T0
+				0004198 - calcium\-dependent cysteine\-type endopeptidase activity 
+				0005622 - intracellular 
+				0006508 - proteolysis 
+			CC1G_05906T0
+				0004198 - calcium\-dependent cysteine\-type endopeptidase activity 
+				0005622 - intracellular 
+				0006508 - proteolysis 
+			CC1G_05911T0
+				0004252 - serine\-type endopeptidase activity 
+				0006508 - proteolysis 
+			CC1G_05917T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_05918T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_05923T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+			CC1G_05925T0
+				0006508 - proteolysis 
+				0008233 - peptidase activity 
+
+
+Group # : 29, #Clusters : 1, 0015520 : tetracycline\:hydrogen antiporter activity 
+
+	Cluster 29, 0015520 : tetracycline\:hydrogen antiporter activity 
+		E = 0.000334794
+		P = 2.50933e-08
+		Cluster size = 52
+		Number of genes in this cluster = 4, chromosome # = 7
+		Number of genes with this term (or a child term) = 9
+		Genes:
+			CC1G_07610T0
+				0015520 - tetracycline\:hydrogen antiporter activity 
+				0016021 - integral to membrane 
+				0046677 - response to antibiotic 
+			CC1G_10056T0
+				0015520 - tetracycline\:hydrogen antiporter activity 
+				0016021 - integral to membrane 
+				0046677 - response to antibiotic 
+			CC1G_10057T0
+				0015520 - tetracycline\:hydrogen antiporter activity 
+				0016021 - integral to membrane 
+				0046677 - response to antibiotic 
+			CC1G_10068T0
+				0015520 - tetracycline\:hydrogen antiporter activity 
+				0016021 - integral to membrane 
+				0046677 - response to antibiotic 
+
+
+Group # : 30, #Clusters : 1, 0009055 : electron carrier activity 
+
+	Cluster 30, 0009055 : electron carrier activity 
+		E = 0.000514562
+		P = 3.84288e-08
+		Cluster size = 4
+		Number of genes in this cluster = 4, chromosome # = 12
+		Number of genes with this term (or a child term) = 189
+		Genes:
+			CC1G_15166T0
+				0009055 - electron carrier activity 
+				0016021 - integral to membrane 
+			CC1G_02506T0
+				0009055 - electron carrier activity 
+			CC1G_02507T0
+				0009055 - electron carrier activity 
+			CC1G_02508T0
+				0009055 - electron carrier activity 
+
+
+Group # : 31, #Clusters : 1, 0016772 : transferase activity\, transferring phosphorus\-containing groups 
+
+	Cluster 31, 0016772 : transferase activity\, transferring phosphorus\-containing groups 
+		E = 0.00070778
+		P = 5.28747e-08
+		Cluster size = 8
+		Number of genes in this cluster = 4, chromosome # = 4
+		Number of genes with this term (or a child term) = 72
+		Genes:
+			CC1G_07962T0
+				0016307 - phosphatidylinositol phosphate kinase activity 
+				0046488 - phosphatidylinositol metabolic process 
+			CC1G_07965T0
+				0005975 - carbohydrate metabolic process 
+				0016773 - phosphotransferase activity\, alcohol group as acceptor 
+			CC1G_07968T0
+				0016779 - nucleotidyltransferase activity 
+			CC1G_07969T0
+				0016779 - nucleotidyltransferase activity 
+
+
+Group # : 32, #Clusters : 1, 0008270 : zinc ion binding 
+
+	Cluster 32, 0008270 : zinc ion binding 
+		E = 0.000808153
+		P = 6.05494e-08
+		Cluster size = 47
+		Number of genes in this cluster = 8, chromosome # = 7
+		Number of genes with this term (or a child term) = 156
+		Genes:
+			CC1G_09050T0
+				0008270 - zinc ion binding 
+			CC1G_09064T0
+				0008270 - zinc ion binding 
+			CC1G_09065T0
+				0008270 - zinc ion binding 
+			CC1G_09072T0
+				0008270 - zinc ion binding 
+			CC1G_09073T0
+				0008270 - zinc ion binding 
+			CC1G_09087T0
+				0008270 - zinc ion binding 
+			CC1G_09090T0
+				0008270 - zinc ion binding 
+			CC1G_12395T0
+				0008270 - zinc ion binding 
+
+
